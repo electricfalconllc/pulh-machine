@@ -1,0 +1,2282 @@
+Period 1
+{
+  period: 1,
+  blueScore: 5,
+  greenScore: 1,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '104.8436'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '137.4269'
+    },
+    {
+      team: 'blue',
+      scorer: 'DontToewsMeBro0',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '82.74304'
+    },
+    {
+      team: 'blue',
+      scorer: 'DontToewsMeBro0',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '148.0597'
+    },
+    {
+      team: 'blue',
+      scorer: 'DontToewsMeBro0',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '361.3264'
+    },
+    {
+      team: 'blue',
+      scorer: 'DontToewsMeBro0',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '464.7264'
+    },
+    {
+      team: 'blue',
+      scorer: 'DontToewsMeBro0',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '496.7598'
+    },
+    {
+      team: 'green',
+      scorer: '',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1077.043'
+    }
+  ],
+  pipeHits: [],
+  startTime: 168.05,
+  endTime: 1951.381,
+  periodOver: true,
+  players: {
+    wraithwon: {
+      team: 'blue',
+      goals: 4,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    DontToewsMeBro0: {
+      team: 'blue',
+      goals: 10,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    '': {
+      team: 'green',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 0,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  winTeam: 'blue',
+  teams: {
+    blue: { hits: 0, checked: 0, posessions: 4, pipehits: 0, goals: 14 },
+    green: { hits: 0, checked: 0, posessions: 0, pipehits: 0, goals: 2 }
+  }
+}
+------------------
+Period 2
+{
+  period: 2,
+  blueScore: 6,
+  greenScore: 12,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '22.56177'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '35.54492'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '76.52832'
+    },
+    {
+      team: 'green',
+      scorer: '',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '184.3118'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '206.845'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '123.1523'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '144.519'
+    },
+    {
+      team: 'blue',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '42.99146'
+    },
+    {
+      team: 'blue',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '108.7249'
+    },
+    {
+      team: 'blue',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '193.7415'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '241.9915'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '464.9915'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '478.075'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '549.3918'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '63.65771'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '80.27441'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '122.2075'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '178.2578'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '228.9409'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '254.2241'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '316.8579'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '366.2744'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '399.041'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '688.7246'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '29.12891'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '49.0791'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '68.7959'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '188.6123'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '226.0122'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '317.0791'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '337.6792'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '404.5791'
+    },
+    {
+      team: 'blue',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '508.7959'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '720.229'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '748.1294'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '760.9956'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '920.1626'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1017.363'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1042.096'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1102.129'
+    },
+    {
+      team: 'blue',
+      scorer: 'wraithwon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1139.913'
+    },
+    {
+      team: 'green',
+      scorer: 'Dr3wbis',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1151.313'
+    }
+  ],
+  pipeHits: [],
+  startTime: 1951.381,
+  endTime: 6489.167,
+  periodOver: true,
+  players: {
+    wraithwon: {
+      team: 'blue',
+      goals: 9,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 25,
+      checked: 25,
+      posessions: 2,
+      pipehits: 0,
+      periods: 1
+    },
+    '': {
+      team: 'green',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    'OL TWO HANDS': {
+      team: 'blue',
+      goals: 34,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 14,
+      checked: 14,
+      posessions: 6,
+      pipehits: 0,
+      periods: 0
+    },
+    '(discord) dotjson': {
+      team: 'blue',
+      goals: 6,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 14,
+      checked: 14,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    Dr3wbis: {
+      team: 'green',
+      goals: 24,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 50,
+      checked: 50,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  winTeam: 'green',
+  teams: {
+    blue: { hits: 33, checked: 33, posessions: 5, pipehits: 0, goals: 23 },
+    green: { hits: 31, checked: 31, posessions: 2, pipehits: 0, goals: 19 }
+  }
+}
+------------------
+Period 3
+{
+  period: 3,
+  blueScore: 6,
+  greenScore: 8,
+  goals: [
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '135.3052'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '235.0386'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '445.4551'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '545.4551'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '574.6553'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '654.772'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '747.3389'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '762.522'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '858.4053'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '873.0889'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '897.7222'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '927.1719'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1040.255'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1142.472'
+    }
+  ],
+  pipeHits: [],
+  startTime: 6489.167,
+  endTime: 7887.814,
+  periodOver: true,
+  players: {
+    'OL TWO HANDS': {
+      team: 'green',
+      goals: 8,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 69,
+      checked: 67,
+      posessions: 1,
+      pipehits: 0,
+      periods: 1
+    },
+    wraithwon: {
+      team: '',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 3,
+      checked: 3,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    'get on discord': {
+      team: 'blue',
+      goals: 4,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 6,
+      checked: 6,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    WRAITH: {
+      team: 'blue',
+      goals: 8,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 122,
+      checked: 126,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  winTeam: 'green',
+  teams: {
+    green: { hits: 69, checked: 67, posessions: 1, pipehits: 0, goals: 8 },
+    blue: { hits: 64, checked: 66, posessions: 2, pipehits: 0, goals: 6 }
+  }
+}
+------------------
+Period 4
+{
+  period: 4,
+  blueScore: 11,
+  greenScore: 0,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '78.75391'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '125.4375'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '155.3042'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '260.0708'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '303.7539'
+    },
+    {
+      team: 'blue',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '360.2378'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '76.82129'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '96.12109'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '172.0049'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '184.0381'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '196.9551'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '209.0713'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '221.8047'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '240.4883'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '252.7383'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '285.3711'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '305.7383'
+    }
+  ],
+  pipeHits: [],
+  startTime: 7887.814,
+  endTime: 10911,
+  periodOver: true,
+  players: {
+    'OL TWO HANDS': {
+      team: 'green',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 30,
+      checked: 30,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    WRAITH: {
+      team: 'blue',
+      goals: 4,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 30,
+      checked: 30,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    Kira47: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    bigbootyjudy: {
+      team: 'blue',
+      goals: 22,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  winTeam: 'blue',
+  teams: {
+    blue: { hits: 26, checked: 26, posessions: 2, pipehits: 0, goals: 15 },
+    green: { hits: 16, checked: 16, posessions: 0, pipehits: 0, goals: 2 }
+  }
+}
+------------------
+Period 5
+{
+  period: 5,
+  blueScore: 6,
+  greenScore: 8,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '280.1719'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: 'MatthewH30',
+      secondaryassist: '',
+      time: '355.7549'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '466.5879'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '506.9551'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '556.9053'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '644.0713'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '682.4717'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '696.5713'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '714.5879'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '756.2217'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '808.8545'
+    },
+    {
+      team: 'blue',
+      scorer: 'UNKNOWN_PLAYER',
+      primaryassist: 'SPACECOW',
+      secondaryassist: 'bigbootyjudy',
+      time: '970.2051'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '985.8711'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'OL TWO HANDS',
+      secondaryassist: 'watermelon',
+      time: '1158.205'
+    }
+  ],
+  pipeHits: [],
+  startTime: 10911,
+  endTime: 12837.94,
+  periodOver: true,
+  players: {
+    watermelon: {
+      team: 'green',
+      goals: 12,
+      primaryassists: 0,
+      secondaryassists: 2,
+      hits: 306,
+      checked: 306,
+      posessions: 60,
+      pipehits: 0,
+      periods: 0
+    },
+    bigbootyjudy: {
+      team: 'blue',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 1,
+      hits: 96,
+      checked: 97,
+      posessions: 23,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'blue',
+      goals: 8,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 176,
+      checked: 180,
+      posessions: 52,
+      pipehits: 0,
+      periods: 0
+    },
+    MatthewH30: {
+      team: 'green',
+      goals: 0,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 72,
+      checked: 74,
+      posessions: 12,
+      pipehits: 0,
+      periods: 0
+    },
+    WRAITH: {
+      team: 'green',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 52,
+      checked: 49,
+      posessions: 22,
+      pipehits: 0,
+      periods: 1
+    },
+    UNKNOWN_PLAYER: {
+      team: 'blue',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 58,
+      checked: 58,
+      posessions: 24,
+      pipehits: 0,
+      periods: 0
+    },
+    'OL TWO HANDS': {
+      team: 'green',
+      goals: 0,
+      primaryassists: 1,
+      secondaryassists: 0,
+      hits: 13,
+      checked: 12,
+      posessions: 4,
+      pipehits: 0,
+      periods: 1
+    }
+  },
+  winTeam: 'green',
+  teams: {
+    green: { hits: 251, checked: 249, posessions: 62, pipehits: 0, goals: 8 },
+    blue: { hits: 192, checked: 195, posessions: 61, pipehits: 0, goals: 6 }
+  }
+}
+------------------
+Period 6
+{
+  period: 6,
+  blueScore: 5,
+  greenScore: 8,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: 'UNKNOWN_PLAYER',
+      secondaryassist: '',
+      time: '32.06543'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'watermelon',
+      secondaryassist: '',
+      time: '47.46582'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'OL TWO HANDS',
+      secondaryassist: '',
+      time: '196.2656'
+    },
+    {
+      team: 'green',
+      scorer: 'watermelon',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '227.3486'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'UNKNOWN_PLAYER',
+      secondaryassist: 'bigbootyjudy',
+      time: '239.9326'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'OL TWO HANDS',
+      secondaryassist: 'watermelon',
+      time: '289.9326'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '382.916'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '428.6992'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '465.3818'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'OL TWO HANDS',
+      secondaryassist: 'watermelon',
+      time: '581.2822'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '653.1494'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '701.0322'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1178.065'
+    }
+  ],
+  pipeHits: [],
+  startTime: 12837.94,
+  endTime: 14037.91,
+  periodOver: true,
+  players: {
+    watermelon: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 1,
+      secondaryassists: 2,
+      hits: 165,
+      checked: 164,
+      posessions: 41,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'blue',
+      goals: 3,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 145,
+      checked: 149,
+      posessions: 41,
+      pipehits: 0,
+      periods: 1
+    },
+    UNKNOWN_PLAYER: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 123,
+      checked: 122,
+      posessions: 33,
+      pipehits: 0,
+      periods: 1
+    },
+    'OL TWO HANDS': {
+      team: 'green',
+      goals: 2,
+      primaryassists: 3,
+      secondaryassists: 0,
+      hits: 111,
+      checked: 108,
+      posessions: 45,
+      pipehits: 0,
+      periods: 1
+    },
+    WRAITH: {
+      team: 'green',
+      goals: 5,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 128,
+      checked: 127,
+      posessions: 46,
+      pipehits: 0,
+      periods: 1
+    },
+    bigbootyjudy: {
+      team: 'blue',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 1,
+      hits: 157,
+      checked: 159,
+      posessions: 39,
+      pipehits: 0,
+      periods: 1
+    },
+    nb28: {
+      team: 'green',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 26,
+      checked: 26,
+      posessions: 12,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  winTeam: 'green',
+  teams: {
+    green: { hits: 414, checked: 409, posessions: 138, pipehits: 0, goals: 8 },
+    blue: { hits: 410, checked: 415, posessions: 113, pipehits: 0, goals: 5 }
+  }
+}
+------------------
+Period 7
+{
+  period: 7,
+  blueScore: 3,
+  greenScore: 6,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'UNKNOWN_PLAYER',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '46.04199'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '191.9922'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '447.0088'
+    },
+    {
+      team: 'green',
+      scorer: 'OL TWO HANDS',
+      primaryassist: 'nb28',
+      secondaryassist: 'WRAITH',
+      time: '469.7588'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '518.1758'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '613.6924'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'trentonlavenski',
+      secondaryassist: '',
+      time: '736.6426'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'nb28',
+      secondaryassist: '',
+      time: '866.9756'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: 'OL TWO HANDS',
+      secondaryassist: '',
+      time: '1175.143'
+    }
+  ],
+  pipeHits: [],
+  startTime: 14037.91,
+  endTime: 15237.86,
+  periodOver: true,
+  players: {
+    'get on discord': {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 89,
+      checked: 87,
+      posessions: 25,
+      pipehits: 0,
+      periods: 1
+    },
+    'OL TWO HANDS': {
+      team: 'green',
+      goals: 1,
+      primaryassists: 1,
+      secondaryassists: 0,
+      hits: 100,
+      checked: 100,
+      posessions: 33,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'blue',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 131,
+      checked: 133,
+      posessions: 44,
+      pipehits: 0,
+      periods: 1
+    },
+    UNKNOWN_PLAYER: {
+      team: 'blue',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 42,
+      checked: 41,
+      posessions: 11,
+      pipehits: 0,
+      periods: 1
+    },
+    nb28: {
+      team: 'green',
+      goals: 3,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 131,
+      checked: 126,
+      posessions: 39,
+      pipehits: 0,
+      periods: 1
+    },
+    WRAITH: {
+      team: 'green',
+      goals: 2,
+      primaryassists: 0,
+      secondaryassists: 1,
+      hits: 104,
+      checked: 106,
+      posessions: 35,
+      pipehits: 0,
+      periods: 1
+    },
+    trentonlavenski: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 270,
+      checked: 278,
+      posessions: 62,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  winTeam: 'green',
+  teams: {
+    blue: { hits: 393, checked: 396, posessions: 111, pipehits: 0, goals: 3 },
+    green: { hits: 335, checked: 332, posessions: 107, pipehits: 0, goals: 6 }
+  }
+}
+------------------
+Period 8
+{
+  period: 8,
+  blueScore: 8,
+  greenScore: 7,
+  goals: [
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '64.84277'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'get on discord',
+      secondaryassist: '',
+      time: '110.2598'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '164.8096'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '231.0596'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'get on discord',
+      secondaryassist: '',
+      time: '284.6768'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: 'nb28',
+      secondaryassist: '',
+      time: '318.3594'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '389.0928'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '422.5928'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '484.0098'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '650.3428'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '(discord) dotjson',
+      secondaryassist: '',
+      time: '886.6104'
+    },
+    {
+      team: 'blue',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '930.6436'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '(discord) dotjson',
+      secondaryassist: '',
+      time: '942.3604'
+    },
+    {
+      team: 'green',
+      scorer: 'nb28',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1122.894'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'get on discord',
+      secondaryassist: '(discord) dotjson',
+      time: '1152.977'
+    }
+  ],
+  pipeHits: [],
+  startTime: 15237.86,
+  endTime: 16437.83,
+  periodOver: true,
+  players: {
+    trentonlavenski: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 48,
+      checked: 48,
+      posessions: 7,
+      pipehits: 0,
+      periods: 1
+    },
+    nb28: {
+      team: 'green',
+      goals: 6,
+      primaryassists: 1,
+      secondaryassists: 0,
+      hits: 96,
+      checked: 96,
+      posessions: 41,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'blue',
+      goals: 6,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 104,
+      checked: 104,
+      posessions: 42,
+      pipehits: 0,
+      periods: 1
+    },
+    WRAITH: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 4,
+      secondaryassists: 0,
+      hits: 113,
+      checked: 114,
+      posessions: 42,
+      pipehits: 0,
+      periods: 1
+    },
+    'OL TWO HANDS': {
+      team: 'green',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 4,
+      checked: 3,
+      posessions: 1,
+      pipehits: 0,
+      periods: 1
+    },
+    'get on discord': {
+      team: 'blue',
+      goals: 1,
+      primaryassists: 3,
+      secondaryassists: 0,
+      hits: 114,
+      checked: 114,
+      posessions: 50,
+      pipehits: 0,
+      periods: 1
+    },
+    'home wrecker': {
+      team: 'green',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 58,
+      checked: 58,
+      posessions: 12,
+      pipehits: 0,
+      periods: 0
+    },
+    '(discord) dotjson': {
+      team: 'blue',
+      goals: 1,
+      primaryassists: 2,
+      secondaryassists: 1,
+      hits: 35,
+      checked: 35,
+      posessions: 19,
+      pipehits: 0,
+      periods: 1
+    }
+  },
+  winTeam: 'blue',
+  teams: {
+    blue: { hits: 299, checked: 299, posessions: 118, pipehits: 0, goals: 8 },
+    green: { hits: 229, checked: 229, posessions: 90, pipehits: 0, goals: 7 }
+  }
+}
+------------------
+Period 9
+{
+  period: 9,
+  blueScore: 15,
+  greenScore: 5,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '19.33789'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '57.28711'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '69.1875'
+    },
+    {
+      team: 'green',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '88.9375'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '254.8711'
+    },
+    {
+      team: 'green',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '303.3535'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'get on discord',
+      secondaryassist: '',
+      time: '327.3535'
+    },
+    {
+      team: 'green',
+      scorer: 'UNKNOWN_PLAYER',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '357.3711'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'get on discord',
+      secondaryassist: '',
+      time: '385.2539'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '414.9883'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '427.1699'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '533.8379'
+    },
+    {
+      team: 'green',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '603.1875'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: 'get on discord',
+      secondaryassist: '',
+      time: '627.3047'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '682.5039'
+    },
+    {
+      team: 'blue',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '705.8203'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '839.6543'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '856.0039'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '1015.57'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1053.121'
+    }
+  ],
+  pipeHits: [],
+  startTime: 16437.83,
+  endTime: 17637.87,
+  periodOver: true,
+  players: {
+    SPACECOW: {
+      team: 'blue',
+      goals: 7,
+      primaryassists: 4,
+      secondaryassists: 0,
+      hits: 81,
+      checked: 81,
+      posessions: 57,
+      pipehits: 0,
+      periods: 1
+    },
+    UNKNOWN_PLAYER: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 55,
+      checked: 56,
+      posessions: 11,
+      pipehits: 0,
+      periods: 1
+    },
+    'get on discord': {
+      team: 'blue',
+      goals: 8,
+      primaryassists: 3,
+      secondaryassists: 0,
+      hits: 111,
+      checked: 108,
+      posessions: 56,
+      pipehits: 0,
+      periods: 1
+    },
+    '(discord) dotjson': {
+      team: 'green',
+      goals: 3,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 93,
+      checked: 94,
+      posessions: 32,
+      pipehits: 0,
+      periods: 1
+    },
+    WRAITH: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 32,
+      checked: 33,
+      posessions: 21,
+      pipehits: 0,
+      periods: 1
+    }
+  },
+  winTeam: 'blue',
+  teams: {
+    blue: {
+      hits: 192,
+      checked: 189,
+      posessions: 113,
+      pipehits: 0,
+      goals: 15
+    },
+    green: { hits: 178, checked: 181, posessions: 64, pipehits: 0, goals: 5 }
+  }
+}
+------------------
+Period 10
+{
+  period: 10,
+  blueScore: 7,
+  greenScore: 4,
+  goals: [
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '100.082'
+    },
+    {
+      team: 'green',
+      scorer: '(discord) dotjson',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '172.332'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '349.1816'
+    },
+    {
+      team: 'green',
+      scorer: 'SPACECOW',
+      primaryassist: '(discord) dotjson',
+      secondaryassist: '',
+      time: '382.5645'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '558.416'
+    },
+    {
+      team: 'green',
+      scorer: '(discord) dotjson',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '746.0313'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '809.0645'
+    },
+    {
+      team: 'green',
+      scorer: '(discord) dotjson',
+      primaryassist: 'SPACECOW',
+      secondaryassist: '',
+      time: '841.2148'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: 'WRAITH',
+      secondaryassist: '',
+      time: '956.1484'
+    },
+    {
+      team: 'blue',
+      scorer: 'get on discord',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '1036.133'
+    },
+    {
+      team: 'blue',
+      scorer: 'bigbootyjudy',
+      primaryassist: 'nb28',
+      secondaryassist: '',
+      time: '1163.615'
+    }
+  ],
+  pipeHits: [],
+  startTime: 17646.69,
+  endTime: 18837.82,
+  periodOver: true,
+  players: {
+    WRAITH: {
+      team: 'green',
+      goals: 0,
+      primaryassists: 1,
+      secondaryassists: 0,
+      hits: 49,
+      checked: 50,
+      posessions: 22,
+      pipehits: 0,
+      periods: 1
+    },
+    '(discord) dotjson': {
+      team: 'green',
+      goals: 3,
+      primaryassists: 1,
+      secondaryassists: 0,
+      hits: 74,
+      checked: 72,
+      posessions: 35,
+      pipehits: 0,
+      periods: 1
+    },
+    'get on discord': {
+      team: 'blue',
+      goals: 6,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 125,
+      checked: 124,
+      posessions: 50,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 3,
+      secondaryassists: 0,
+      hits: 134,
+      checked: 137,
+      posessions: 46,
+      pipehits: 0,
+      periods: 1
+    },
+    Kira47: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 85,
+      checked: 84,
+      posessions: 21,
+      pipehits: 0,
+      periods: 1
+    },
+    nb28: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 1,
+      secondaryassists: 0,
+      hits: 12,
+      checked: 12,
+      posessions: 6,
+      pipehits: 0,
+      periods: 1
+    },
+    bigbootyjudy: {
+      team: 'blue',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 25,
+      checked: 25,
+      posessions: 13,
+      pipehits: 0,
+      periods: 1
+    }
+  },
+  winTeam: 'blue',
+  teams: {
+    green: { hits: 216, checked: 218, posessions: 79, pipehits: 0, goals: 4 },
+    blue: { hits: 282, checked: 280, posessions: 114, pipehits: 0, goals: 7 }
+  }
+}
+------------------
+Period 11
+{
+  period: 11,
+  blueScore: 0,
+  greenScore: 2,
+  goals: [
+    {
+      team: 'green',
+      scorer: 'SPACECOW',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '28.88477'
+    },
+    {
+      team: 'green',
+      scorer: 'WRAITH',
+      primaryassist: '',
+      secondaryassist: '',
+      time: '13.0332'
+    }
+  ],
+  pipeHits: [],
+  startTime: 18837.82,
+  endTime: 0,
+  periodOver: false,
+  players: {
+    'get on discord': {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 2,
+      checked: 2,
+      posessions: 1,
+      pipehits: 0,
+      periods: 1
+    },
+    '(discord) dotjson': {
+      team: '',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 2,
+      checked: 2,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    WRAITH: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 1,
+      checked: 1,
+      posessions: 1,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'green',
+      goals: 1,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 2,
+      checked: 2,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    bigbootyjudy: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 3,
+      checked: 3,
+      posessions: 2,
+      pipehits: 0,
+      periods: 1
+    },
+    nb28: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 2,
+      checked: 2,
+      posessions: 1,
+      pipehits: 0,
+      periods: 1
+    }
+  },
+  winTeam: 'green',
+  teams: {
+    blue: { hits: 4, checked: 4, posessions: 4, pipehits: 0, goals: 0 },
+    green: { hits: 0, checked: 0, posessions: 1, pipehits: 0, goals: 2 }
+  }
+}
+------------------
+Totals
+{
+  players: {
+    wraithwon: {
+      team: 'blue',
+      goals: 13,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 28,
+      checked: 28,
+      posessions: 4,
+      pipehits: 0,
+      periods: 2
+    },
+    DontToewsMeBro0: {
+      team: 'blue',
+      goals: 10,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    '': {
+      team: 'green',
+      goals: 3,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 0,
+      checked: 0,
+      posessions: 0,
+      pipehits: 0,
+      periods: 1
+    },
+    'OL TWO HANDS': {
+      team: 'blue',
+      goals: 47,
+      primaryassists: 5,
+      secondaryassists: 0,
+      hits: 341,
+      checked: 334,
+      posessions: 90,
+      pipehits: 0,
+      periods: 6
+    },
+    '(discord) dotjson': {
+      team: 'blue',
+      goals: 13,
+      primaryassists: 3,
+      secondaryassists: 1,
+      hits: 216,
+      checked: 215,
+      posessions: 88,
+      pipehits: 0,
+      periods: 3
+    },
+    Dr3wbis: {
+      team: 'green',
+      goals: 24,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 50,
+      checked: 50,
+      posessions: 2,
+      pipehits: 0,
+      periods: 0
+    },
+    'get on discord': {
+      team: 'blue',
+      goals: 19,
+      primaryassists: 6,
+      secondaryassists: 0,
+      hits: 445,
+      checked: 439,
+      posessions: 183,
+      pipehits: 0,
+      periods: 4
+    },
+    WRAITH: {
+      team: 'blue',
+      goals: 23,
+      primaryassists: 7,
+      secondaryassists: 1,
+      hits: 630,
+      checked: 635,
+      posessions: 190,
+      pipehits: 0,
+      periods: 7
+    },
+    Kira47: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 85,
+      checked: 84,
+      posessions: 23,
+      pipehits: 0,
+      periods: 1
+    },
+    bigbootyjudy: {
+      team: 'blue',
+      goals: 26,
+      primaryassists: 0,
+      secondaryassists: 2,
+      hits: 278,
+      checked: 281,
+      posessions: 77,
+      pipehits: 0,
+      periods: 3
+    },
+    watermelon: {
+      team: 'green',
+      goals: 13,
+      primaryassists: 1,
+      secondaryassists: 4,
+      hits: 471,
+      checked: 470,
+      posessions: 101,
+      pipehits: 0,
+      periods: 1
+    },
+    SPACECOW: {
+      team: 'blue',
+      goals: 27,
+      primaryassists: 9,
+      secondaryassists: 0,
+      hits: 771,
+      checked: 784,
+      posessions: 282,
+      pipehits: 0,
+      periods: 5
+    },
+    MatthewH30: {
+      team: 'green',
+      goals: 0,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 72,
+      checked: 74,
+      posessions: 12,
+      pipehits: 0,
+      periods: 0
+    },
+    UNKNOWN_PLAYER: {
+      team: 'blue',
+      goals: 4,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 278,
+      checked: 277,
+      posessions: 79,
+      pipehits: 0,
+      periods: 3
+    },
+    nb28: {
+      team: 'green',
+      goals: 9,
+      primaryassists: 4,
+      secondaryassists: 0,
+      hits: 265,
+      checked: 260,
+      posessions: 98,
+      pipehits: 0,
+      periods: 3
+    },
+    trentonlavenski: {
+      team: 'blue',
+      goals: 0,
+      primaryassists: 2,
+      secondaryassists: 0,
+      hits: 318,
+      checked: 326,
+      posessions: 69,
+      pipehits: 0,
+      periods: 1
+    },
+    'home wrecker': {
+      team: 'green',
+      goals: 0,
+      primaryassists: 0,
+      secondaryassists: 0,
+      hits: 58,
+      checked: 58,
+      posessions: 12,
+      pipehits: 0,
+      periods: 0
+    }
+  },
+  teams: {
+    blue: {
+      hits: 1891,
+      checked: 1899,
+      posessions: 643,
+      pipehits: 0,
+      goals: 102
+    },
+    green: {
+      hits: 1739,
+      checked: 1732,
+      posessions: 543,
+      pipehits: 0,
+      goals: 69
+    }
+  }
+}
