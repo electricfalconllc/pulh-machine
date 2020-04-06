@@ -33,15 +33,20 @@ exports.NewPeriod = function(config) {
             players:{},
             winTeam: "",
             teams: {},
+            lastTimestamp:-1,
         },
         GetState: function() {
             return this.state;
         },        
         ProcessLine: function(line) {
+            line = line.replace(/\r/g, ""); //good ol' windows
             if (countVals(line)==0) return this.state;
             var timestamp = parseFloat(getVal(line, 0));
             if (this.state.startTime==0)
                 this.state.startTime=timestamp;
+
+            if (this.state.lastTimestamp >= timestamp) //dont process old events?
+                return this.state;
                 
             var type=getVal(line, 1);
             switch (type) {
@@ -71,7 +76,7 @@ exports.NewPeriod = function(config) {
                     //this._handleLogStarted(line, timestamp);
                     break;
                 case "faceoff":
-                    //
+                    this._handleFaceoff(line, timestamp);
                     break;
                 default: 
                     console.log("Warning: Unknown event type - "+type+", line: "+line);
@@ -93,7 +98,8 @@ exports.NewPeriod = function(config) {
             if (typeof this.state.players[name]=="undefined")
                 this.state.players[name]=z;
             if (typeof exports._totals.players[name]=="undefined") {
-                exports._totals.players[name] = z;
+                exports._totals.players[name] = {};
+                Object.assign(exports._totals.players[name], z);
                 exports._totals.players[name].periods = 0;
             }
         },
@@ -107,8 +113,14 @@ exports.NewPeriod = function(config) {
             };
             if (typeof this.state.teams[name]=="undefined")
                 this.state.teams[name]=z;
-            if (typeof exports._totals.teams[name]=="undefined")
-                exports._totals.teams[name] = z;
+            if (typeof exports._totals.teams[name]=="undefined") {
+                exports._totals.teams[name] = {};
+                Object.assign(exports._totals.teams[name], z);
+            }
+        },
+        _handleFaceoff: function(line, timestamp) {
+            this.state.blueTouches=[];
+            this.state.greenTouches=[];
         },
         _handleCollide: function(line, timestamp) {
             //<timestamp> collide puck player <playername> <team> <stick/body> <networkId>
@@ -231,8 +243,11 @@ exports.NewPeriod = function(config) {
                 scorer: pg,
                 primaryassist: pa,
                 secondaryassist: sa,
-                time: getVal(line, 8),
+                time: parseFloat(getVal(line, 8)),
             });
+            
+            this.state.blueTouches=[];
+            this.state.greenTouches=[];
         },
         _updateTotals: function() {
             for (var k in this.state.players) {

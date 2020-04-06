@@ -32,6 +32,9 @@ if (period.GetState().startTime>0)
         
 console.log("Totals");
 console.log(gs.GetTotals());
+console.log("----------------");
+
+console.log("Goal array count: "+state.goals.length);
 
 function outputState(state) {
     console.log("Period "+state.period);
