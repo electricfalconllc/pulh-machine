@@ -41,14 +41,14 @@ exports.NewPeriod = function(config) {
         ProcessLine: function(line) {
             line = line.replace(/\r/g, ""); //good ol' windows
             if (countVals(line)==0) return this.state;
-            var timestamp = parseFloat(getVal(line, 0));
-            if (this.state.startTime==0)
+            var timestamp = parseFloat(getVal(line, 0));            
+            var type=getVal(line, 1);
+            if (this.state.startTime==0 && type!="log-started")
                 this.state.startTime=timestamp;
 
             if (this.state.lastTimestamp >= timestamp) //dont process old events?
                 return this.state;
                 
-            var type=getVal(line, 1);
             switch (type) {
                 /*
                 <timestamp> collide puck player <playername> <team> <stick/body> <networkId>
@@ -72,8 +72,9 @@ exports.NewPeriod = function(config) {
                 case "period-end":
                     this._handleEnd(line, timestamp);
                     break;
+                case "period-start":
+                    break;
                 case "log-started":
-                    //this._handleLogStarted(line, timestamp);
                     break;
                 case "faceoff":
                     this._handleFaceoff(line, timestamp);
