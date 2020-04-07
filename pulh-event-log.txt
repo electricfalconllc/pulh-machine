@@ -1,100 +1,3737 @@
-0	log-started	server	
-120.934	period-start	server	-
-123.8	faceoff		
-123.8167	collide	puck	player	wraithwon	blue	authority-closest	2
-130.6	faceoff		
-130.6	faceoff		
-130.6	faceoff		
-130.6	faceoff		
-130.6	faceoff		
-130.6	faceoff		
-130.6	faceoff		
-130.6	faceoff		
-133.4667	faceoff		
-134.9167	collide	puck	player	wraithwon	blue	authority-closest	2
-138.0667	goal	server	-	green		0	1	17.13268	0
-141.0733	faceoff		
-143.9333	faceoff		
-143.95	collide	puck	player	wraithwon	blue	authority-closest	2
-144.1167	faceoff		
-144.1833	collide	puck	player	wraithwon	blue	authority-closest	2
-156.3167	goal	server	-	blue	wraithwon	1	1	35.38268	144.1833
-159.3188	faceoff		
-162.1834	faceoff		
-162.2	collide	puck	player	wraithwon	blue	authority-closest	2
-162.3667	faceoff		
-162.4334	collide	puck	player	wraithwon	blue	authority-closest	2
-185.7667	goal	server	-	green		1	2	64.83267	0
-188.7736	faceoff		
-191.6334	faceoff		
-191.6667	collide	puck	player	wraithwon	blue	authority-closest	2
-191.8167	faceoff		
-191.9	collide	puck	player	wraithwon	blue	authority-closest	2
-198.8927	period-end	server	early	1	2
-469.766	faceoff		
-469.766	period-start	server	-
-472.6167	faceoff		
-472.6334	collide	puck	player	jay721000	blue	authority-closest	8
-524.6565	collide	puck	player	wraithwon	green	authority-request	13
-637.7668	check	wraithwon	jay721000
-637.7668	check	jay721000	wraithwon
-654.8168	check	wraithwon	jay721000
-654.8168	check	jay721000	wraithwon
-663.8834	check	wraithwon	jay721000
-663.8834	check	jay721000	wraithwon
-676.4835	check	wraithwon	jay721000
-676.4835	check	jay721000	wraithwon
-698.8668	check	wraithwon	jay721000
-698.8668	check	jay721000	wraithwon
-742.7834	goal	server	-	green	wraithwon	0	1	273.0174	524.6565
-745.7925	faceoff		
-748.6501	faceoff		
-748.6668	collide	puck	player	jay721000	blue	authority-closest	8
-748.8334	faceoff		
-748.9001	collide	puck	player	wraithwon	green	authority-closest	13
-750.9668	collide	puck	player	jay721000	blue	stick	8
-758.6001	check	wraithwon	jay721000
-758.6001	check	jay721000	wraithwon
-794.7501	check	wraithwon	jay721000
-794.7501	check	jay721000	wraithwon
-795.9668	check	wraithwon	jay721000
-795.9668	check	jay721000	wraithwon
-895.5001	check	wraithwon	jay721000
-895.5001	check	jay721000	wraithwon
-899.5502	check	wraithwon	jay721000
-899.5502	check	jay721000	wraithwon
-908.1501	check	wraithwon	jay721000
-908.1501	check	jay721000	wraithwon
-908.2335	check	wraithwon	jay721000
-908.2335	check	jay721000	wraithwon
-910.4168	check	wraithwon	jay721000
-910.4168	check	jay721000	wraithwon
-911.4335	check	wraithwon	jay721000
-911.4335	check	jay721000	wraithwon
-974.1168	check	wraithwon	jay721000
-974.1168	check	jay721000	wraithwon
-979.5502	goal	server	-	green	wraithwon	0	2	509.7841	748.9001
-982.5535	faceoff		
-985.4168	faceoff		
-985.4335	collide	puck	player	jay721000	blue	authority-closest	8
-985.6002	faceoff		
-985.6668	collide	puck	player	wraithwon	green	authority-closest	13
-987.7067	collide	puck	player	jay721000	blue	authority-request	8
-988.1335	check	wraithwon	jay721000
-988.1335	check	jay721000	wraithwon
-997.1002	check	wraithwon	jay721000
-997.1002	check	jay721000	wraithwon
-1018.7	check	wraithwon	jay721000
-1018.7	check	jay721000	wraithwon
-1036.65	check	wraithwon	jay721000
-1036.65	check	jay721000	wraithwon
-1041.134	check	wraithwon	jay721000
-1041.134	check	jay721000	wraithwon
-1042.567	faceoff		
-1045.267	collide	puck	player	jay721000	blue	authority-closest	8
-1046.717	collide	puck	player	wraithwon	green	stick	13
-1079.7	goal	server	-	blue	jay721000	1	2	609.9342	1045.267
-1082.711	faceoff		
-1085.567	faceoff		
-1085.634	collide	puck	player	jay721000	blue	authority-closest	8
-1085.900	period-end	server	-	0	0
+1251.479	period-end	server	-	4	0				
+1251.479	faceoff								
+1251.479	period-start	server	-						
+1254.333	faceoff								
+2563.667	collide	puck	player	WRAITH	blue	authority-closest	14		
+2564.059	faceoff								
+2566.917	faceoff								
+2566.934	collide	puck	player	WRAITH	blue	authority-closest	14		
+2567.134	faceoff								
+2567.167	collide	puck	player	WRAITH	blue	authority-closest	14		
+2575.301	goal	server	-	blue	WRAITH	1	0	11.24146	2567.167
+2578.308	faceoff								
+2581.167	faceoff								
+2581.184	collide	puck	player	WRAITH	blue	authority-closest	14		
+2581.35	faceoff								
+2581.417	collide	puck	player	WRAITH	blue	authority-closest	14		
+2598.436	period-end	server	early	1	0				
+3645.593	faceoff								
+3648.451	faceoff								
+3648.467	collide	puck	player	nb28	blue	authority-closest	11		
+3648.617	faceoff								
+3648.701	collide	puck	player	nb28	blue	authority-closest	11		
+3668.484	goal	server	-	blue	nb28	1	0	22.89111	3648.701
+3671.491	faceoff								
+3674.351	faceoff								
+3674.367	collide	puck	player	nb28	blue	authority-closest	11		
+3674.534	faceoff								
+3674.601	collide	puck	player	nb28	blue	authority-closest	11		
+4753.531	period-end	server	early	1	0				
+4845.528	period-end	server	-	1	0				
+4845.528	faceoff								
+4845.528	period-start	server	-						
+4848.384	faceoff								
+5784.832	faceoff								
+5784.832	period-start	server	-						
+5787.684	faceoff								
+5787.701	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5787.851	faceoff								
+5787.934	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5816.417	faceoff								
+5816.417	faceoff								
+5816.417	faceoff								
+5816.417	faceoff								
+5816.417	faceoff								
+5816.417	faceoff								
+5816.417	faceoff								
+5816.417	faceoff								
+5819.284	faceoff								
+5819.334	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5824.284	goal	server	-	green		0	1	39.45264	0
+5827.29	faceoff								
+5830.151	faceoff								
+5830.167	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5830.334	faceoff								
+5830.401	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5847.134	goal	server	-	green		0	2	62.30273	0
+5850.138	faceoff								
+5853.001	faceoff								
+5853.018	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5860.151	goal	server	-	blue	SPACECOW	1	2	75.31934	5853.018
+5863.153	faceoff								
+5866.018	faceoff								
+5866.034	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5866.201	faceoff								
+5866.268	collide	puck	player	SPACECOW	blue	authority-closest	21		
+5913.667	faceoff								
+5913.667	faceoff								
+5913.667	faceoff								
+5913.667	faceoff								
+5916.534	faceoff								
+5916.651	collide	puck	player	SPACECOW	blue	authority-closest	21		
+6000.231	period-end	server	early	1	2				
+6031.943	faceoff								
+6031.943	period-start	server	-						
+6034.801	faceoff								
+6034.818	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6034.984	faceoff								
+6035.051	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6038.551	goal	server	-	blue	SPACECOW	1	0	6.60791	6035.051
+6041.556	faceoff								
+6044.417	faceoff								
+6044.434	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6048.118	goal	server	-	blue	SPACECOW	2	0	16.1748	6044.434
+6051.125	faceoff								
+6053.984	faceoff								
+6054.001	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6054.167	faceoff								
+6054.234	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6071.901	goal	server	-	green		2	1	39.95801	0
+6074.909	faceoff								
+6077.768	faceoff								
+6077.784	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6077.951	faceoff								
+6078.018	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6152.318	faceoff								
+6155.284	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6162.518	goal	server	-	green		2	2	130.5747	0
+6165.519	faceoff								
+6168.384	faceoff								
+6168.401	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6168.568	faceoff								
+6168.634	collide	puck	player	SPACECOW	blue	authority-closest	26		
+6188.521	period-end	server	early	2	2				
+8212.144	faceoff								
+8212.144	period-start	server	-						
+8215.001	faceoff								
+8215.018	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8215.168	faceoff								
+8215.251	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8276.218	goal	server	-	blue	SPACECOW	1	0	64.07422	8215.251
+8276.285	collide	puck	player	SPACECOW	blue	stick	31		
+8279.223	faceoff								
+8282.085	faceoff								
+8282.102	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8324.868	goal	server	-	green		1	1	112.7246	0
+8325.484	collide	puck	player	SPACECOW	blue	stick	31		
+8327.87	faceoff								
+8330.734	faceoff								
+8330.751	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8330.901	faceoff								
+8330.984	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8465.885	goal	server	-	blue	SPACECOW	2	1	253.7412	8330.984
+8468.89	faceoff								
+8471.751	faceoff								
+8471.768	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8497.401	goal	server	-	green		2	2	285.2578	0
+8500.403	faceoff								
+8503.268	faceoff								
+8503.285	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8532.335	collide	puck	player	WRAITH	green	authority-closest	36		
+8533.285	goal	server	-	blue	SPACECOW	3	2	321.1416	8503.285
+8536.288	faceoff								
+8539.151	faceoff								
+8539.168	collide	puck	player	WRAITH	green	authority-closest	36		
+8539.335	faceoff								
+8539.401	collide	puck	player	WRAITH	green	authority-closest	36		
+8541.738	collide	puck	player	SPACECOW	blue	authority-request	31		
+8543.501	check	WRAITH	SPACECOW						
+8613.585	goal	server	-	green	WRAITH	3	3	401.4414	8539.401
+8616.593	faceoff								
+8619.451	faceoff								
+8619.468	collide	puck	player	WRAITH	green	authority-closest	36		
+8619.635	faceoff								
+8619.701	collide	puck	player	WRAITH	green	authority-closest	36		
+8620.302	collide	puck	player	SPACECOW	blue	authority-closest	31		
+8625.385	goal	server	-	blue	SPACECOW	4	3	413.2412	8620.302
+8628.386	faceoff								
+8631.251	faceoff								
+8631.269	collide	puck	player	WRAITH	green	authority-closest	36		
+8631.451	faceoff								
+8631.501	collide	puck	player	WRAITH	green	authority-closest	36		
+8631.602	faceoff								
+8631.734	collide	puck	player	WRAITH	green	authority-closest	36		
+8632.835	collide	puck	player	SPACECOW	blue	stick	31		
+8639.651	check	WRAITH	SPACECOW						
+8657.668	goal	server	-	blue	SPACECOW	5	3	445.5244	8632.835
+8660.67	faceoff								
+8663.535	faceoff								
+8663.552	collide	puck	player	WRAITH	green	authority-closest	36		
+8663.718	faceoff								
+8663.785	collide	puck	player	WRAITH	green	authority-closest	36		
+8667.145	collide	puck	player	SPACECOW	blue	authority-request	31		
+8669.185	check	WRAITH	SPACECOW						
+8669.185	check	SPACECOW	WRAITH						
+8673.052	goal	server	-	blue	SPACECOW	6	3	460.9082	8667.145
+8675.183	collide	puck	player	WRAITH	green	authority-request	36		
+8676.053	faceoff								
+8678.918	faceoff								
+8678.935	collide	puck	player	WRAITH	green	authority-closest	36		
+8681.283	collide	puck	player	SPACECOW	blue	authority-request	31		
+8684.568	check	WRAITH	SPACECOW						
+8684.568	check	SPACECOW	WRAITH						
+8684.868	faceoff								
+8687.734	faceoff								
+8687.751	collide	puck	player	SPACECOW	green	authority-closest	31		
+8687.901	faceoff								
+8693.131	period-end	server	early	6	3				
+8703.701	faceoff								
+8703.701	period-start	server	-						
+8706.568	faceoff								
+8706.585	collide	puck	player	WRAITH	blue	authority-closest	39		
+8706.734	faceoff								
+8715.335	collide	puck	player	SPACECOW	green	authority-closest	44		
+8738.201	goal	server	-	green	SPACECOW	0	1	34.5	8715.335
+8741.205	faceoff								
+8744.068	faceoff								
+8744.085	collide	puck	player	SPACECOW	green	authority-closest	44		
+8746.618	collide	puck	player	WRAITH	blue	authority-closest	39		
+8747.306	period-end	server	early	0	1				
+8840.734	collide	puck	player	SPACECOW	blue	authority-closest	47		
+8841.12	faceoff								
+8841.12	period-start	server	-						
+8843.984	faceoff								
+8844.001	collide	puck	player	SPACECOW	blue	authority-closest	47		
+8844.135	faceoff								
+8844.234	collide	puck	player	SPACECOW	blue	authority-closest	47		
+8906.802	faceoff								
+8906.802	faceoff								
+8906.802	faceoff								
+8906.802	faceoff								
+8906.802	faceoff								
+8906.802	faceoff								
+8906.802	faceoff								
+8906.802	faceoff								
+8909.668	faceoff								
+8910.068	collide	puck	player	SPACECOW	blue	authority-closest	47		
+8949.118	goal	server	-	green		0	1	107.998	0
+8952.123	faceoff								
+8954.984	faceoff								
+8955.002	collide	puck	player	SPACECOW	blue	authority-closest	47		
+8963.151	goal	server	-	blue	SPACECOW	1	1	122.0313	8955.002
+8966.162	faceoff								
+8969.019	faceoff								
+8969.035	collide	puck	player	SPACECOW	blue	authority-closest	47		
+8969.201	faceoff								
+8969.269	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9001.151	goal	server	-	blue	SPACECOW	2	1	160.0313	8969.269
+9004.162	faceoff								
+9007.019	faceoff								
+9007.035	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9007.185	faceoff								
+9007.269	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9050.519	goal	server	-	green		2	2	209.3984	0
+9053.524	faceoff								
+9056.385	faceoff								
+9056.401	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9056.585	faceoff								
+9056.635	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9056.785	faceoff								
+9056.868	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9070.602	goal	server	-	blue	SPACECOW	3	2	229.4814	9056.868
+9073.608	faceoff								
+9076.468	faceoff								
+9076.484	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9076.635	faceoff								
+9076.718	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9081.585	goal	server	-	blue	SPACECOW	4	2	240.4648	9076.718
+9084.587	faceoff								
+9087.451	faceoff								
+9087.468	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9087.635	faceoff								
+9087.701	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9136.852	goal	server	-	green		4	3	295.7314	0
+9139.862	faceoff								
+9142.718	faceoff								
+9142.734	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9142.901	faceoff								
+9142.968	collide	puck	player	SPACECOW	blue	authority-closest	47		
+9172.114	period-end	server	early	4	3				
+0	log-started	server							
+50.88305	period-start	server	-						
+53.73334	faceoff								
+53.75001	collide	puck	player	WRAITH	green	authority-closest	5		
+56.46569	collide	puck	player	get on discord	blue	authority-request	2		
+63.51668	goal	server	-	blue	get on discord	1	0	12.63363	56.46569
+66.51883	faceoff								
+69.38335	faceoff								
+69.40001	collide	puck	player	WRAITH	green	authority-closest	5		
+69.55001	faceoff								
+69.63335	collide	puck	player	WRAITH	green	authority-closest	5		
+71.01668	collide	puck	player	get on discord	blue	stick	2		
+87.16668	collide	puck	player	SPACECOW	blue	stick	11		
+87.95001	check	SPACECOW	get on discord						
+87.95001	check	get on discord	SPACECOW						
+90.13335	collide	puck	player	get on discord	blue	stick	2		
+94.50002	collide	puck	player	SPACECOW	blue	authority-closest	11		
+105.6167	collide	puck	player	get on discord	blue	authority-closest	2		
+0	log-started	server							
+16.528	period-start	server	-						
+19.38334	faceoff								
+19.4	collide	puck	player	WRAITH	blue	authority-closest	2		
+21.27379	collide	puck	player	get on discord	green	authority-request	5		
+56.78462	collide	puck	player	SPACECOW	blue	authority-closest	11		
+57.35001	check	SPACECOW	WRAITH						
+57.35001	check	WRAITH	SPACECOW						
+79.78335	goal	server	-	green	get on discord	0	1	63.25535	21.27379
+82.79287	faceoff								
+85.65002	faceoff								
+85.66668	collide	puck	player	SPACECOW	blue	authority-closest	11		
+85.88335	faceoff								
+85.90002	collide	puck	player	SPACECOW	blue	authority-closest	11		
+86.11668	faceoff								
+86.13335	collide	puck	player	SPACECOW	blue	authority-closest	11		
+86.26668	faceoff								
+86.36668	collide	puck	player	SPACECOW	blue	authority-closest	11		
+189.3834	goal	server	-	blue	SPACECOW	1	1	172.8554	86.36668
+192.3865	faceoff								
+195.25	faceoff								
+195.2667	collide	puck	player	SPACECOW	blue	authority-closest	11		
+195.4167	faceoff								
+195.5	collide	puck	player	SPACECOW	blue	authority-closest	11		
+200.6834	faceoff								
+200.6834	faceoff								
+200.6834	faceoff								
+200.6834	faceoff								
+200.6834	faceoff								
+200.6834	faceoff								
+200.6834	faceoff								
+200.6834	faceoff								
+203.55	faceoff								
+204.6834	collide	puck	player	SPACECOW	blue	authority-closest	11		
+211.05	goal	server	-	green		1	2	194.522	0
+214.0563	faceoff								
+216.9167	faceoff								
+216.9334	collide	puck	player	SPACECOW	blue	authority-closest	11		
+217.1	faceoff								
+217.1667	collide	puck	player	SPACECOW	blue	authority-closest	11		
+0	log-started	server							
+0	log-started	server							
+21.81335	period-start	server	-						
+24.66667	faceoff								
+24.68334	collide	puck	player	nb28	blue	authority-closest	5		
+25.96454	collide	puck	player	get on discord	green	authority-request	2		
+42.98334	faceoff								
+42.98334	faceoff								
+42.98334	faceoff								
+45.85001	faceoff								
+46.28039	period-end	server	early	0	0				
+343.5804	faceoff								
+344.2524	collide	puck	player	StephenSeven	blue	authority-request	20		
+346.5667	collide	puck	player	nb28	green	authority-closest	17		
+351.8	collide	puck	player	SPACECOW	green	authority-closest	25		
+367.6001	collide	puck	player	SPACECOW	blue	authority-closest	25		
+369.6667	collide	puck	player	nb28	green	stick	17		
+387.1001	check	get on discord	SPACECOW						
+387.1001	check	SPACECOW	get on discord						
+389.5167	goal	server	-	blue	SPACECOW	1	0	45.93634	367.6001
+392.5251	faceoff								
+395.3834	faceoff								
+395.4001	collide	puck	player	StephenSeven	blue	authority-closest	20		
+395.5501	faceoff								
+395.6334	collide	puck	player	StephenSeven	blue	authority-closest	20		
+396.1478	collide	puck	player	get on discord	green	authority-request	14		
+396.5334	check	get on discord	StephenSeven						
+396.6167	check	get on discord	StephenSeven						
+401.3501	collide	puck	player	nb28	green	stick	17		
+402.9667	goal	server	-	blue	StephenSeven	2	0	59.38635	395.6334
+403.1501	check	get on discord	nb28						
+403.6501	check	get on discord	nb28						
+403.6501	check	nb28	get on discord						
+404.5667	check	get on discord	nb28						
+404.5667	check	nb28	get on discord						
+405.2667	collide	puck	player	get on discord	green	stick	14		
+405.5834	collide	puck	player	SPACECOW	blue	stick	25		
+405.8001	check	get on discord	SPACECOW						
+405.9701	faceoff								
+406.3334	check	get on discord	SPACECOW						
+408.8334	faceoff								
+408.8501	collide	puck	player	StephenSeven	blue	authority-closest	20		
+409.0667	faceoff								
+409.0834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+409.2667	faceoff								
+409.3167	collide	puck	player	SPACECOW	blue	authority-closest	25		
+409.4001	collide	puck	player	StephenSeven	blue	stick	20		
+415.4334	collide	puck	player	SPACECOW	blue	authority-closest	25		
+422.2667	collide	puck	player	get on discord	green	authority-closest	14		
+424.6167	collide	puck	player	StephenSeven	blue	stick	20		
+425.1501	check	get on discord	StephenSeven						
+425.1501	check	StephenSeven	get on discord						
+425.9001	collide	puck	player	nb28	green	authority-closest	17		
+432.9167	collide	puck	player	get on discord	green	authority-closest	14		
+435.2834	collide	puck	player	SPACECOW	blue	stick	25		
+446.3334	check	get on discord	SPACECOW						
+446.3334	check	SPACECOW	get on discord						
+453.5168	collide	puck	player	StephenSeven	blue	authority-closest	20		
+459.8834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+465.7668	collide	puck	player	StephenSeven	blue	authority-closest	20		
+467.6834	check	get on discord	StephenSeven						
+467.6834	check	StephenSeven	get on discord						
+473.5501	check	get on discord	StephenSeven						
+477.1667	check	get on discord	SPACECOW						
+477.1667	check	SPACECOW	get on discord						
+479.5667	check	get on discord	SPACECOW						
+479.5667	check	SPACECOW	get on discord						
+479.9868	collide	puck	player	WRAITH	green	authority-request	28		
+480.0001	collide	puck	player	SPACECOW	blue	authority-closest	25		
+481.1168	collide	puck	player	StephenSeven	blue	authority-closest	20		
+484.237	collide	puck	player	get on discord	green	authority-request	14		
+484.9001	collide	puck	player	nb28	green	stick	17		
+493.5965	collide	puck	player	SPACECOW	blue	authority-closest	25		
+495.2167	collide	puck	player	StephenSeven	blue	stick	20		
+495.5001	collide	puck	player	SPACECOW	blue	stick	25		
+495.6776	collide	puck	player	StephenSeven	blue	authority-closest	20		
+495.8167	collide	puck	player	SPACECOW	blue	stick	25		
+496.1001	check	StephenSeven	SPACECOW						
+496.1001	check	SPACECOW	StephenSeven						
+496.2668	collide	puck	player	WRAITH	green	authority-closest	28		
+506.8001	collide	puck	player	get on discord	green	authority-closest	14		
+509.8501	collide	puck	player	nb28	green	authority-closest	17		
+517.6334	collide	puck	player	WRAITH	green	stick	28		
+519.2854	collide	puck	player	get on discord	green	authority-request	14		
+520.8668	check	get on discord	SPACECOW						
+520.8668	check	SPACECOW	get on discord						
+521.1334	check	get on discord	SPACECOW						
+522.2144	collide	puck	player	WRAITH	green	authority-closest	28		
+522.9334	collide	puck	player	StephenSeven	blue	authority-closest	20		
+522.9834	check	WRAITH	get on discord						
+527.1667	check	WRAITH	StephenSeven						
+527.1667	check	StephenSeven	WRAITH						
+535.6334	collide	puck	player	nb28	green	authority-closest	17		
+540.8168	collide	puck	player	SPACECOW	blue	authority-closest	25		
+541.1334	collide	puck	player	get on discord	green	authority-closest	14		
+546.8834	collide	puck	player	WRAITH	green	authority-closest	28		
+550.9501	check	get on discord	SPACECOW						
+563.0001	collide	puck	player	nb28	green	authority-closest	17		
+574.5834	collide	puck	player	StephenSeven	blue	authority-closest	20		
+576.2167	check	StephenSeven	nb28						
+577.7334	collide	puck	player	get on discord	green	stick	14		
+577.9501	check	get on discord	StephenSeven						
+577.9501	check	StephenSeven	get on discord						
+578.1334	check	get on discord	StephenSeven						
+578.1334	check	StephenSeven	get on discord						
+585.0168	collide	puck	player	WRAITH	green	authority-closest	28		
+586.9334	collide	puck	player	get on discord	green	authority-closest	14		
+591.6168	collide	puck	player	nb28	green	authority-closest	17		
+599.6334	check	StephenSeven	SPACECOW						
+600.6834	check	nb28	SPACECOW						
+600.6834	check	SPACECOW	nb28						
+601.7167	check	StephenSeven	nb28						
+601.7167	check	nb28	StephenSeven						
+605.8668	collide	puck	player	WRAITH	green	stick	28		
+608.6834	collide	puck	player	SPACECOW	blue	stick	25		
+610.3501	collide	puck	player	StephenSeven	blue	stick	20		
+614.5168	collide	puck	player	get on discord	green	authority-closest	14		
+614.9668	collide	puck	player	nb28	green	authority-closest	17		
+632.0501	collide	puck	player	SPACECOW	blue	authority-closest	25		
+632.4001	collide	puck	player	StephenSeven	blue	stick	20		
+633.8168	collide	puck	player	SPACECOW	blue	authority-collide	25		
+633.9334	collide	puck	player	StephenSeven	blue	stick	20		
+634.2834	check	StephenSeven	SPACECOW						
+634.2834	check	SPACECOW	StephenSeven						
+634.6834	check	StephenSeven	nb28						
+634.6834	check	nb28	StephenSeven						
+635.2668	check	get on discord	SPACECOW						
+635.2668	check	SPACECOW	get on discord						
+637.7501	check	WRAITH	get on discord						
+637.7501	check	get on discord	WRAITH						
+639.0334	check	get on discord	nb28						
+639.0334	check	nb28	get on discord						
+641.1001	check	StephenSeven	nb28						
+641.751	collide	puck	player	SPACECOW	blue	authority-request	25		
+642.8334	check	get on discord	StephenSeven						
+642.8334	check	StephenSeven	get on discord						
+643.1834	check	get on discord	SPACECOW						
+643.1834	check	SPACECOW	get on discord						
+643.2834	check	StephenSeven	SPACECOW						
+643.3501	check	get on discord	SPACECOW						
+644.6168	check	get on discord	nb28						
+644.9167	check	get on discord	nb28						
+649.4478	collide	puck	player	StephenSeven	blue	authority-request	20		
+649.6334	check	WRAITH	StephenSeven						
+649.8168	collide	puck	player	get on discord	green	authority-closest	14		
+649.9835	check	WRAITH	nb28						
+651.2168	check	StephenSeven	SPACECOW						
+651.2168	check	SPACECOW	StephenSeven						
+657.0334	collide	puck	player	nb28	green	authority-closest	17		
+659.9854	collide	puck	player	SPACECOW	blue	authority-request	25		
+661.4835	check	nb28	SPACECOW						
+662.3001	collide	puck	player	WRAITH	green	authority-closest	28		
+667.7703	collide	puck	player	StephenSeven	blue	authority-request	20		
+671.9001	collide	puck	player	get on discord	green	stick	14		
+674.7668	collide	puck	player	WRAITH	green	authority-closest	28		
+675.2001	collide	puck	player	SPACECOW	blue	stick	25		
+675.8334	collide	puck	player	nb28	green	authority-closest	17		
+682.1501	collide	puck	player	get on discord	green	authority-closest	14		
+689.5501	collide	puck	player	nb28	green	authority-closest	17		
+690.0834	check	get on discord	SPACECOW						
+691.5334	check	StephenSeven	SPACECOW						
+691.5834	check	StephenSeven	SPACECOW						
+692.9168	check	get on discord	StephenSeven						
+692.9168	check	StephenSeven	get on discord						
+696.4668	check	nb28	SPACECOW						
+701.9668	collide	puck	player	StephenSeven	blue	authority-closest	20		
+704.2941	collide	puck	player	WRAITH	green	authority-closest	28		
+705.0319	collide	puck	player	SPACECOW	blue	authority-closest	25		
+705.2001	collide	puck	player	get on discord	green	stick	14		
+706.3168	check	get on discord	nb28						
+706.3168	check	nb28	get on discord						
+706.6001	check	get on discord	nb28						
+706.6001	check	nb28	get on discord						
+710.2952	collide	puck	player	WRAITH	green	authority-closest	28		
+711.2001	check	WRAITH	nb28						
+711.2001	check	nb28	WRAITH						
+717.2501	check	get on discord	SPACECOW						
+717.2501	check	SPACECOW	get on discord						
+719.0501	collide	puck	player	nb28	green	authority-closest	17		
+730.4565	collide	puck	player	WRAITH	green	authority-closest	28		
+730.8668	goal	server	-	green	WRAITH	2	1	387.2864	730.4565
+731.9001	collide	puck	player	WRAITH	green	stick	28		
+733.5668	faceoff								
+733.5668	faceoff								
+733.8699	faceoff								
+736.7335	faceoff								
+736.7501	collide	puck	player	StephenSeven	blue	authority-closest	20		
+736.9501	faceoff								
+736.9835	collide	puck	player	StephenSeven	blue	authority-closest	20		
+737.7899	collide	puck	player	get on discord	green	authority-request	14		
+738.1001	check	get on discord	StephenSeven						
+738.3835	check	get on discord	StephenSeven						
+738.4335	check	get on discord	StephenSeven						
+739.5501	collide	puck	player	SPACECOW	blue	authority-closest	25		
+742.6001	collide	puck	player	nb28	green	authority-closest	17		
+745.8668	collide	puck	player	WRAITH	green	stick	28		
+747.1501	check	WRAITH	StephenSeven						
+747.1501	check	StephenSeven	WRAITH						
+747.3334	check	WRAITH	StephenSeven						
+747.3334	check	StephenSeven	WRAITH						
+747.3668	check	WRAITH	StephenSeven						
+747.9168	check	WRAITH	StephenSeven						
+747.9168	check	StephenSeven	WRAITH						
+747.9668	collide	puck	player	get on discord	green	stick	14		
+749.4668	collide	puck	player	StephenSeven	blue	stick	20		
+761.8835	collide	puck	player	SPACECOW	blue	stick	25		
+761.9001	collide	puck	player	WRAITH	green	stick	28		
+762.0804	collide	puck	player	StephenSeven	blue	authority-request	20		
+764.2335	collide	puck	player	nb28	green	stick	17		
+770.5001	collide	puck	player	get on discord	green	authority-closest	14		
+774.6001	check	StephenSeven	nb28						
+776.2001	faceoff								
+776.2001	faceoff								
+776.2001	faceoff								
+779.0668	faceoff								
+779.0834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+779.2834	faceoff								
+779.3168	collide	puck	player	SPACECOW	blue	authority-closest	25		
+783.475	collide	puck	player	get on discord	green	authority-request	14		
+788.1501	collide	puck	player	StephenSeven	blue	stick	20		
+788.9835	check	get on discord	StephenSeven						
+788.9835	check	StephenSeven	get on discord						
+790.3334	collide	puck	player	SPACECOW	blue	stick	25		
+790.401	collide	puck	player	WRAITH	green	authority-closest	28		
+791.7168	collide	puck	player	get on discord	green	stick	14		
+792.0168	collide	puck	player	WRAITH	green	stick	28		
+794.8502	collide	puck	player	StephenSeven	blue	stick	20		
+795.8835	check	WRAITH	StephenSeven						
+795.8835	check	StephenSeven	WRAITH						
+797.4668	collide	puck	player	get on discord	green	authority-closest	14		
+798.1501	check	WRAITH	StephenSeven						
+811.6744	collide	puck	player	SPACECOW	blue	authority-request	25		
+816.8502	collide	puck	player	nb28	green	authority-closest	17		
+820.0501	check	get on discord	SPACECOW						
+820.0501	check	SPACECOW	get on discord						
+824.1335	check	nb28	SPACECOW						
+824.1335	check	SPACECOW	nb28						
+826.8001	collide	puck	player	get on discord	green	authority-closest	14		
+827.7335	collide	puck	player	nb28	green	authority-closest	17		
+828.0835	collide	puck	player	StephenSeven	blue	authority-closest	20		
+829.0668	collide	puck	player	WRAITH	green	authority-closest	28		
+839.6002	faceoff								
+841.0334	collide	puck	player	SPACECOW	blue	authority-closest	25		
+846.1002	collide	puck	player	get on discord	green	authority-closest	14		
+847.8668	collide	puck	player	WRAITH	green	authority-closest	28		
+848.5835	collide	puck	player	StephenSeven	blue	authority-closest	20		
+849.7501	check	WRAITH	StephenSeven						
+856.7834	collide	puck	player	nb28	green	authority-closest	17		
+862.7668	collide	puck	player	SPACECOW	blue	stick	25		
+863.4835	check	nb28	SPACECOW						
+863.4835	check	SPACECOW	nb28						
+864.5835	check	StephenSeven	SPACECOW						
+866.8502	collide	puck	player	StephenSeven	blue	stick	20		
+878.0835	goal	server	-	green	nb28	2	2	534.5031	856.7834
+878.2501	check	StephenSeven	SPACECOW						
+878.2834	check	StephenSeven	SPACECOW						
+881.0885	faceoff								
+883.9501	faceoff								
+883.9668	collide	puck	player	StephenSeven	blue	authority-closest	20		
+884.9094	collide	puck	player	get on discord	green	authority-request	14		
+885.2335	check	get on discord	StephenSeven						
+886.7482	collide	puck	player	SPACECOW	blue	authority-request	25		
+887.1168	check	get on discord	SPACECOW						
+887.1168	check	SPACECOW	get on discord						
+887.3648	collide	puck	player	WRAITH	green	authority-request	28		
+887.4089	collide	puck	player	StephenSeven	blue	authority-request	20		
+889.9835	check	StephenSeven	nb28						
+893.2501	check	get on discord	SPACECOW						
+893.2501	check	SPACECOW	get on discord						
+893.5835	check	get on discord	SPACECOW						
+895.4168	collide	puck	player	nb28	green	authority-closest	17		
+896.2668	collide	puck	player	WRAITH	green	authority-closest	28		
+896.3168	collide	puck	player	SPACECOW	blue	stick	25		
+897.5335	collide	puck	player	get on discord	green	stick	14		
+897.7168	collide	puck	player	WRAITH	green	stick	28		
+897.7668	collide	puck	player	get on discord	green	stick	14		
+897.8168	collide	puck	player	WRAITH	green	stick	28		
+906.4501	goal	server	-	green	WRAITH	2	3	562.8698	897.8168
+909.4531	faceoff								
+909.5001	check	WRAITH	get on discord						
+912.3168	faceoff								
+912.3335	collide	puck	player	StephenSeven	blue	authority-closest	20		
+912.5001	faceoff								
+912.5668	collide	puck	player	StephenSeven	blue	authority-closest	20		
+913.1969	collide	puck	player	get on discord	green	authority-request	14		
+914.2001	collide	puck	player	nb28	green	stick	17		
+921.5835	check	WRAITH	StephenSeven						
+921.5835	check	StephenSeven	WRAITH						
+926.0668	check	nb28	SPACECOW						
+927.0378	collide	puck	player	SPACECOW	blue	authority-request	25		
+927.8835	collide	puck	player	WRAITH	green	authority-closest	28		
+935.2835	collide	puck	player	get on discord	green	authority-closest	14		
+937.2001	check	WRAITH	get on discord						
+937.2001	check	get on discord	WRAITH						
+937.2335	check	WRAITH	get on discord						
+937.2335	check	get on discord	WRAITH						
+943.2001	collide	puck	player	WRAITH	green	stick	28		
+943.2502	collide	puck	player	get on discord	green	stick	14		
+943.2668	check	WRAITH	get on discord						
+943.3343	collide	puck	player	StephenSeven	blue	authority-request	20		
+944.0168	check	get on discord	StephenSeven						
+944.0835	check	get on discord	StephenSeven						
+944.6335	check	WRAITH	get on discord						
+944.7335	check	WRAITH	get on discord						
+948.6501	collide	puck	player	SPACECOW	blue	authority-closest	25		
+948.7502	check	get on discord	StephenSeven						
+953.2335	collide	puck	player	WRAITH	green	stick	28		
+953.6835	check	WRAITH	SPACECOW						
+960.7001	check	get on discord	SPACECOW						
+960.7001	check	SPACECOW	get on discord						
+963.4168	check	get on discord	SPACECOW						
+963.4168	check	SPACECOW	get on discord						
+963.5397	collide	puck	player	get on discord	green	authority-request	14		
+963.5668	collide	puck	player	StephenSeven	blue	stick	20		
+963.8502	check	get on discord	StephenSeven						
+964.0668	check	get on discord	StephenSeven						
+966.2168	collide	puck	player	WRAITH	green	authority-closest	28		
+969.3668	check	get on discord	SPACECOW						
+969.3668	check	SPACECOW	get on discord						
+974.7668	goal	server	-	green	WRAITH	2	4	631.1865	966.2168
+976.5668	check	get on discord	StephenSeven						
+977.777	faceoff								
+980.6335	faceoff								
+980.6501	collide	puck	player	StephenSeven	blue	authority-closest	20		
+980.8168	faceoff								
+980.8835	collide	puck	player	SPACECOW	blue	authority-closest	25		
+981.2502	collide	puck	player	StephenSeven	blue	stick	20		
+981.4218	collide	puck	player	get on discord	green	authority-request	14		
+992.7502	collide	puck	player	WRAITH	green	authority-closest	28		
+999.4579	collide	puck	player	SPACECOW	blue	authority-request	25		
+999.8335	check	WRAITH	SPACECOW						
+999.9669	collide	puck	player	get on discord	green	authority-closest	14		
+1003.117	collide	puck	player	StephenSeven	blue	stick	20		
+1003.167	check	get on discord	StephenSeven						
+1006.883	collide	puck	player	WRAITH	green	authority-closest	28		
+1011.117	collide	puck	player	get on discord	green	authority-closest	14		
+1015.967	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1016.183	check	get on discord	StephenSeven						
+1016.183	check	StephenSeven	get on discord						
+1016.217	check	get on discord	StephenSeven						
+1016.217	check	StephenSeven	get on discord						
+1017	collide	puck	player	WRAITH	green	authority-closest	28		
+1018.45	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1022.484	check	WRAITH	SPACECOW						
+1022.484	check	SPACECOW	WRAITH						
+1023.781	collide	puck	player	SPACECOW	blue	authority-request	25		
+1023.8	collide	puck	player	StephenSeven	blue	stick	20		
+1023.9	collide	puck	player	SPACECOW	blue	stick	25		
+1026.667	check	get on discord	SPACECOW						
+1030.465	collide	puck	player	get on discord	green	authority-request	14		
+1039.867	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1042.15	check	WRAITH	StephenSeven						
+1042.167	goal	server	-	blue	StephenSeven	3	4	698.5865	1039.867
+1044.917	check	StephenSeven	SPACECOW						
+1044.917	check	SPACECOW	StephenSeven						
+1045.176	faceoff								
+1045.2	check	StephenSeven	SPACECOW						
+1045.2	check	SPACECOW	StephenSeven						
+1048.033	faceoff								
+1048.05	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1048.217	faceoff								
+1048.283	collide	puck	player	WRAITH	green	authority-closest	28		
+1048.683	collide	puck	player	StephenSeven	blue	stick	20		
+1049.35	check	get on discord	StephenSeven						
+1049.35	check	StephenSeven	get on discord						
+1051.683	check	get on discord	SPACECOW						
+1051.683	check	SPACECOW	get on discord						
+1051.767	check	get on discord	StephenSeven						
+1051.767	check	StephenSeven	get on discord						
+1051.884	check	get on discord	StephenSeven						
+1053.283	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1054.433	collide	puck	player	get on discord	green	stick	14		
+1056.384	collide	puck	player	WRAITH	green	authority-closest	28		
+1057.2	collide	puck	player	get on discord	green	stick	14		
+1057.25	collide	puck	player	WRAITH	green	stick	28		
+1057.35	check	WRAITH	get on discord						
+1057.35	check	get on discord	WRAITH						
+1059.933	check	WRAITH	SPACECOW						
+1065.8	collide	puck	player	get on discord	green	stick	14		
+1066.083	check	get on discord	SPACECOW						
+1066.267	check	WRAITH	get on discord						
+1066.267	check	get on discord	WRAITH						
+1066.317	check	WRAITH	get on discord						
+1066.317	check	get on discord	WRAITH						
+1066.95	check	WRAITH	get on discord						
+1066.95	check	get on discord	WRAITH						
+1078.463	collide	puck	player	StephenSeven	blue	authority-request	20		
+1080.284	check	WRAITH	get on discord						
+1080.284	check	get on discord	WRAITH						
+1080.734	collide	puck	player	WRAITH	green	stick	28		
+1080.874	collide	puck	player	WRAITH	green	authority-closest	28		
+1086.717	goal	server	-	blue	StephenSeven	4	4	743.1364	1078.463
+1089.484	check	StephenSeven	SPACECOW						
+1089.727	faceoff								
+1092.583	faceoff								
+1092.6	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1092.784	faceoff								
+1092.833	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1092.933	faceoff								
+1092.95	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1094.067	check	get on discord	StephenSeven						
+1094.95	collide	puck	player	WRAITH	green	authority-closest	28		
+1101.083	check	WRAITH	SPACECOW						
+1101.083	check	SPACECOW	WRAITH						
+1103.083	check	WRAITH	StephenSeven						
+1103.083	check	StephenSeven	WRAITH						
+1103.317	collide	puck	player	get on discord	green	authority-closest	14		
+1110.6	collide	puck	player	WRAITH	green	authority-closest	28		
+1112.467	check	WRAITH	StephenSeven						
+1112.467	check	StephenSeven	WRAITH						
+1112.667	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1116.083	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1116.75	collide	puck	player	get on discord	green	authority-closest	14		
+1123.767	check	get on discord	SPACECOW						
+1123.767	check	SPACECOW	get on discord						
+1125.767	check	WRAITH	StephenSeven						
+1125.767	check	StephenSeven	WRAITH						
+1126.85	check	get on discord	StephenSeven						
+1126.85	check	StephenSeven	get on discord						
+1126.967	collide	puck	player	WRAITH	green	authority-closest	28		
+1136.679	collide	puck	player	SPACECOW	blue	authority-request	25		
+1136.817	check	WRAITH	SPACECOW						
+1138.76	collide	puck	player	get on discord	green	authority-request	14		
+1139.15	check	get on discord	SPACECOW						
+1150.55	collide	puck	player	WRAITH	green	authority-closest	28		
+1151.346	collide	puck	player	get on discord	green	authority-request	14		
+1158.65	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1167.134	check	get on discord	StephenSeven						
+1167.134	check	StephenSeven	get on discord						
+1167.467	check	get on discord	StephenSeven						
+1167.467	check	StephenSeven	get on discord						
+1168.083	collide	puck	player	WRAITH	green	stick	28		
+1168.35	check	WRAITH	StephenSeven						
+1178.378	collide	puck	player	SPACECOW	blue	authority-request	25		
+1183.3	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1185.8	collide	puck	player	get on discord	green	stick	14		
+1186.517	check	get on discord	StephenSeven						
+1190.567	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1194.134	check	get on discord	SPACECOW						
+1194.134	check	SPACECOW	get on discord						
+1195.4	collide	puck	player	StephenSeven	blue	stick	20		
+1201.634	check	get on discord	StephenSeven						
+1201.8	check	get on discord	StephenSeven						
+1201.9	collide	puck	player	WRAITH	green	stick	28		
+1202.167	check	WRAITH	StephenSeven						
+1208.134	check	WRAITH	get on discord						
+1208.134	check	get on discord	WRAITH						
+1212.7	collide	puck	player	get on discord	green	stick	14		
+1213.784	collide	puck	player	WRAITH	green	stick	28		
+1217	collide	puck	player	nb28	blue	authority-closest	31		
+1223	collide	puck	player	StephenSeven	blue	stick	20		
+1226.474	collide	puck	player	get on discord	green	authority-request	14		
+1228.067	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1231.9	collide	puck	player	WRAITH	green	stick	28		
+1232.6	check	WRAITH	SPACECOW						
+1232.917	check	WRAITH	SPACECOW						
+1232.917	check	SPACECOW	WRAITH						
+1235.35	check	WRAITH	SPACECOW						
+1235.35	check	SPACECOW	WRAITH						
+1239.617	collide	puck	player	nb28	blue	authority-closest	31		
+1240.083	collide	puck	player	get on discord	green	authority-closest	14		
+1241.15	collide	puck	player	StephenSeven	blue	stick	20		
+1241.717	check	StephenSeven	nb28						
+1241.717	check	nb28	StephenSeven						
+1242.034	check	StephenSeven	nb28						
+1242.034	check	nb28	StephenSeven						
+1242.55	collide	puck	player	WRAITH	green	authority-closest	28		
+1243.734	check	WRAITH	get on discord						
+1244.55	check	WRAITH	StephenSeven						
+1244.583	check	get on discord	nb28						
+1244.634	check	StephenSeven	nb28						
+1244.734	collide	puck	player	nb28	blue	stick	31		
+1244.784	check	get on discord	StephenSeven						
+1244.984	collide	puck	player	StephenSeven	blue	stick	20		
+1245.117	collide	puck	player	SPACECOW	blue	stick	25		
+1246.567	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1246.833	collide	puck	player	nb28	blue	authority-closest	31		
+1247.167	check	StephenSeven	SPACECOW						
+1250.7	check	get on discord	nb28						
+1250.7	check	nb28	get on discord						
+1252.617	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1255.417	check	get on discord	nb28						
+1257.934	collide	puck	player	get on discord	green	stick	14		
+1257.95	collide	puck	player	WRAITH	green	stick	28		
+1257.95	check	StephenSeven	WRAITH						
+1259	collide	puck	player	get on discord	green	stick	14		
+1259.917	collide	puck	player	WRAITH	green	stick	28		
+1259.984	collide	puck	player	nb28	blue	stick	31		
+1260.917	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1281.217	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1281.45	check	WRAITH	StephenSeven						
+1282.6	collide	puck	player	nb28	blue	authority-closest	31		
+1286.75	check	WRAITH	nb28						
+1286.75	check	nb28	WRAITH						
+1286.784	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1286.917	check	WRAITH	nb28						
+1286.917	check	nb28	WRAITH						
+1292.5	goal	server	-	blue	SPACECOW	5	4	948.9199	1286.784
+1295.503	faceoff								
+1295.817	check	nb28	SPACECOW						
+1298.367	faceoff								
+1298.384	collide	puck	player	nb28	blue	authority-closest	31		
+1298.55	faceoff								
+1298.617	collide	puck	player	nb28	blue	authority-closest	31		
+1299.478	collide	puck	player	get on discord	green	authority-request	14		
+1299.819	collide	puck	player	StephenSeven	blue	authority-request	20		
+1300.117	check	get on discord	StephenSeven						
+1300.117	check	StephenSeven	get on discord						
+1302.242	collide	puck	player	SPACECOW	blue	authority-request	25		
+1302.65	collide	puck	player	WRAITH	green	authority-closest	28		
+1311.217	collide	puck	player	get on discord	green	authority-closest	14		
+1316.667	collide	puck	player	WRAITH	green	authority-closest	28		
+1321.533	collide	puck	player	StephenSeven	blue	authority-request	20		
+1322.934	collide	puck	player	get on discord	green	stick	14		
+1323.614	collide	puck	player	SPACECOW	blue	authority-request	25		
+1324.033	collide	puck	player	WRAITH	green	authority-request	28		
+1324.717	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1327.384	check	StephenSeven	nb28						
+1327.384	check	nb28	StephenSeven						
+1330.353	collide	puck	player	get on discord	green	authority-request	14		
+1330.6	check	get on discord	StephenSeven						
+1330.8	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1344.034	collide	puck	player	WRAITH	green	authority-closest	28		
+1344.55	check	get on discord	SPACECOW						
+1353.134	collide	puck	player	get on discord	green	authority-closest	14		
+1353.9	goal	server	-	blue	SPACECOW	6	4	1010.32	1330.8
+1356.717	check	WRAITH	SPACECOW						
+1356.717	check	SPACECOW	WRAITH						
+1356.901	faceoff								
+1356.917	check	WRAITH	get on discord						
+1356.917	check	get on discord	WRAITH						
+1358.817	check	get on discord	SPACECOW						
+1359.767	faceoff								
+1359.784	collide	puck	player	nb28	blue	authority-closest	31		
+1359.95	faceoff								
+1360.017	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1360.612	collide	puck	player	get on discord	green	authority-request	14		
+1360.7	collide	puck	player	WRAITH	green	authority-closest	28		
+1361.064	collide	puck	player	StephenSeven	blue	authority-request	20		
+1361.878	collide	puck	player	nb28	blue	authority-closest	31		
+1361.984	check	WRAITH	nb28						
+1362.167	check	WRAITH	StephenSeven						
+1362.317	check	WRAITH	nb28						
+1363.95	collide	puck	player	get on discord	green	stick	14		
+1364.284	collide	puck	player	WRAITH	green	stick	28		
+1365.184	check	WRAITH	nb28						
+1366	collide	puck	player	get on discord	green	stick	14		
+1366.05	check	get on discord	SPACECOW						
+1366.317	collide	puck	player	SPACECOW	blue	stick	25		
+1366.317	check	SPACECOW	get on discord						
+1368.267	goal	server	-	green	get on discord	6	5	1024.687	1366
+1371.271	faceoff								
+1371.65	check	WRAITH	get on discord						
+1374.134	faceoff								
+1374.15	collide	puck	player	nb28	blue	authority-closest	31		
+1374.816	collide	puck	player	get on discord	green	authority-request	14		
+1375.048	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1375.417	check	get on discord	nb28						
+1376.402	collide	puck	player	nb28	blue	authority-request	31		
+1376.754	collide	puck	player	WRAITH	green	authority-closest	28		
+1376.834	collide	puck	player	get on discord	green	stick	14		
+1377.534	check	WRAITH	get on discord						
+1378.076	collide	puck	player	WRAITH	green	authority-closest	28		
+1378.417	collide	puck	player	SPACECOW	blue	authority-request	25		
+1378.516	collide	puck	player	nb28	blue	authority-closest	31		
+1378.517	collide	puck	player	SPACECOW	blue	stick	25		
+1378.667	collide	puck	player	WRAITH	green	stick	28		
+1378.758	collide	puck	player	nb28	blue	authority-request	31		
+1379.6	check	WRAITH	SPACECOW						
+1387.834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1389.7	collide	puck	player	get on discord	green	stick	14		
+1390.167	check	get on discord	SPACECOW						
+1390.167	check	SPACECOW	get on discord						
+1390.884	check	StephenSeven	SPACECOW						
+1390.884	check	SPACECOW	StephenSeven						
+1393.25	collide	puck	player	WRAITH	green	authority-closest	28		
+1395.198	collide	puck	player	nb28	blue	authority-request	31		
+1395.6	check	WRAITH	nb28						
+1397.484	collide	puck	player	get on discord	green	stick	14		
+1398.16	collide	puck	player	SPACECOW	blue	authority-request	25		
+1399.967	collide	puck	player	WRAITH	green	stick	28		
+1400.334	check	WRAITH	get on discord						
+1406.363	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1413.484	collide	puck	player	nb28	blue	authority-closest	31		
+1419.45	goal	server	-	blue	nb28	7	5	1075.87	1413.484
+1422.45	faceoff								
+1425.317	faceoff								
+1425.334	collide	puck	player	nb28	blue	authority-closest	31		
+1425.5	faceoff								
+1425.567	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1426.139	collide	puck	player	get on discord	green	authority-request	14		
+1426.161	collide	puck	player	nb28	blue	authority-request	31		
+1426.767	check	get on discord	nb28						
+1426.767	check	nb28	get on discord						
+1427.417	check	StephenSeven	nb28						
+1430.35	check	nb28	SPACECOW						
+1430.35	check	SPACECOW	nb28						
+1433.792	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1434.15	check	get on discord	StephenSeven						
+1434.884	check	get on discord	StephenSeven						
+1439.75	collide	puck	player	nb28	blue	authority-closest	31		
+1447.867	goal	server	-	blue	nb28	8	5	1104.287	1439.75
+1448.267	check	WRAITH	get on discord						
+1448.267	check	get on discord	WRAITH						
+1448.4	check	nb28	SPACECOW						
+1448.6	check	get on discord	SPACECOW						
+1448.6	check	SPACECOW	get on discord						
+1448.617	check	nb28	SPACECOW						
+1448.617	check	SPACECOW	nb28						
+1450.87	faceoff								
+1453.734	faceoff								
+1453.75	collide	puck	player	nb28	blue	authority-closest	31		
+1453.9	faceoff								
+1453.984	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1454.548	collide	puck	player	get on discord	green	authority-request	14		
+1455.384	collide	puck	player	WRAITH	green	stick	28		
+1455.767	check	WRAITH	StephenSeven						
+1455.767	check	StephenSeven	WRAITH						
+1457.5	check	WRAITH	SPACECOW						
+1457.565	collide	puck	player	SPACECOW	blue	authority-request	25		
+1458.484	check	get on discord	StephenSeven						
+1458.908	collide	puck	player	StephenSeven	blue	authority-request	20		
+1460.35	collide	puck	player	nb28	blue	authority-closest	31		
+1466.759	collide	puck	player	nitr0	green	authority-request	34		
+1466.767	collide	puck	player	WRAITH	green	authority-closest	28		
+1474.148	collide	puck	player	nitr0	green	authority-request	34		
+1474.45	check	WRAITH	SPACECOW						
+1474.934	check	WRAITH	SPACECOW						
+1474.934	check	SPACECOW	WRAITH						
+1478.35	check	get on discord	nb28						
+1481.834	collide	puck	player	WRAITH	green	authority-closest	28		
+1482.367	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1484.417	check	nitr0	SPACECOW						
+1484.417	check	SPACECOW	nitr0						
+1485.734	collide	puck	player	StephenSeven	blue	stick	20		
+1486.755	collide	puck	player	nitr0	green	authority-request	34		
+1487.334	check	nitr0	StephenSeven						
+1492.217	check	get on discord	StephenSeven						
+1492.217	check	StephenSeven	get on discord						
+1495.201	collide	puck	player	SPACECOW	blue	authority-request	25		
+1502.325	collide	puck	player	get on discord	green	authority-request	14		
+1502.35	check	get on discord	SPACECOW						
+1502.35	check	SPACECOW	get on discord						
+1508.517	check	nitr0	nb28						
+1508.517	check	nb28	nitr0						
+1515.367	collide	puck	player	WRAITH	green	authority-closest	28		
+1530.534	collide	puck	player	nb28	blue	stick	31		
+1530.834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1531.467	collide	puck	player	get on discord	green	stick	14		
+1533.817	collide	puck	player	WRAITH	green	stick	28		
+1533.916	collide	puck	player	nitr0	green	authority-closest	34		
+1533.967	collide	puck	player	WRAITH	green	stick	28		
+1534.764	collide	puck	player	nitr0	green	authority-closest	34		
+1534.834	collide	puck	player	StephenSeven	blue	stick	20		
+1535.017	collide	puck	player	WRAITH	green	authority-closest	28		
+1535.017	check	SPACECOW	StephenSeven						
+1535.317	check	StephenSeven	SPACECOW						
+1535.417	check	StephenSeven	nb28						
+1535.417	check	nb28	StephenSeven						
+1535.467	check	get on discord	nb28						
+1535.467	check	nb28	get on discord						
+1536.134	check	nb28	SPACECOW						
+1536.134	check	SPACECOW	nb28						
+1536.234	check	nb28	SPACECOW						
+1536.234	check	SPACECOW	nb28						
+1542.217	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1542.4	check	get on discord	nb28						
+1543.606	period-end	server	-	8	5				
+1546	collide	puck	player	nitr0	green	authority-closest	34		
+1547.817	collide	puck	player	nb28	blue	authority-closest	31		
+1550.25	check	StephenSeven	nb28						
+1550.717	check	StephenSeven	nb28						
+1550.717	check	nb28	StephenSeven						
+1553.134	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1554.084	collide	puck	player	get on discord	green	stick	14		
+1554.25	check	get on discord	StephenSeven						
+1554.25	check	StephenSeven	get on discord						
+1557.467	collide	puck	player	nb28	blue	authority-closest	31		
+1558.15	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1562.067	collide	puck	player	nitr0	green	authority-closest	34		
+1566.934	check	nitr0	SPACECOW						
+1572.15	collide	puck	player	nb28	blue	authority-closest	31		
+1573.617	collide	puck	player	WRAITH	green	authority-closest	28		
+1583.134	collide	puck	player	StephenSeven	blue	stick	20		
+1583.584	check	StephenSeven	nb28						
+1583.717	check	StephenSeven	nb28						
+1583.767	collide	puck	player	get on discord	green	authority-closest	14		
+1584.767	collide	puck	player	nitr0	green	authority-closest	34		
+1586.567	collide	puck	player	get on discord	green	stick	14		
+1590.789	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1590.867	collide	puck	player	StephenSeven	blue	stick	20		
+1590.9	collide	puck	player	SPACECOW	blue	stick	25		
+1591.434	check	StephenSeven	SPACECOW						
+1591.434	check	SPACECOW	StephenSeven						
+1597.109	collide	puck	player	WRAITH	green	authority-closest	28		
+1602.917	check	WRAITH	SPACECOW						
+1607.634	check	get on discord	SPACECOW						
+1607.634	check	SPACECOW	get on discord						
+1608.484	check	get on discord	SPACECOW						
+1608.484	check	SPACECOW	get on discord						
+1609.784	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1610.867	check	nitr0	StephenSeven						
+1611	collide	puck	player	nitr0	green	stick	34		
+1618.317	collide	puck	player	SPACECOW	blue	stick	25		
+1618.617	collide	puck	player	nb28	blue	stick	31		
+1618.757	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1619.054	collide	puck	player	WRAITH	green	authority-request	28		
+1619.467	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1625.084	check	WRAITH	StephenSeven						
+1629.234	collide	puck	player	nb28	blue	stick	31		
+1631.217	collide	puck	player	StephenSeven	blue	stick	20		
+1635.284	collide	puck	player	nitr0	green	authority-closest	34		
+1635.634	check	nitr0	StephenSeven						
+1635.634	check	StephenSeven	nitr0						
+1638.4	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1641.3	collide	puck	player	get on discord	green	authority-closest	14		
+1641.8	check	get on discord	SPACECOW						
+1641.8	check	SPACECOW	get on discord						
+1642.017	check	get on discord	SPACECOW						
+1648.817	check	get on discord	SPACECOW						
+1651.4	goal	server	-	blue	SPACECOW	1	0	107.7946	1638.4
+1652.7	check	nitr0	nb28						
+1652.7	check	nb28	nitr0						
+1654.411	faceoff								
+1654.984	check	StephenSeven	nb28						
+1655.434	check	StephenSeven	SPACECOW						
+1655.45	check	nb28	SPACECOW						
+1655.45	check	SPACECOW	nb28						
+1655.517	check	StephenSeven	nb28						
+1655.517	check	nb28	StephenSeven						
+1655.7	check	nb28	SPACECOW						
+1655.7	check	SPACECOW	nb28						
+1657.267	faceoff								
+1657.284	collide	puck	player	nb28	blue	authority-closest	31		
+1657.467	faceoff								
+1657.517	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1657.667	faceoff								
+1657.75	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1658.1	collide	puck	player	nb28	blue	stick	31		
+1658.21	collide	puck	player	WRAITH	green	authority-closest	28		
+1658.217	collide	puck	player	get on discord	green	stick	14		
+1658.54	collide	puck	player	StephenSeven	blue	authority-request	20		
+1658.717	collide	puck	player	nb28	blue	stick	31		
+1658.727	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1658.817	collide	puck	player	nb28	blue	stick	31		
+1659.034	collide	puck	player	StephenSeven	blue	stick	20		
+1659.289	collide	puck	player	WRAITH	green	authority-closest	28		
+1659.617	collide	puck	player	nb28	blue	stick	31		
+1660.267	collide	puck	player	get on discord	green	stick	14		
+1660.5	collide	puck	player	WRAITH	green	authority-closest	28		
+1660.567	collide	puck	player	get on discord	green	stick	14		
+1660.684	check	WRAITH	get on discord						
+1661.04	collide	puck	player	StephenSeven	blue	authority-request	20		
+1661.384	check	WRAITH	StephenSeven						
+1661.384	check	StephenSeven	WRAITH						
+1661.403	collide	puck	player	WRAITH	green	authority-request	28		
+1662.784	check	nitr0	get on discord						
+1662.784	check	get on discord	nitr0						
+1665.517	check	nitr0	StephenSeven						
+1665.517	check	StephenSeven	nitr0						
+1665.634	check	nitr0	StephenSeven						
+1665.634	check	StephenSeven	nitr0						
+1666.934	collide	puck	player	nitr0	green	stick	34		
+1667.084	check	WRAITH	StephenSeven						
+1667.084	check	StephenSeven	WRAITH						
+1668.334	check	nitr0	get on discord						
+1668.334	check	get on discord	nitr0						
+1671.4	collide	puck	player	nb28	blue	authority-closest	31		
+1677.167	check	nitr0	SPACECOW						
+1677.167	check	SPACECOW	nitr0						
+1677.2	check	nitr0	SPACECOW						
+1677.2	check	SPACECOW	nitr0						
+1678.317	check	nitr0	nb28						
+1678.517	collide	puck	player	StephenSeven	blue	stick	20		
+1678.884	collide	puck	player	WRAITH	green	stick	28		
+1679.032	collide	puck	player	nitr0	green	authority-closest	34		
+1679.12	collide	puck	player	WRAITH	green	authority-closest	28		
+1680.834	check	nitr0	StephenSeven						
+1680.834	check	StephenSeven	nitr0						
+1680.9	check	nitr0	WRAITH						
+1680.9	check	WRAITH	nitr0						
+1681.017	check	WRAITH	StephenSeven						
+1681.017	check	StephenSeven	WRAITH						
+1681.184	check	nitr0	WRAITH						
+1681.45	check	nitr0	get on discord						
+1681.45	check	get on discord	nitr0						
+1681.467	check	nitr0	WRAITH						
+1681.534	check	WRAITH	StephenSeven						
+1681.534	check	StephenSeven	WRAITH						
+1681.567	check	nitr0	WRAITH						
+1681.567	check	WRAITH	nitr0						
+1681.667	check	nitr0	WRAITH						
+1681.667	check	WRAITH	nitr0						
+1682.334	collide	puck	player	nitr0	green	stick	34		
+1686.134	check	WRAITH	StephenSeven						
+1687.05	check	nitr0	nb28						
+1687.434	collide	puck	player	get on discord	green	stick	14		
+1687.65	check	WRAITH	StephenSeven						
+1687.734	collide	puck	player	nb28	blue	stick	31		
+1687.885	collide	puck	player	WRAITH	green	authority-closest	28		
+1687.917	check	WRAITH	get on discord						
+1688.435	collide	puck	player	StephenSeven	blue	authority-request	20		
+1688.517	collide	puck	player	nb28	blue	stick	31		
+1688.545	collide	puck	player	nitr0	green	authority-closest	34		
+1689.484	collide	puck	player	get on discord	green	stick	14		
+1689.55	collide	puck	player	nitr0	green	stick	34		
+1690.2	check	nitr0	nb28						
+1690.284	check	nitr0	get on discord						
+1690.75	check	WRAITH	get on discord						
+1690.75	check	get on discord	WRAITH						
+1692.217	check	nitr0	nb28						
+1694.517	check	nitr0	nb28						
+1694.517	check	nb28	nitr0						
+1696.934	collide	puck	player	StephenSeven	blue	stick	20		
+1697.45	check	nitr0	StephenSeven						
+1701.35	check	nitr0	StephenSeven						
+1701.35	check	StephenSeven	nitr0						
+1702.367	collide	puck	player	get on discord	green	stick	14		
+1703.217	collide	puck	player	nitr0	green	stick	34		
+1704.3	check	nitr0	SPACECOW						
+1704.3	check	SPACECOW	nitr0						
+1704.384	check	nitr0	SPACECOW						
+1704.384	check	SPACECOW	nitr0						
+1704.478	collide	puck	player	SPACECOW	blue	authority-request	25		
+1704.75	check	get on discord	StephenSeven						
+1705	collide	puck	player	nb28	blue	authority-closest	31		
+1706.184	check	nitr0	SPACECOW						
+1706.417	check	nitr0	SPACECOW						
+1715.034	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1719.417	collide	puck	player	WRAITH	green	authority-closest	28		
+1719.905	collide	puck	player	nb28	blue	authority-request	31		
+1720.317	check	WRAITH	nb28						
+1720.962	collide	puck	player	get on discord	green	authority-request	14		
+1721.1	check	nitr0	SPACECOW						
+1721.167	check	get on discord	nb28						
+1724.784	goal	server	-	blue	nb28	2	0	181.1779	1719.905
+1727.2	collide	puck	player	get on discord	green	stick	14		
+1727.217	check	nitr0	nb28						
+1727.217	check	nb28	nitr0						
+1727.789	faceoff								
+1728.55	check	WRAITH	get on discord						
+1728.584	check	get on discord	StephenSeven						
+1728.85	check	get on discord	StephenSeven						
+1728.85	check	StephenSeven	get on discord						
+1728.95	check	get on discord	StephenSeven						
+1728.95	check	StephenSeven	get on discord						
+1730.65	faceoff								
+1730.667	collide	puck	player	nb28	blue	authority-closest	31		
+1731.544	collide	puck	player	get on discord	green	authority-request	14		
+1731.85	collide	puck	player	StephenSeven	blue	stick	20		
+1733.067	collide	puck	player	nitr0	green	authority-closest	34		
+1734.55	check	nitr0	StephenSeven						
+1734.917	collide	puck	player	WRAITH	green	authority-closest	28		
+1738.584	collide	puck	player	nb28	blue	authority-closest	31		
+1744.467	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1752.388	collide	puck	player	get on discord	green	authority-request	14		
+1752.534	check	get on discord	SPACECOW						
+1753.15	collide	puck	player	WRAITH	green	authority-closest	28		
+1756.517	check	nb28	SPACECOW						
+1758.934	check	nb28	SPACECOW						
+1758.934	check	SPACECOW	nb28						
+1759.217	check	nb28	SPACECOW						
+1759.217	check	SPACECOW	nb28						
+1759.75	collide	puck	player	StephenSeven	blue	stick	20		
+1760.613	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1760.934	collide	puck	player	StephenSeven	blue	stick	20		
+1763.084	goal	server	-	green	WRAITH	2	1	219.4779	1753.15
+1766.086	faceoff								
+1767.9	check	WRAITH	get on discord						
+1768.95	faceoff								
+1768.967	collide	puck	player	nb28	blue	authority-closest	31		
+1769.134	faceoff								
+1769.2	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1770.017	collide	puck	player	nb28	blue	stick	31		
+1770.083	collide	puck	player	get on discord	green	authority-request	14		
+1770.15	collide	puck	player	StephenSeven	blue	stick	20		
+1770.171	collide	puck	player	nitr0	green	authority-closest	34		
+1770.217	collide	puck	player	get on discord	green	stick	14		
+1770.517	collide	puck	player	nb28	blue	stick	31		
+1770.734	check	get on discord	nb28						
+1770.734	check	nb28	get on discord						
+1771.228	collide	puck	player	nitr0	green	authority-closest	34		
+1771.867	collide	puck	player	get on discord	green	stick	14		
+1772.117	collide	puck	player	nitr0	green	stick	34		
+1772.234	collide	puck	player	StephenSeven	blue	stick	20		
+1772.317	check	get on discord	nb28						
+1772.7	collide	puck	player	nb28	blue	stick	31		
+1772.717	collide	puck	player	get on discord	green	stick	14		
+1773.232	collide	puck	player	StephenSeven	blue	authority-request	20		
+1773.485	collide	puck	player	nitr0	green	authority-request	34		
+1774.63	collide	puck	player	get on discord	green	authority-request	14		
+1774.65	collide	puck	player	nitr0	green	stick	34		
+1774.717	collide	puck	player	WRAITH	green	stick	28		
+1774.717	check	StephenSeven	WRAITH						
+1774.795	collide	puck	player	nitr0	green	authority-closest	34		
+1774.8	collide	puck	player	get on discord	green	stick	14		
+1774.834	check	WRAITH	StephenSeven						
+1775.676	collide	puck	player	WRAITH	green	authority-request	28		
+1783.367	collide	puck	player	get on discord	green	stick	14		
+1783.834	check	get on discord	StephenSeven						
+1785.05	check	get on discord	StephenSeven						
+1787.867	collide	puck	player	WRAITH	green	authority-closest	28		
+1790.717	collide	puck	player	nb28	blue	stick	31		
+1790.85	collide	puck	player	nitr0	green	authority-closest	34		
+1790.9	collide	puck	player	WRAITH	green	stick	28		
+1792.4	collide	puck	player	nitr0	green	stick	34		
+1793.084	check	nitr0	WRAITH						
+1793.084	check	WRAITH	nitr0						
+1794.15	collide	puck	player	StephenSeven	blue	stick	20		
+1794.417	collide	puck	player	nb28	blue	stick	31		
+1794.913	collide	puck	player	WRAITH	green	authority-request	28		
+1795.1	collide	puck	player	StephenSeven	blue	stick	20		
+1797.8	check	WRAITH	get on discord						
+1798.817	check	WRAITH	StephenSeven						
+1798.817	check	StephenSeven	WRAITH						
+1800.184	collide	puck	player	nitr0	green	stick	34		
+1800.634	check	nitr0	StephenSeven						
+1800.8	check	nitr0	WRAITH						
+1800.8	check	WRAITH	nitr0						
+1800.934	check	WRAITH	StephenSeven						
+1800.934	check	StephenSeven	WRAITH						
+1801.267	check	nitr0	get on discord						
+1801.267	check	get on discord	nitr0						
+1801.617	check	WRAITH	get on discord						
+1801.617	check	get on discord	WRAITH						
+1802.917	collide	puck	player	WRAITH	green	stick	28		
+1802.934	collide	puck	player	get on discord	green	authority-collide	14		
+1803.1	collide	puck	player	WRAITH	green	stick	28		
+1803.15	collide	puck	player	get on discord	green	stick	14		
+1803.171	collide	puck	player	WRAITH	green	authority-closest	28		
+1807.334	collide	puck	player	nb28	blue	authority-closest	31		
+1808.834	collide	puck	player	nitr0	green	authority-closest	34		
+1812.079	collide	puck	player	SPACECOW	blue	authority-request	25		
+1812.517	collide	puck	player	get on discord	green	stick	14		
+1813.384	collide	puck	player	WRAITH	green	authority-closest	28		
+1818.3	collide	puck	player	get on discord	green	authority-closest	14		
+1828.634	check	get on discord	SPACECOW						
+1828.634	check	SPACECOW	get on discord						
+1829.6	collide	puck	player	nb28	blue	authority-closest	31		
+1832.334	check	WRAITH	StephenSeven						
+1832.334	check	StephenSeven	WRAITH						
+1834.217	collide	puck	player	SPACECOW	blue	stick	25		
+1834.517	collide	puck	player	nitr0	green	authority-closest	34		
+1837.984	check	nitr0	SPACECOW						
+1837.984	check	SPACECOW	nitr0						
+1838.917	collide	puck	player	nb28	blue	stick	31		
+1839.4	check	nb28	SPACECOW						
+1839.4	check	SPACECOW	nb28						
+1839.634	check	nb28	SPACECOW						
+1839.634	check	SPACECOW	nb28						
+1844.05	check	WRAITH	SPACECOW						
+1844.567	collide	puck	player	get on discord	green	stick	14		
+1845.284	collide	puck	player	WRAITH	green	authority-closest	28		
+1845.484	collide	puck	player	StephenSeven	blue	stick	20		
+1847.067	check	WRAITH	SPACECOW						
+1847.767	collide	puck	player	nitr0	green	authority-closest	34		
+1849.467	collide	puck	player	get on discord	green	stick	14		
+1854.824	collide	puck	player	nb28	blue	authority-request	31		
+1856.284	check	nitr0	get on discord						
+1856.284	check	get on discord	nitr0						
+1859.717	collide	puck	player	nitr0	green	authority-closest	34		
+1860.034	check	get on discord	nb28						
+1860.15	goal	server	-	blue	nb28	3	1	316.5446	1854.824
+1860.2	check	nitr0	nb28						
+1860.2	check	nb28	nitr0						
+1860.684	check	nitr0	get on discord						
+1860.684	check	get on discord	nitr0						
+1863.16	faceoff								
+1864.067	check	StephenSeven	nb28						
+1866.017	faceoff								
+1866.034	collide	puck	player	nb28	blue	authority-closest	31		
+1866.2	faceoff								
+1866.267	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1870.229	collide	puck	player	nitr0	green	authority-request	34		
+1871.317	check	nitr0	WRAITH						
+1871.317	check	WRAITH	nitr0						
+1872.784	collide	puck	player	nb28	blue	stick	31		
+1875.789	collide	puck	player	SPACECOW	blue	authority-request	25		
+1876.184	check	nitr0	SPACECOW						
+1880.8	collide	puck	player	WRAITH	green	authority-closest	28		
+1883.5	collide	puck	player	nitr0	green	authority-closest	34		
+1888.367	check	nitr0	nb28						
+1890.017	collide	puck	player	nb28	blue	stick	31		
+1890.734	collide	puck	player	get on discord	green	authority-closest	14		
+1895.834	collide	puck	player	nitr0	green	authority-closest	34		
+1896.817	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1896.832	collide	puck	player	get on discord	green	authority-request	14		
+1897.9	check	get on discord	nb28						
+1897.9	check	nb28	get on discord						
+1897.934	collide	puck	player	nitr0	green	authority-closest	34		
+1899.7	collide	puck	player	SPACECOW	blue	stick	25		
+1900.333	collide	puck	player	StephenSeven	blue	authority-request	20		
+1901.134	collide	puck	player	SPACECOW	blue	stick	25		
+1901.467	check	nitr0	StephenSeven						
+1901.867	check	nitr0	StephenSeven						
+1911.034	check	get on discord	SPACECOW						
+1912.05	collide	puck	player	StephenSeven	blue	stick	20		
+1912.484	check	nitr0	StephenSeven						
+1912.767	check	nitr0	StephenSeven						
+1915.467	check	nitr0	get on discord						
+1915.467	check	get on discord	nitr0						
+1918.767	goal	server	-	blue	StephenSeven	4	1	375.1613	1912.05
+1921.772	faceoff								
+1924.634	faceoff								
+1924.65	collide	puck	player	nb28	blue	authority-closest	31		
+1925.449	collide	puck	player	get on discord	green	authority-request	14		
+1925.758	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1926.15	check	StephenSeven	nb28						
+1926.15	check	nb28	StephenSeven						
+1927.795	collide	puck	player	SPACECOW	blue	authority-request	25		
+1928.55	collide	puck	player	nitr0	green	authority-closest	34		
+1928.973	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1929.7	collide	puck	player	nb28	blue	authority-closest	31		
+1930	collide	puck	player	get on discord	green	authority-closest	14		
+1932.867	collide	puck	player	nitr0	green	authority-closest	34		
+1938.35	collide	puck	player	StephenSeven	blue	stick	20		
+1938.567	collide	puck	player	get on discord	green	stick	14		
+1938.734	check	nitr0	SPACECOW						
+1939.084	check	nitr0	SPACECOW						
+1939.084	check	SPACECOW	nitr0						
+1939.467	collide	puck	player	nb28	blue	authority-closest	31		
+1940	check	get on discord	SPACECOW						
+1940.45	collide	puck	player	WRAITH	green	authority-closest	28		
+1943.184	collide	puck	player	nitr0	green	authority-closest	34		
+1943.317	check	WRAITH	StephenSeven						
+1954.067	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1956.184	collide	puck	player	get on discord	green	authority-closest	14		
+1958.884	check	nitr0	WRAITH						
+1958.884	check	WRAITH	nitr0						
+1959	check	nitr0	WRAITH						
+1960.184	collide	puck	player	WRAITH	green	stick	28		
+1960.2	collide	puck	player	get on discord	green	stick	14		
+1960.3	collide	puck	player	WRAITH	green	stick	28		
+1960.3	collide	puck	player	WRAITH	green	stick	28		
+1961.284	collide	puck	player	get on discord	green	stick	14		
+1962.722	collide	puck	player	WRAITH	green	authority-closest	28		
+1963.35	collide	puck	player	StephenSeven	blue	stick	20		
+1964.234	check	get on discord	StephenSeven						
+1964.234	check	StephenSeven	get on discord						
+1964.684	check	get on discord	SPACECOW						
+1964.684	check	SPACECOW	get on discord						
+1965.517	check	nb28	SPACECOW						
+1965.967	check	WRAITH	StephenSeven						
+1965.967	check	StephenSeven	WRAITH						
+1971.117	check	get on discord	StephenSeven						
+1971.117	check	StephenSeven	get on discord						
+1973.084	collide	puck	player	nitr0	green	authority-closest	34		
+1977.466	collide	puck	player	nb28	blue	authority-request	31		
+1979.667	collide	puck	player	get on discord	green	authority-closest	14		
+1983.617	check	StephenSeven	nb28						
+1983.617	check	nb28	StephenSeven						
+1984.867	collide	puck	player	nitr0	green	authority-closest	34		
+1985.917	collide	puck	player	get on discord	green	authority-closest	14		
+1985.967	check	StephenSeven	nb28						
+1989	collide	puck	player	SPACECOW	blue	authority-closest	25		
+1990.267	check	nb28	SPACECOW						
+1991.946	collide	puck	player	StephenSeven	blue	authority-closest	20		
+1993.667	check	get on discord	StephenSeven						
+1994.317	check	get on discord	StephenSeven						
+1994.317	check	StephenSeven	get on discord						
+2002.417	collide	puck	player	SPACECOW	blue	stick	25		
+2002.75	check	get on discord	SPACECOW						
+2009.85	collide	puck	player	nitr0	green	authority-closest	34		
+2010.45	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2011.9	collide	puck	player	nb28	blue	authority-closest	31		
+2023.584	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2027.1	check	get on discord	SPACECOW						
+2027.864	collide	puck	player	get on discord	green	authority-request	14		
+2029.567	check	get on discord	nb28						
+2032.65	collide	puck	player	nitr0	green	authority-closest	34		
+2032.817	check	get on discord	SPACECOW						
+2033.034	check	get on discord	SPACECOW						
+2033.034	check	SPACECOW	get on discord						
+2037.2	check	StephenSeven	nb28						
+2037.2	check	nb28	StephenSeven						
+2041.034	collide	puck	player	nb28	blue	stick	31		
+2041.467	check	nitr0	get on discord						
+2041.85	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2042.967	collide	puck	player	nb28	blue	authority-closest	31		
+2049.284	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2052.084	check	get on discord	StephenSeven						
+2052.084	check	StephenSeven	get on discord						
+2055.667	check	nitr0	nb28						
+2055.667	check	nb28	nitr0						
+2055.953	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2057.167	collide	puck	player	StephenSeven	blue	stick	20		
+2057.4	collide	puck	player	get on discord	green	stick	14		
+2057.684	check	get on discord	StephenSeven						
+2060.617	check	get on discord	StephenSeven						
+2060.617	check	StephenSeven	get on discord						
+2061.932	collide	puck	player	WRAITH	green	authority-request	40		
+2062.167	collide	puck	player	nitr0	green	authority-closest	34		
+2063.134	check	nitr0	get on discord						
+2066.3	check	get on discord	SPACECOW						
+2070.384	check	nitr0	StephenSeven						
+2070.384	check	StephenSeven	nitr0						
+2070.567	check	nitr0	StephenSeven						
+2070.667	check	nitr0	StephenSeven						
+2070.667	check	StephenSeven	nitr0						
+2070.917	collide	puck	player	get on discord	green	authority-closest	14		
+2071.534	check	nitr0	get on discord						
+2074.567	check	nitr0	SPACECOW						
+2074.75	collide	puck	player	WRAITH	green	stick	40		
+2078.184	collide	puck	player	get on discord	green	authority-closest	14		
+2081.9	check	StephenSeven	SPACECOW						
+2082.817	check	get on discord	SPACECOW						
+2083.459	collide	puck	player	SPACECOW	blue	authority-request	25		
+2084.467	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2085.234	check	StephenSeven	SPACECOW						
+2085.234	check	SPACECOW	StephenSeven						
+2088.4	collide	puck	player	nitr0	green	authority-closest	34		
+2090.717	check	nitr0	SPACECOW						
+2090.75	collide	puck	player	get on discord	green	stick	14		
+2090.8	collide	puck	player	nitr0	green	stick	34		
+2091.05	check	nitr0	StephenSeven						
+2091.05	check	StephenSeven	nitr0						
+2094.657	collide	puck	player	WRAITH	green	authority-closest	40		
+2098.284	collide	puck	player	nb28	blue	authority-closest	31		
+2101.617	collide	puck	player	SPACECOW	blue	stick	25		
+2102.3	check	WRAITH	nb28						
+2102.3	check	nb28	WRAITH						
+2103.484	check	WRAITH	SPACECOW						
+2104.634	check	WRAITH	SPACECOW						
+2104.634	check	SPACECOW	WRAITH						
+2105.017	check	WRAITH	SPACECOW						
+2105.017	check	SPACECOW	WRAITH						
+2105.117	check	WRAITH	SPACECOW						
+2105.117	check	SPACECOW	WRAITH						
+2105.417	check	WRAITH	SPACECOW						
+2105.417	check	SPACECOW	WRAITH						
+2106.434	collide	puck	player	nb28	blue	stick	31		
+2109.8	check	WRAITH	nb28						
+2109.8	check	nb28	WRAITH						
+2111.2	check	StephenSeven	nb28						
+2112.715	collide	puck	player	get on discord	green	authority-request	14		
+2112.967	collide	puck	player	WRAITH	green	authority-closest	40		
+2117.917	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2121.484	collide	puck	player	nitr0	green	authority-closest	34		
+2129.017	check	nitr0	nb28						
+2129.017	check	nb28	nitr0						
+2129.234	collide	puck	player	nb28	blue	stick	31		
+2129.234	check	nitr0	nb28						
+2129.234	check	nb28	nitr0						
+2129.334	check	nitr0	nb28						
+2135.484	check	nitr0	nb28						
+2135.484	check	nb28	nitr0						
+2135.534	check	nitr0	StephenSeven						
+2135.55	check	StephenSeven	nb28						
+2137.267	collide	puck	player	WRAITH	green	authority-closest	40		
+2140.684	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2141.047	collide	puck	player	get on discord	green	authority-closest	14		
+2144.317	collide	puck	player	SPACECOW	blue	stick	25		
+2146.7	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2147.434	collide	puck	player	nitr0	green	authority-closest	34		
+2160.017	check	nitr0	SPACECOW						
+2160.017	check	SPACECOW	nitr0						
+2161.717	check	WRAITH	StephenSeven						
+2164.084	collide	puck	player	nb28	blue	authority-closest	31		
+2168.134	collide	puck	player	WRAITH	green	stick	40		
+2168.784	check	WRAITH	nb28						
+2169	check	WRAITH	nb28						
+2169	check	nb28	WRAITH						
+2177.35	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2178.867	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2184.417	check	WRAITH	nb28						
+2184.417	check	nb28	WRAITH						
+2185.51	collide	puck	player	nitr0	green	authority-request	34		
+2187.5	check	nitr0	SPACECOW						
+2187.5	check	SPACECOW	nitr0						
+2187.9	check	WRAITH	SPACECOW						
+2189.2	collide	puck	player	WRAITH	green	authority-closest	40		
+2189.884	check	WRAITH	SPACECOW						
+2189.917	check	WRAITH	SPACECOW						
+2193.134	check	WRAITH	StephenSeven						
+2193.134	check	StephenSeven	WRAITH						
+2196.75	check	get on discord	SPACECOW						
+2199.267	collide	puck	player	nb28	blue	authority-closest	31		
+2202.784	check	WRAITH	nb28						
+2205.6	check	WRAITH	nb28						
+2208.817	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2210.317	collide	puck	player	nitr0	green	authority-closest	34		
+2211.267	check	nitr0	StephenSeven						
+2211.267	check	StephenSeven	nitr0						
+2212	collide	puck	player	WRAITH	green	authority-closest	40		
+2219.217	check	WRAITH	StephenSeven						
+2220.417	check	nitr0	WRAITH						
+2220.45	collide	puck	player	nb28	blue	authority-closest	31		
+2222.2	check	get on discord	SPACECOW						
+2222.367	check	get on discord	SPACECOW						
+2222.367	check	SPACECOW	get on discord						
+2223.45	check	get on discord	SPACECOW						
+2223.45	check	SPACECOW	get on discord						
+2227.867	check	get on discord	nb28						
+2227.867	check	nb28	get on discord						
+2228.834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2230.817	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2233.45	collide	puck	player	nitr0	green	authority-closest	34		
+2237.317	collide	puck	player	SPACECOW	blue	stick	25		
+2237.884	check	nitr0	SPACECOW						
+2241.317	check	nitr0	SPACECOW						
+2242.856	collide	puck	player	get on discord	green	authority-request	14		
+2242.884	check	get on discord	SPACECOW						
+2243.134	check	get on discord	SPACECOW						
+2243.984	collide	puck	player	nitr0	green	authority-closest	34		
+2244.8	collide	puck	player	StephenSeven	blue	stick	20		
+2244.827	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2245.6	collide	puck	player	StephenSeven	blue	stick	20		
+2245.667	check	StephenSeven	SPACECOW						
+2245.667	check	SPACECOW	StephenSeven						
+2250.117	collide	puck	player	SPACECOW	blue	stick	25		
+2252.117	collide	puck	player	nb28	blue	stick	31		
+2252.317	check	nitr0	nb28						
+2252.8	check	get on discord	SPACECOW						
+2252.95	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2253.917	check	get on discord	SPACECOW						
+2253.917	check	SPACECOW	get on discord						
+2254.334	check	get on discord	SPACECOW						
+2255.334	check	get on discord	SPACECOW						
+2255.334	check	SPACECOW	get on discord						
+2258	collide	puck	player	WRAITH	green	stick	40		
+2258.062	collide	puck	player	nitr0	green	authority-closest	34		
+2258.167	collide	puck	player	WRAITH	green	stick	40		
+2258.4	check	WRAITH	StephenSeven						
+2258.684	check	WRAITH	StephenSeven						
+2262.85	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2267	check	nitr0	SPACECOW						
+2267	check	SPACECOW	nitr0						
+2268.184	check	WRAITH	SPACECOW						
+2268.184	check	SPACECOW	WRAITH						
+2268.334	collide	puck	player	nb28	blue	stick	31		
+2268.384	check	nitr0	SPACECOW						
+2268.884	check	nitr0	nb28						
+2268.884	check	nb28	nitr0						
+2268.967	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2280.184	check	get on discord	StephenSeven						
+2280.184	check	StephenSeven	get on discord						
+2282.76	collide	puck	player	nitr0	green	authority-request	34		
+2283.5	collide	puck	player	SPACECOW	blue	stick	25		
+2285.384	check	WRAITH	nb28						
+2285.384	check	nb28	WRAITH						
+2291.917	collide	puck	player	get on discord	green	authority-closest	14		
+2292.434	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2296.7	collide	puck	player	nitr0	green	stick	34		
+2297.217	check	nitr0	StephenSeven						
+2297.217	check	StephenSeven	nitr0						
+2299.167	collide	puck	player	nb28	blue	authority-closest	31		
+2305.134	check	WRAITH	StephenSeven						
+2305.55	check	nitr0	nb28						
+2309	collide	puck	player	SPACECOW	blue	stick	25		
+2311.135	collide	puck	player	nb28	blue	authority-request	31		
+2311.3	check	nb28	SPACECOW						
+2311.534	check	nb28	SPACECOW						
+2311.534	check	SPACECOW	nb28						
+2312.567	collide	puck	player	get on discord	green	stick	14		
+2312.732	collide	puck	player	nitr0	green	authority-closest	34		
+2313.69	collide	puck	player	get on discord	green	authority-request	14		
+2313.95	check	get on discord	nb28						
+2315.117	collide	puck	player	SPACECOW	blue	stick	25		
+2315.243	collide	puck	player	nitr0	green	authority-closest	34		
+2315.917	check	nitr0	StephenSeven						
+2315.917	check	StephenSeven	nitr0						
+2316.334	check	get on discord	nb28						
+2316.667	check	nitr0	nb28						
+2316.75	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2320.4	collide	puck	player	get on discord	green	stick	14		
+2321.167	collide	puck	player	nb28	blue	authority-closest	31		
+2322.543	collide	puck	player	nitr0	green	authority-request	34		
+2325.164	collide	puck	player	StephenSeven	blue	authority-request	20		
+2333.484	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2333.95	check	nitr0	nb28						
+2335.15	collide	puck	player	WRAITH	green	authority-closest	40		
+2340.167	check	WRAITH	StephenSeven						
+2340.167	check	StephenSeven	WRAITH						
+2344.084	collide	puck	player	nb28	blue	authority-closest	31		
+2345.134	collide	puck	player	get on discord	green	authority-closest	14		
+2347.263	collide	puck	player	StephenSeven	blue	authority-request	20		
+2347.367	check	get on discord	StephenSeven						
+2347.75	check	get on discord	StephenSeven						
+2347.75	check	StephenSeven	get on discord						
+2348.034	check	get on discord	StephenSeven						
+2348.034	check	StephenSeven	get on discord						
+2348.6	check	get on discord	StephenSeven						
+2349	check	get on discord	StephenSeven						
+2351.084	check	nitr0	SPACECOW						
+2351.084	check	SPACECOW	nitr0						
+2353.85	check	nitr0	SPACECOW						
+2353.917	collide	puck	player	SPACECOW	blue	stick	25		
+2354.035	collide	puck	player	nitr0	green	authority-closest	34		
+2354.117	collide	puck	player	get on discord	green	stick	14		
+2354.184	collide	puck	player	nitr0	green	stick	34		
+2355.55	check	nitr0	SPACECOW						
+2355.55	check	SPACECOW	nitr0						
+2355.717	check	nitr0	SPACECOW						
+2355.717	check	SPACECOW	nitr0						
+2356	collide	puck	player	StephenSeven	blue	stick	20		
+2356.017	check	nitr0	SPACECOW						
+2356.117	check	nitr0	SPACECOW						
+2356.684	check	nitr0	get on discord						
+2356.684	check	get on discord	nitr0						
+2357.417	collide	puck	player	SPACECOW	blue	stick	25		
+2357.536	collide	puck	player	nitr0	green	authority-closest	34		
+2358.917	collide	puck	player	StephenSeven	blue	stick	20		
+2361.217	collide	puck	player	SPACECOW	blue	stick	25		
+2363.267	collide	puck	player	WRAITH	green	stick	40		
+2367.05	check	WRAITH	StephenSeven						
+2369.95	check	WRAITH	StephenSeven						
+2369.95	check	StephenSeven	WRAITH						
+2369.967	collide	puck	player	get on discord	green	stick	14		
+2370.981	collide	puck	player	WRAITH	green	authority-closest	40		
+2371.034	check	get on discord	SPACECOW						
+2371.35	goal	server	-	green	WRAITH	4	2	827.7446	2370.981
+2371.45	check	nb28	SPACECOW						
+2371.967	check	StephenSeven	SPACECOW						
+2371.967	check	SPACECOW	StephenSeven						
+2372.2	check	StephenSeven	SPACECOW						
+2372.45	check	StephenSeven	SPACECOW						
+2372.55	check	get on discord	SPACECOW						
+2372.617	check	get on discord	StephenSeven						
+2372.7	check	StephenSeven	SPACECOW						
+2372.817	check	StephenSeven	SPACECOW						
+2374.361	faceoff								
+2375.517	check	WRAITH	get on discord						
+2375.517	check	get on discord	WRAITH						
+2377.217	faceoff								
+2377.234	collide	puck	player	nb28	blue	authority-closest	31		
+2377.4	faceoff								
+2377.467	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2378.25	collide	puck	player	nb28	blue	stick	31		
+2378.656	collide	puck	player	get on discord	green	authority-request	14		
+2378.817	check	get on discord	nb28						
+2379.034	check	WRAITH	nb28						
+2379.283	collide	puck	player	StephenSeven	blue	authority-request	20		
+2380.234	collide	puck	player	SPACECOW	blue	stick	25		
+2380.634	check	get on discord	SPACECOW						
+2380.634	check	SPACECOW	get on discord						
+2380.984	check	WRAITH	SPACECOW						
+2380.984	check	SPACECOW	WRAITH						
+2381.25	collide	puck	player	nitr0	green	authority-closest	34		
+2381.284	check	WRAITH	SPACECOW						
+2381.284	check	SPACECOW	WRAITH						
+2381.884	check	get on discord	SPACECOW						
+2381.884	check	SPACECOW	get on discord						
+2382.834	check	nitr0	SPACECOW						
+2384.934	check	nitr0	StephenSeven						
+2384.934	check	StephenSeven	nitr0						
+2388.5	collide	puck	player	StephenSeven	blue	stick	20		
+2388.834	collide	puck	player	get on discord	green	stick	14		
+2389.084	check	get on discord	StephenSeven						
+2389.084	check	StephenSeven	get on discord						
+2389.25	collide	puck	player	nitr0	green	authority-closest	34		
+2389.7	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2397.384	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2398.367	collide	puck	player	WRAITH	green	stick	40		
+2398.667	check	WRAITH	StephenSeven						
+2398.884	check	WRAITH	StephenSeven						
+2398.884	check	StephenSeven	WRAITH						
+2399.5	check	WRAITH	StephenSeven						
+2399.5	check	StephenSeven	WRAITH						
+2399.767	check	WRAITH	StephenSeven						
+2400.684	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2405.634	check	WRAITH	SPACECOW						
+2407.984	check	WRAITH	SPACECOW						
+2407.984	check	SPACECOW	WRAITH						
+2408.417	check	WRAITH	get on discord						
+2408.5	check	WRAITH	get on discord						
+2408.5	check	get on discord	WRAITH						
+2408.617	check	WRAITH	get on discord						
+2408.617	check	get on discord	WRAITH						
+2408.717	check	get on discord	SPACECOW						
+2408.717	check	SPACECOW	get on discord						
+2408.717	check	WRAITH	get on discord						
+2408.717	check	get on discord	WRAITH						
+2408.817	check	get on discord	SPACECOW						
+2408.95	check	WRAITH	get on discord						
+2408.95	check	get on discord	WRAITH						
+2408.95	check	SPACECOW	WRAITH						
+2409.05	check	WRAITH	SPACECOW						
+2409.05	check	SPACECOW	WRAITH						
+2410.217	collide	puck	player	StephenSeven	blue	stick	20		
+2410.967	collide	puck	player	get on discord	green	stick	14		
+2411.017	check	WRAITH	SPACECOW						
+2411.2	check	WRAITH	get on discord						
+2411.2	check	get on discord	WRAITH						
+2411.249	collide	puck	player	SPACECOW	blue	authority-request	25		
+2411.467	check	get on discord	SPACECOW						
+2411.5	collide	puck	player	StephenSeven	blue	stick	20		
+2412.834	collide	puck	player	WRAITH	green	authority-request	40		
+2413.817	collide	puck	player	SPACECOW	blue	stick	25		
+2413.95	check	WRAITH	StephenSeven						
+2415.917	collide	puck	player	get on discord	green	stick	14		
+2416.934	collide	puck	player	nb28	blue	stick	31		
+2417.052	collide	puck	player	nitr0	green	authority-closest	34		
+2417.317	collide	puck	player	SPACECOW	blue	stick	25		
+2417.45	collide	puck	player	nb28	blue	stick	31		
+2417.784	collide	puck	player	get on discord	green	stick	14		
+2418.367	check	get on discord	nb28						
+2418.367	check	nb28	get on discord						
+2418.634	check	WRAITH	get on discord						
+2418.725	collide	puck	player	WRAITH	green	authority-closest	40		
+2418.85	collide	puck	player	get on discord	green	stick	14		
+2419	collide	puck	player	WRAITH	green	authority-closest	40		
+2419.05	collide	puck	player	get on discord	green	stick	14		
+2419.217	collide	puck	player	WRAITH	green	stick	40		
+2419.6	check	get on discord	nb28						
+2419.667	check	WRAITH	get on discord						
+2419.667	check	get on discord	WRAITH						
+2419.934	check	WRAITH	get on discord						
+2420	collide	puck	player	StephenSeven	blue	stick	20		
+2420.234	collide	puck	player	nb28	blue	stick	31		
+2420.75	check	get on discord	StephenSeven						
+2420.75	check	StephenSeven	get on discord						
+2420.85	check	get on discord	nb28						
+2420.85	check	nb28	get on discord						
+2420.884	collide	puck	player	get on discord	green	stick	14		
+2421.2	check	get on discord	nb28						
+2421.267	check	get on discord	nb28						
+2421.317	collide	puck	player	StephenSeven	blue	stick	20		
+2421.5	collide	puck	player	WRAITH	green	stick	40		
+2422.4	check	WRAITH	nb28						
+2422.4	check	nb28	WRAITH						
+2423.067	check	get on discord	StephenSeven						
+2428.384	collide	puck	player	nitr0	green	authority-closest	34		
+2428.784	check	WRAITH	SPACECOW						
+2428.784	check	SPACECOW	WRAITH						
+2429.084	collide	puck	player	get on discord	green	stick	14		
+2429.75	collide	puck	player	nb28	blue	authority-closest	31		
+2438.644	collide	puck	player	nitr0	green	authority-closest	34		
+2438.7	goal	server	-	blue	nb28	5	2	895.0947	2429.75
+2439.884	check	get on discord	StephenSeven						
+2440.134	check	nitr0	nb28						
+2440.417	check	get on discord	StephenSeven						
+2440.417	check	StephenSeven	get on discord						
+2440.634	check	get on discord	nb28						
+2440.634	check	nb28	get on discord						
+2441.267	collide	puck	player	get on discord	green	stick	14		
+2441.434	check	nitr0	SPACECOW						
+2441.705	faceoff								
+2442.084	check	nitr0	SPACECOW						
+2442.084	check	SPACECOW	nitr0						
+2442.134	check	StephenSeven	nb28						
+2442.3	check	nitr0	SPACECOW						
+2443.1	check	StephenSeven	nb28						
+2443.1	check	nb28	StephenSeven						
+2444.567	faceoff								
+2444.584	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2445.65	collide	puck	player	nb28	blue	stick	31		
+2445.717	collide	puck	player	SPACECOW	blue	stick	25		
+2445.846	collide	puck	player	StephenSeven	blue	authority-request	20		
+2446.234	check	WRAITH	StephenSeven						
+2446.234	check	StephenSeven	WRAITH						
+2446.308	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2446.4	check	WRAITH	nb28						
+2446.75	check	WRAITH	StephenSeven						
+2446.75	check	StephenSeven	WRAITH						
+2446.784	check	WRAITH	StephenSeven						
+2446.784	check	StephenSeven	WRAITH						
+2446.884	check	WRAITH	nb28						
+2448.05	collide	puck	player	nitr0	green	stick	34		
+2449.6	collide	puck	player	StephenSeven	blue	stick	20		
+2449.717	collide	puck	player	nb28	blue	stick	31		
+2449.9	collide	puck	player	StephenSeven	blue	stick	20		
+2450.984	check	WRAITH	StephenSeven						
+2451.617	check	nitr0	WRAITH						
+2451.617	check	WRAITH	nitr0						
+2451.917	collide	puck	player	SPACECOW	blue	stick	25		
+2453.617	check	nitr0	SPACECOW						
+2453.617	check	SPACECOW	nitr0						
+2453.867	check	WRAITH	SPACECOW						
+2453.867	check	SPACECOW	WRAITH						
+2454.05	collide	puck	player	nb28	blue	stick	31		
+2454.45	collide	puck	player	WRAITH	green	stick	40		
+2454.75	collide	puck	player	nitr0	green	stick	34		
+2455.517	check	nitr0	WRAITH						
+2455.613	collide	puck	player	SPACECOW	blue	authority-request	25		
+2455.7	collide	puck	player	nb28	blue	stick	31		
+2457.067	collide	puck	player	WRAITH	green	authority-closest	40		
+2457.284	check	nitr0	SPACECOW						
+2461.327	collide	puck	player	nitr0	green	authority-closest	34		
+2461.417	collide	puck	player	WRAITH	green	stick	40		
+2462.693	collide	puck	player	nitr0	green	authority-closest	34		
+2464.2	check	WRAITH	nb28						
+2465.6	collide	puck	player	WRAITH	green	authority-closest	40		
+2466.134	check	WRAITH	StephenSeven						
+2466.134	check	StephenSeven	WRAITH						
+2466.65	check	WRAITH	StephenSeven						
+2466.934	collide	puck	player	get on discord	green	authority-closest	14		
+2466.984	check	WRAITH	StephenSeven						
+2468.551	collide	puck	player	SPACECOW	blue	authority-request	25		
+2470.484	check	get on discord	StephenSeven						
+2476	check	get on discord	SPACECOW						
+2476	check	SPACECOW	get on discord						
+2477.284	check	get on discord	SPACECOW						
+2477.382	collide	puck	player	WRAITH	green	authority-closest	40		
+2477.384	check	get on discord	SPACECOW						
+2477.6	check	get on discord	SPACECOW						
+2478.3	check	get on discord	SPACECOW						
+2478.3	check	SPACECOW	get on discord						
+2480.234	check	nitr0	WRAITH						
+2480.234	check	WRAITH	nitr0						
+2481.867	collide	puck	player	StephenSeven	blue	authority-closest	20		
+2482.834	collide	puck	player	nb28	blue	stick	31		
+2483.117	check	nitr0	get on discord						
+2483.117	check	get on discord	nitr0						
+2491.5	collide	puck	player	StephenSeven	blue	stick	20		
+2495.267	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2502.884	collide	puck	player	get on discord	green	stick	14		
+2504.717	check	get on discord	StephenSeven						
+2504.717	check	StephenSeven	get on discord						
+2505.584	check	WRAITH	StephenSeven						
+2505.584	check	StephenSeven	WRAITH						
+2506.284	goal	server	-	green	get on discord	5	3	962.678	2502.884
+2508.117	check	get on discord	StephenSeven						
+2508.117	check	StephenSeven	get on discord						
+2509.292	faceoff								
+2510.117	check	WRAITH	get on discord						
+2510.117	check	get on discord	WRAITH						
+2512.15	faceoff								
+2512.167	collide	puck	player	nb28	blue	authority-closest	31		
+2512.334	faceoff								
+2512.4	collide	puck	player	nb28	blue	authority-closest	31		
+2513.487	collide	puck	player	WRAITH	green	authority-request	40		
+2516.467	check	nitr0	nb28						
+2520.034	check	nb28	SPACECOW						
+2520.417	check	get on discord	SPACECOW						
+2520.417	check	SPACECOW	get on discord						
+2520.7	check	nitr0	WRAITH						
+2520.7	check	WRAITH	nitr0						
+2520.934	check	nitr0	WRAITH						
+2520.984	check	nitr0	WRAITH						
+2522.05	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2530.6	collide	puck	player	get on discord	green	authority-closest	14		
+2531.017	collide	puck	player	StephenSeven	blue	stick	20		
+2534.012	collide	puck	player	WRAITH	green	authority-request	40		
+2534.217	check	WRAITH	StephenSeven						
+2534.217	check	StephenSeven	WRAITH						
+2535.434	check	WRAITH	SPACECOW						
+2535.434	check	SPACECOW	WRAITH						
+2541.15	collide	puck	player	get on discord	green	authority-closest	14		
+2542.336	collide	puck	player	SPACECOW	blue	authority-request	25		
+2546.047	collide	puck	player	WRAITH	green	authority-request	40		
+2553.75	collide	puck	player	nb28	blue	authority-closest	31		
+2554.15	check	WRAITH	nb28						
+2554.15	check	nb28	WRAITH						
+2554.801	collide	puck	player	get on discord	green	authority-request	14		
+2554.988	collide	puck	player	WRAITH	green	authority-closest	40		
+2556.234	check	WRAITH	nb28						
+2556.234	check	nb28	WRAITH						
+2558.4	check	nitr0	nb28						
+2559.734	check	WRAITH	get on discord						
+2559.734	check	get on discord	WRAITH						
+2560.417	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2568.317	collide	puck	player	nitr0	green	authority-closest	34		
+2568.667	collide	puck	player	nb28	blue	stick	31		
+2570.1	collide	puck	player	get on discord	green	authority-closest	14		
+2572.76	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2573.828	collide	puck	player	WRAITH	green	authority-closest	40		
+2574.95	collide	puck	player	get on discord	green	stick	14		
+2575.15	collide	puck	player	WRAITH	green	stick	40		
+2575.301	check	WRAITH	SPACECOW						
+2579.9	check	WRAITH	SPACECOW						
+2579.9	check	SPACECOW	WRAITH						
+2583.5	collide	puck	player	get on discord	green	authority-closest	14		
+2584.084	check	get on discord	SPACECOW						
+2584.7	check	get on discord	SPACECOW						
+2584.7	check	SPACECOW	get on discord						
+2590.484	collide	puck	player	nb28	blue	authority-closest	31		
+2597.051	check	nitr0	SPACECOW						
+2597.051	check	SPACECOW	nitr0						
+2597.467	collide	puck	player	WRAITH	green	authority-closest	40		
+2599.242	collide	puck	player	nitr0	green	authority-closest	34		
+2599.352	collide	puck	player	WRAITH	green	authority-closest	40		
+2599.451	collide	puck	player	nitr0	green	authority-closest	34		
+2599.539	collide	puck	player	WRAITH	green	authority-closest	40		
+2600.508	collide	puck	player	nitr0	green	authority-closest	34		
+2600.85	check	nitr0	WRAITH						
+2604.25	collide	puck	player	WRAITH	green	stick	40		
+2604.4	check	WRAITH	nb28						
+2604.4	check	nb28	WRAITH						
+2604.551	check	nitr0	nb28						
+2607.167	collide	puck	player	get on discord	green	stick	14		
+2611.211	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2611.534	check	get on discord	nb28						
+2612.067	collide	puck	player	nitr0	green	stick	34		
+2612.268	collide	puck	player	nb28	blue	authority-request	31		
+2612.984	collide	puck	player	get on discord	green	authority-request	14		
+2615.917	check	nitr0	nb28						
+2615.917	check	nb28	nitr0						
+2618.734	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2622.15	collide	puck	player	nb28	blue	stick	31		
+2622.178	collide	puck	player	WRAITH	green	authority-closest	40		
+2623.051	check	WRAITH	nb28						
+2623.051	check	nb28	WRAITH						
+2623.167	check	WRAITH	SPACECOW						
+2623.167	check	SPACECOW	WRAITH						
+2623.367	check	WRAITH	nb28						
+2623.367	check	nb28	WRAITH						
+2623.6	collide	puck	player	SPACECOW	blue	stick	25		
+2623.631	collide	puck	player	nb28	blue	authority-request	31		
+2623.801	collide	puck	player	SPACECOW	blue	stick	25		
+2624.25	collide	puck	player	nb28	blue	stick	31		
+2624.767	check	WRAITH	nb28						
+2624.767	check	nb28	WRAITH						
+2625.9	collide	puck	player	SPACECOW	blue	stick	25		
+2627.967	check	WRAITH	nb28						
+2627.967	check	nb28	WRAITH						
+2628.117	collide	puck	player	get on discord	green	stick	14		
+2628.867	collide	puck	player	WRAITH	green	stick	40		
+2629.051	collide	puck	player	get on discord	green	stick	14		
+2629.067	collide	puck	player	WRAITH	green	stick	40		
+2629.2	check	get on discord	SPACECOW						
+2632.184	check	get on discord	SPACECOW						
+2636.034	check	WRAITH	SPACECOW						
+2636.067	collide	puck	player	nitr0	green	authority-closest	34		
+2636.434	collide	puck	player	get on discord	green	stick	14		
+2637.817	collide	puck	player	nb28	blue	stick	31		
+2638.485	collide	puck	player	nitr0	green	authority-closest	34		
+2638.573	collide	puck	player	get on discord	green	authority-closest	14		
+2639.19	collide	puck	player	nitr0	green	authority-closest	34		
+2639.567	collide	puck	player	get on discord	green	stick	14		
+2640.017	collide	puck	player	WRAITH	green	stick	40		
+2640.051	check	get on discord	nb28						
+2640.115	collide	puck	player	nitr0	green	authority-closest	34		
+2640.134	check	WRAITH	nb28						
+2640.317	check	WRAITH	get on discord						
+2640.511	collide	puck	player	SPACECOW	blue	authority-request	25		
+2640.6	collide	puck	player	nb28	blue	stick	31		
+2640.65	check	get on discord	nb28						
+2640.7	check	get on discord	nb28						
+2640.817	check	get on discord	SPACECOW						
+2640.9	check	nb28	SPACECOW						
+2640.9	check	SPACECOW	nb28						
+2640.967	check	get on discord	nb28						
+2640.967	check	nb28	get on discord						
+2641.15	check	get on discord	nb28						
+2641.15	check	nb28	get on discord						
+2642.9	collide	puck	player	SPACECOW	blue	stick	25		
+2644.53	collide	puck	player	get on discord	green	authority-request	14		
+2644.6	check	get on discord	SPACECOW						
+2644.6	check	SPACECOW	get on discord						
+2645.35	collide	puck	player	nitr0	green	authority-closest	34		
+2648.054	collide	puck	player	nb28	blue	authority-request	31		
+2648.767	check	nb28	SPACECOW						
+2648.767	check	SPACECOW	nb28						
+2650.217	check	nitr0	SPACECOW						
+2651.517	check	nitr0	nb28						
+2653.185	collide	puck	player	SPACECOW	blue	authority-request	25		
+2653.884	check	get on discord	SPACECOW						
+2653.884	check	SPACECOW	get on discord						
+2657.034	collide	puck	player	WRAITH	green	authority-closest	40		
+2661.65	check	WRAITH	nb28						
+2661.65	check	nb28	WRAITH						
+2664.02	collide	puck	player	nb28	blue	authority-request	31		
+2668.45	collide	puck	player	nitr0	green	authority-closest	34		
+2673.034	collide	puck	player	get on discord	green	authority-closest	14		
+2680.75	check	get on discord	nb28						
+2680.75	check	nb28	get on discord						
+2681.836	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2683.217	collide	puck	player	WRAITH	green	stick	40		
+2691.45	collide	puck	player	nitr0	green	authority-closest	34		
+2696.384	collide	puck	player	nb28	blue	stick	31		
+2696.404	collide	puck	player	WRAITH	green	authority-closest	40		
+2696.584	check	WRAITH	SPACECOW						
+2697.2	check	WRAITH	SPACECOW						
+2697.301	check	WRAITH	SPACECOW						
+2698.15	check	WRAITH	nb28						
+2699.301	check	nitr0	SPACECOW						
+2704.017	collide	puck	player	SPACECOW	blue	stick	25		
+2705.367	collide	puck	player	nitr0	green	stick	34		
+2705.784	check	nitr0	SPACECOW						
+2705.784	check	SPACECOW	nitr0						
+2713.234	check	nitr0	nb28						
+2713.234	check	nb28	nitr0						
+2715.167	faceoff								
+2715.167	faceoff								
+2715.167	faceoff								
+2716.551	check	nitr0	nb28						
+2718.034	faceoff								
+2718.051	collide	puck	player	WRAITH	green	authority-closest	40		
+2718.25	faceoff								
+2718.284	collide	puck	player	WRAITH	green	authority-closest	40		
+2718.801	collide	puck	player	SPACECOW	blue	stick	25		
+2719.567	collide	puck	player	nb28	blue	authority-closest	31		
+2721.08	collide	puck	player	nitr0	green	authority-closest	34		
+2722.234	collide	puck	player	WRAITH	green	authority-closest	40		
+2723.767	goal	server	-	green	WRAITH	5	4	1180.161	2722.234
+2726.772	faceoff								
+2727.084	check	WRAITH	get on discord						
+2727.684	check	WRAITH	get on discord						
+2728.4	check	WRAITH	get on discord						
+2728.517	check	WRAITH	get on discord						
+2729.634	faceoff								
+2729.65	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2730.384	collide	puck	player	get on discord	green	authority-request	14		
+2730.483	collide	puck	player	WRAITH	green	authority-closest	40		
+2730.484	collide	puck	player	get on discord	green	stick	14		
+2730.549	collide	puck	player	nb28	blue	authority-closest	31		
+2731.595	collide	puck	player	WRAITH	green	authority-closest	40		
+2732.217	collide	puck	player	get on discord	green	stick	14		
+2732.734	check	nitr0	nb28						
+2732.734	check	nb28	nitr0						
+2732.884	collide	puck	player	WRAITH	green	stick	40		
+2736.567	goal	server	-	green	WRAITH	5	5	1192.961	2732.884
+2739.567	faceoff								
+2740.217	check	WRAITH	get on discord						
+2740.45	check	WRAITH	get on discord						
+2740.934	check	WRAITH	get on discord						
+2740.934	check	get on discord	WRAITH						
+2741.267	check	nb28	SPACECOW						
+2741.284	check	WRAITH	get on discord						
+2742.434	faceoff								
+2742.45	collide	puck	player	nb28	blue	authority-closest	31		
+2742.617	faceoff								
+2742.684	collide	puck	player	WRAITH	green	authority-closest	40		
+2743.051	collide	puck	player	nb28	blue	stick	31		
+2743.157	collide	puck	player	get on discord	green	authority-request	14		
+2743.717	check	get on discord	nb28						
+2743.784	collide	puck	player	WRAITH	green	authority-request	40		
+2743.834	collide	puck	player	get on discord	green	stick	14		
+2745.117	collide	puck	player	nitr0	green	stick	34		
+2746.884	check	WRAITH	SPACECOW						
+2747.022	collide	puck	player	SPACECOW	blue	authority-request	25		
+2747.067	collide	puck	player	nb28	blue	stick	31		
+2747.1	check	nitr0	nb28						
+2747.154	collide	puck	player	WRAITH	green	authority-request	40		
+2747.467	collide	puck	player	SPACECOW	blue	stick	25		
+2747.506	collide	puck	player	nitr0	green	authority-closest	34		
+2747.517	check	WRAITH	nb28						
+2747.817	check	WRAITH	nb28						
+2748.067	collide	puck	player	get on discord	green	authority-closest	14		
+2748.517	check	WRAITH	get on discord						
+2748.517	check	get on discord	WRAITH						
+2748.551	check	WRAITH	get on discord						
+2748.551	check	get on discord	WRAITH						
+2748.6	check	get on discord	nb28						
+2748.6	check	nb28	get on discord						
+2748.618	collide	puck	player	nb28	blue	authority-request	31		
+2752.467	check	get on discord	nb28						
+2752.467	check	nb28	get on discord						
+2752.75	check	get on discord	nb28						
+2753.184	check	get on discord	nb28						
+2753.184	check	nb28	get on discord						
+2753.584	check	get on discord	nb28						
+2753.584	check	nb28	get on discord						
+2758.055	collide	puck	player	nitr0	green	authority-request	34		
+2759.35	check	nitr0	WRAITH						
+2759.35	check	WRAITH	nitr0						
+2759.384	check	nitr0	nb28						
+2759.384	check	nb28	nitr0						
+2759.5	collide	puck	player	WRAITH	green	stick	40		
+2759.5	check	nb28	WRAITH						
+2759.534	check	nitr0	nb28						
+2759.667	check	nitr0	nb28						
+2759.667	check	nb28	nitr0						
+2760.75	collide	puck	player	nitr0	green	authority-closest	34		
+2764.417	check	WRAITH	nb28						
+2764.417	check	nb28	WRAITH						
+2764.85	collide	puck	player	WRAITH	green	stick	40		
+2768.967	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2770.367	check	get on discord	SPACECOW						
+2774.051	collide	puck	player	get on discord	green	stick	14		
+2775.284	check	get on discord	SPACECOW						
+2775.801	collide	puck	player	WRAITH	green	authority-closest	40		
+2780.967	collide	puck	player	nitr0	green	authority-closest	34		
+2782.417	check	nitr0	get on discord						
+2783.9	collide	puck	player	nb28	blue	stick	31		
+2789.017	goal	server	-	blue	nb28	6	5	1245.411	2783.9
+2789.172	period-end	server	-	6	5				
+2789.172	faceoff								
+2789.172	period-start	server	-						
+2792.024	faceoff								
+2794.884	faceoff								
+2794.9	collide	puck	player	nb28	blue	authority-closest	31		
+2796.77	collide	puck	player	get on discord	green	authority-request	14		
+2800.867	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2808.9	collide	puck	player	nb28	blue	authority-closest	31		
+2812.5	collide	puck	player	nitr0	green	authority-closest	34		
+2815.367	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2820.167	collide	puck	player	nb28	blue	stick	31		
+2822.017	collide	puck	player	get on discord	green	stick	14		
+2825.531	collide	puck	player	nitr0	green	authority-request	34		
+2827.5	collide	puck	player	get on discord	green	authority-closest	14		
+2831.584	check	nitr0	get on discord						
+2834.318	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2834.4	collide	puck	player	nb28	blue	stick	31		
+2836.773	collide	puck	player	nitr0	green	authority-closest	34		
+2850.801	check	nitr0	get on discord						
+2850.801	check	get on discord	nitr0						
+2850.967	check	nitr0	get on discord						
+2850.967	check	get on discord	nitr0						
+2851.551	collide	puck	player	get on discord	green	stick	14		
+2851.767	collide	puck	player	nitr0	green	authority-closest	34		
+2852.101	collide	puck	player	SPACECOW	blue	stick	25		
+2854.367	collide	puck	player	get on discord	green	stick	14		
+2854.517	check	get on discord	SPACECOW						
+2854.517	check	SPACECOW	get on discord						
+2855.584	collide	puck	player	nitr0	green	stick	34		
+2856.034	check	nitr0	get on discord						
+2856.95	check	get on discord	nb28						
+2856.95	check	nb28	get on discord						
+2858.017	check	nitr0	SPACECOW						
+2858.017	check	SPACECOW	nitr0						
+2861.351	check	get on discord	SPACECOW						
+2861.534	collide	puck	player	nb28	blue	stick	31		
+2862.567	collide	puck	player	get on discord	green	stick	14		
+2862.867	check	nitr0	SPACECOW						
+2862.884	collide	puck	player	nitr0	green	stick	34		
+2866.967	goal	server	-	blue	nb28	1	0	77.79468	2861.534
+2869.972	faceoff								
+2872.834	faceoff								
+2872.851	collide	puck	player	nb28	blue	authority-closest	31		
+2873.881	collide	puck	player	get on discord	green	authority-request	14		
+2879.817	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2883.934	collide	puck	player	nitr0	green	authority-closest	34		
+2885.367	collide	puck	player	get on discord	green	authority-closest	14		
+2888.067	collide	puck	player	nb28	blue	stick	31		
+2891.9	goal	server	-	blue	nb28	2	0	102.728	2888.067
+2892.801	check	nitr0	get on discord						
+2892.801	check	get on discord	nitr0						
+2894.334	collide	puck	player	get on discord	green	stick	14		
+2894.901	faceoff								
+2897.767	faceoff								
+2897.784	collide	puck	player	nb28	blue	authority-closest	31		
+2897.967	faceoff								
+2898.017	collide	puck	player	nb28	blue	authority-closest	31		
+2898.101	faceoff								
+2898.25	collide	puck	player	nb28	blue	authority-closest	31		
+2898.767	collide	puck	player	get on discord	green	authority-closest	14		
+2907.351	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2915.334	collide	puck	player	nitr0	green	stick	34		
+2915.867	goal	server	-	blue	SPACECOW	3	0	126.6948	2907.351
+2918.101	check	nb28	SPACECOW						
+2918.872	faceoff								
+2921.734	faceoff								
+2921.75	collide	puck	player	nb28	blue	authority-closest	31		
+2931.434	check	get on discord	nb28						
+2932.35	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2932.75	collide	puck	player	get on discord	green	stick	14		
+2941.851	goal	server	-	blue	SPACECOW	4	0	152.6782	2932.35
+2944.858	faceoff								
+2947.717	faceoff								
+2947.734	collide	puck	player	nb28	blue	authority-closest	31		
+2947.9	faceoff								
+2947.967	collide	puck	player	nb28	blue	authority-closest	31		
+2948.701	collide	puck	player	get on discord	green	authority-request	14		
+2949.234	check	get on discord	nb28						
+2949.234	check	nb28	get on discord						
+2963	check	get on discord	SPACECOW						
+2963	check	SPACECOW	get on discord						
+2963.417	check	get on discord	SPACECOW						
+2963.417	check	SPACECOW	get on discord						
+2963.45	check	nitr0	nb28						
+2963.45	check	nb28	nitr0						
+2963.5	collide	puck	player	SPACECOW	blue	stick	25		
+2964.5	check	nitr0	get on discord						
+2964.717	check	nitr0	SPACECOW						
+2964.717	check	SPACECOW	nitr0						
+2965.086	collide	puck	player	nitr0	green	authority-closest	34		
+2966.567	collide	puck	player	nb28	blue	stick	31		
+2966.584	collide	puck	player	get on discord	green	stick	14		
+2967.367	check	get on discord	SPACECOW						
+2967.367	check	SPACECOW	get on discord						
+2967.484	check	nitr0	get on discord						
+2967.484	check	get on discord	nitr0						
+2967.817	check	nitr0	get on discord						
+2968.499	collide	puck	player	SPACECOW	blue	authority-request	25		
+2968.65	collide	puck	player	nitr0	green	stick	34		
+2968.7	collide	puck	player	get on discord	green	stick	14		
+2968.719	collide	puck	player	nitr0	green	authority-closest	34		
+2968.801	collide	puck	player	get on discord	green	stick	14		
+2968.834	collide	puck	player	nitr0	green	stick	34		
+2970.117	check	get on discord	nb28						
+2970.117	check	nb28	get on discord						
+2970.334	check	nitr0	get on discord						
+2970.334	check	get on discord	nitr0						
+2971.917	collide	puck	player	get on discord	green	stick	14		
+2972.089	collide	puck	player	nb28	blue	authority-closest	31		
+2972.184	check	get on discord	nb28						
+2973.091	collide	puck	player	nitr0	green	authority-closest	34		
+2973.217	check	nitr0	nb28						
+2973.217	check	nb28	nitr0						
+2973.484	check	nitr0	get on discord						
+2973.484	check	get on discord	nitr0						
+2974.267	collide	puck	player	get on discord	green	stick	14		
+2978.167	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2985.867	goal	server	-	blue	SPACECOW	5	0	196.6948	2978.167
+2987.084	check	get on discord	nb28						
+2987.084	check	nb28	get on discord						
+2988.617	collide	puck	player	nitr0	green	stick	34		
+2988.87	faceoff								
+2991.734	faceoff								
+2991.75	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2991.9	faceoff								
+2991.984	collide	puck	player	SPACECOW	blue	authority-closest	25		
+2992.658	collide	puck	player	get on discord	green	authority-request	14		
+2992.684	collide	puck	player	nb28	blue	stick	31		
+2993.351	check	get on discord	nb28						
+2995.135	collide	puck	player	nitr0	green	authority-request	34		
+3001.801	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3002.634	collide	puck	player	get on discord	green	authority-closest	14		
+3002.884	check	nitr0	nb28						
+3010.834	check	get on discord	SPACECOW						
+3010.834	check	SPACECOW	get on discord						
+3013.667	collide	puck	player	nb28	blue	stick	31		
+3020.174	collide	puck	player	nitr0	green	authority-request	34		
+3020.534	check	nitr0	nb28						
+3020.784	check	nitr0	nb28						
+3020.784	check	nb28	nitr0						
+3021.25	check	nitr0	get on discord						
+3021.25	check	get on discord	nitr0						
+3029.117	collide	puck	player	SPACECOW	blue	stick	25		
+3029.284	check	nitr0	SPACECOW						
+3031.601	collide	puck	player	nb28	blue	stick	31		
+3032.567	check	nb28	SPACECOW						
+3032.567	check	SPACECOW	nb28						
+3034.051	check	nitr0	SPACECOW						
+3034.051	check	SPACECOW	nitr0						
+3036	collide	puck	player	SPACECOW	blue	stick	25		
+3036.284	collide	puck	player	nb28	blue	stick	31		
+3036.372	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3037.253	collide	puck	player	nb28	blue	authority-request	31		
+3038.017	check	nitr0	SPACECOW						
+3038.017	check	SPACECOW	nitr0						
+3045.134	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3052.9	check	nitr0	SPACECOW						
+3052.9	check	SPACECOW	nitr0						
+3053.017	goal	server	-	blue	SPACECOW	6	0	263.8447	3045.134
+3054.551	check	nb28	SPACECOW						
+3054.551	check	SPACECOW	nb28						
+3054.7	check	get on discord	nb28						
+3054.7	check	nb28	get on discord						
+3054.784	check	get on discord	SPACECOW						
+3054.784	check	SPACECOW	get on discord						
+3055.167	collide	puck	player	get on discord	green	stick	14		
+3056.027	faceoff								
+3056.134	check	get on discord	SPACECOW						
+3058.2	check	nitr0	get on discord						
+3058.2	check	get on discord	nitr0						
+3058.884	faceoff								
+3058.9	collide	puck	player	nb28	blue	authority-closest	31		
+3059.084	faceoff								
+3059.134	collide	puck	player	nb28	blue	authority-closest	31		
+3059.284	faceoff								
+3059.367	collide	puck	player	nb28	blue	authority-closest	31		
+3060.4	collide	puck	player	get on discord	green	stick	14		
+3063.634	check	nitr0	get on discord						
+3065.634	check	get on discord	nb28						
+3065.634	check	nb28	get on discord						
+3067.017	goal	server	-	blue	nb28	7	0	277.8447	3059.367
+3070.022	faceoff								
+3072.884	faceoff								
+3072.9	collide	puck	player	nb28	blue	authority-closest	31		
+3073.754	collide	puck	player	get on discord	green	authority-request	14		
+3075.084	collide	puck	player	nitr0	green	authority-closest	34		
+3076.309	collide	puck	player	SPACECOW	blue	authority-request	25		
+3076.717	check	nitr0	SPACECOW						
+3076.717	check	SPACECOW	nitr0						
+3081.334	collide	puck	player	nb28	blue	authority-closest	31		
+3097.351	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3101	collide	puck	player	get on discord	green	authority-closest	14		
+3101.184	check	nitr0	SPACECOW						
+3103.95	check	get on discord	SPACECOW						
+3103.95	check	SPACECOW	get on discord						
+3104.084	goal	server	-	blue	SPACECOW	8	0	314.9114	3097.351
+3106.534	check	nb28	SPACECOW						
+3106.834	collide	puck	player	get on discord	green	stick	14		
+3107.085	faceoff								
+3109.95	faceoff								
+3109.967	collide	puck	player	nb28	blue	authority-closest	31		
+3110.134	faceoff								
+3110.2	collide	puck	player	nb28	blue	authority-closest	31		
+3110.708	collide	puck	player	get on discord	green	authority-request	14		
+3110.928	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3111.016	collide	puck	player	nb28	blue	authority-closest	31		
+3113.097	collide	puck	player	nitr0	green	authority-request	34		
+3114.134	check	nitr0	get on discord						
+3114.134	check	get on discord	nitr0						
+3114.25	check	nitr0	get on discord						
+3114.25	check	get on discord	nitr0						
+3117.317	collide	puck	player	SPACECOW	blue	stick	25		
+3121.284	check	nitr0	SPACECOW						
+3121.517	collide	puck	player	get on discord	green	authority-closest	14		
+3124.384	check	get on discord	nb28						
+3126.434	collide	puck	player	nitr0	green	authority-closest	34		
+3137.817	collide	puck	player	get on discord	green	authority-closest	14		
+3143.434	check	get on discord	SPACECOW						
+3154.7	collide	puck	player	nitr0	green	stick	34		
+3156.117	check	nitr0	SPACECOW						
+3157.884	collide	puck	player	get on discord	green	stick	14		
+3158.517	collide	puck	player	nb28	blue	authority-closest	31		
+3159.301	check	nitr0	nb28						
+3164.301	collide	puck	player	nitr0	green	authority-closest	34		
+3166.401	check	nitr0	nb28						
+3172.101	collide	puck	player	get on discord	green	authority-closest	14		
+3172.567	check	nb28	SPACECOW						
+3172.567	check	SPACECOW	nb28						
+3172.684	check	nb28	SPACECOW						
+3180.184	collide	puck	player	nitr0	green	authority-closest	34		
+3181.434	check	nitr0	nb28						
+3181.434	check	nb28	nitr0						
+3186.057	collide	puck	player	get on discord	green	authority-request	14		
+3193.534	goal	server	-	blue	nb28	9	0	404.3616	3158.517
+3196.539	faceoff								
+3199.401	faceoff								
+3199.417	collide	puck	player	nb28	blue	authority-closest	31		
+3200.393	collide	puck	player	get on discord	green	authority-closest	14		
+3206.584	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3207.417	check	nitr0	get on discord						
+3207.417	check	get on discord	nitr0						
+3207.467	check	nitr0	get on discord						
+3207.467	check	get on discord	nitr0						
+3207.551	check	nitr0	get on discord						
+3207.551	check	get on discord	nitr0						
+3210.717	check	get on discord	SPACECOW						
+3213.5	collide	puck	player	nitr0	green	stick	34		
+3216.167	check	nitr0	SPACECOW						
+3216.167	check	SPACECOW	nitr0						
+3218.417	check	nitr0	SPACECOW						
+3227.484	collide	puck	player	nb28	blue	stick	31		
+3228.584	collide	puck	player	get on discord	green	authority-closest	14		
+3235.351	check	get on discord	SPACECOW						
+3235.567	check	get on discord	SPACECOW						
+3236.017	collide	puck	player	nitr0	green	authority-closest	34		
+3236.217	check	get on discord	SPACECOW						
+3236.317	check	get on discord	SPACECOW						
+3236.317	check	SPACECOW	get on discord						
+3236.351	check	get on discord	SPACECOW						
+3237.601	check	get on discord	SPACECOW						
+3237.601	check	SPACECOW	get on discord						
+3239.75	check	nitr0	nb28						
+3239.984	check	nitr0	nb28						
+3240	check	nitr0	nb28						
+3240.2	collide	puck	player	get on discord	green	authority-closest	14		
+3241.217	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3243.7	check	get on discord	SPACECOW						
+3252.619	collide	puck	player	nitr0	green	authority-request	34		
+3252.75	check	nitr0	SPACECOW						
+3252.75	check	SPACECOW	nitr0						
+3260.965	collide	puck	player	get on discord	green	authority-request	14		
+3261.67	collide	puck	player	nitr0	green	authority-closest	34		
+3261.7	collide	puck	player	get on discord	green	stick	14		
+3261.923	collide	puck	player	nitr0	green	authority-closest	34		
+3262.484	collide	puck	player	get on discord	green	stick	14		
+3263.301	check	nitr0	SPACECOW						
+3263.301	check	SPACECOW	nitr0						
+3263.608	collide	puck	player	nitr0	green	authority-closest	34		
+3263.651	collide	puck	player	get on discord	green	stick	14		
+3264.884	collide	puck	player	nb28	blue	stick	31		
+3266.185	collide	puck	player	SPACECOW	blue	authority-request	25		
+3269.917	collide	puck	player	nitr0	green	stick	34		
+3272.351	collide	puck	player	get on discord	green	stick	14		
+3273.434	check	nitr0	get on discord						
+3273.434	check	get on discord	nitr0						
+3273.684	check	nitr0	get on discord						
+3279.184	collide	puck	player	nb28	blue	authority-closest	31		
+3282.784	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3289.617	collide	puck	player	nitr0	green	authority-closest	34		
+3290.151	goal	server	-	blue	SPACECOW	10	0	500.9783	3282.784
+3293.151	faceoff								
+3296.017	faceoff								
+3296.034	collide	puck	player	nb28	blue	authority-closest	31		
+3296.2	faceoff								
+3296.267	collide	puck	player	nb28	blue	authority-closest	31		
+3297.148	collide	puck	player	get on discord	green	authority-request	14		
+3299.884	check	get on discord	nb28						
+3308.917	collide	puck	player	SPACECOW	blue	stick	25		
+3309.401	collide	puck	player	nb28	blue	authority-closest	31		
+3310.593	collide	puck	player	nitr0	green	authority-request	34		
+3314.817	collide	puck	player	get on discord	green	authority-closest	14		
+3321.334	check	get on discord	nb28						
+3321.75	collide	puck	player	nitr0	green	authority-closest	34		
+3332.634	collide	puck	player	get on discord	green	stick	14		
+3337.617	collide	puck	player	nitr0	green	authority-closest	34		
+3339.917	collide	puck	player	get on discord	green	authority-closest	14		
+3341.6	collide	puck	player	nitr0	green	authority-closest	34		
+3353.034	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3355.617	check	get on discord	nb28						
+3355.617	check	nb28	get on discord						
+3358.651	check	nitr0	SPACECOW						
+3358.651	check	SPACECOW	nitr0						
+3368.417	collide	puck	player	nb28	blue	authority-closest	31		
+3369.667	collide	puck	player	get on discord	green	authority-closest	14		
+3373.059	collide	puck	player	SPACECOW	blue	authority-request	25		
+3373.301	check	get on discord	SPACECOW						
+3373.301	check	SPACECOW	get on discord						
+3380	goal	server	-	blue	SPACECOW	11	0	590.8281	3373.059
+3383.001	faceoff								
+3384.317	check	nb28	SPACECOW						
+3384.317	check	SPACECOW	nb28						
+3385.867	faceoff								
+3385.884	collide	puck	player	nb28	blue	authority-closest	31		
+3386.051	faceoff								
+3386.117	collide	puck	player	nb28	blue	authority-closest	31		
+3386.58	collide	puck	player	get on discord	green	authority-request	14		
+3386.877	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3387.401	collide	puck	player	nb28	blue	stick	31		
+3387.5	check	get on discord	nb28						
+3389.817	check	get on discord	nb28						
+3390.367	collide	puck	player	nitr0	green	stick	34		
+3390.567	check	nitr0	nb28						
+3390.567	check	nb28	nitr0						
+3391.634	collide	puck	player	get on discord	green	stick	14		
+3393.11	collide	puck	player	nitr0	green	authority-closest	34		
+3394.112	collide	puck	player	SPACECOW	blue	authority-request	25		
+3394.551	check	nitr0	nb28						
+3400.017	collide	puck	player	nb28	blue	authority-closest	31		
+3414.467	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3421.067	check	nitr0	nb28						
+3425.45	check	nitr0	SPACECOW						
+3425.45	check	SPACECOW	nitr0						
+3425.767	check	nitr0	SPACECOW						
+3427.684	check	nitr0	SPACECOW						
+3427.684	check	SPACECOW	nitr0						
+3427.801	collide	puck	player	nb28	blue	authority-closest	31		
+3429.184	collide	puck	player	get on discord	green	stick	14		
+3429.314	collide	puck	player	nitr0	green	authority-closest	34		
+3429.384	collide	puck	player	get on discord	green	stick	14		
+3430.151	check	get on discord	nb28						
+3430.151	check	nb28	get on discord						
+3430.384	check	nitr0	nb28						
+3430.484	check	nitr0	get on discord						
+3430.484	check	get on discord	nitr0						
+3432.75	check	nitr0	nb28						
+3432.75	check	nb28	nitr0						
+3435.851	check	get on discord	SPACECOW						
+3435.851	check	SPACECOW	get on discord						
+3441.701	check	get on discord	SPACECOW						
+3441.701	check	SPACECOW	get on discord						
+3442.219	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3448.601	collide	puck	player	nb28	blue	stick	31		
+3449.234	check	get on discord	nb28						
+3449.234	check	nb28	get on discord						
+3453.201	collide	puck	player	nitr0	green	authority-closest	34		
+3453.417	collide	puck	player	SPACECOW	blue	stick	25		
+3454.534	check	nitr0	SPACECOW						
+3455.101	collide	puck	player	get on discord	green	stick	14		
+3456.192	collide	puck	player	nitr0	green	authority-closest	34		
+3456.75	goal	server	-	green	nitr0	11	1	667.5781	3456.192
+3459.76	faceoff								
+3462.617	faceoff								
+3462.634	collide	puck	player	nb28	blue	authority-closest	31		
+3462.784	faceoff								
+3462.867	collide	puck	player	nb28	blue	authority-closest	31		
+3467.901	collide	puck	player	get on discord	green	stick	14		
+3469.801	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3475.201	collide	puck	player	nb28	blue	authority-closest	31		
+3481.117	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3481.948	collide	puck	player	nb28	blue	authority-request	31		
+3484.953	collide	puck	player	nitr0	green	authority-request	34		
+3486.043	collide	puck	player	get on discord	green	authority-request	14		
+3486.231	collide	puck	player	nitr0	green	authority-closest	34		
+3487.984	check	get on discord	SPACECOW						
+3487.984	check	SPACECOW	get on discord						
+3491.801	goal	server	-	blue	nb28	12	1	702.6282	3481.948
+3493.417	check	nitr0	nb28						
+3493.417	check	nb28	nitr0						
+3494.808	faceoff								
+3497.667	faceoff								
+3497.684	collide	puck	player	nb28	blue	authority-closest	31		
+3497.851	faceoff								
+3497.917	collide	puck	player	nb28	blue	authority-closest	31		
+3498.563	collide	puck	player	get on discord	green	authority-request	14		
+3499.217	check	get on discord	nb28						
+3506.684	check	nitr0	SPACECOW						
+3507.201	check	nitr0	get on discord						
+3509.629	collide	puck	player	nitr0	green	authority-closest	34		
+3512.084	check	nitr0	get on discord						
+3512.084	check	get on discord	nitr0						
+3512.417	check	nitr0	get on discord						
+3515.5	check	get on discord	nb28						
+3515.917	check	get on discord	nb28						
+3517.117	check	nitr0	SPACECOW						
+3517.117	check	SPACECOW	nitr0						
+3520.651	collide	puck	player	SPACECOW	blue	stick	25		
+3527.067	check	nitr0	nb28						
+3534.967	check	nitr0	nb28						
+3535.517	check	nitr0	nb28						
+3535.517	check	nb28	nitr0						
+3537.967	collide	puck	player	get on discord	green	authority-closest	14		
+3542.801	check	get on discord	SPACECOW						
+3544.193	collide	puck	player	nb28	blue	authority-request	31		
+3550.367	check	nitr0	SPACECOW						
+3552.951	collide	puck	player	nitr0	green	stick	34		
+3553.267	check	nitr0	nb28						
+3553.267	check	nb28	nitr0						
+3555.067	check	nitr0	get on discord						
+3555.067	check	get on discord	nitr0						
+3560.034	check	nitr0	nb28						
+3567	check	nitr0	nb28						
+3567	check	nb28	nitr0						
+3570.484	check	nitr0	nb28						
+3570.484	check	nb28	nitr0						
+3571.334	collide	puck	player	SPACECOW	blue	stick	25		
+3571.534	check	nitr0	nb28						
+3571.534	check	nb28	nitr0						
+3571.967	collide	puck	player	get on discord	green	stick	14		
+3572.117	check	nitr0	nb28						
+3572.534	check	get on discord	SPACECOW						
+3572.534	check	SPACECOW	get on discord						
+3573.917	collide	puck	player	nb28	blue	stick	31		
+3576.284	check	get on discord	nb28						
+3576.284	check	nb28	get on discord						
+3577.884	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3591.534	collide	puck	player	nitr0	green	stick	34		
+3591.817	check	get on discord	nb28						
+3592.434	check	nitr0	SPACECOW						
+3592.634	check	nitr0	SPACECOW						
+3594.867	collide	puck	player	get on discord	green	stick	14		
+3595.151	check	get on discord	SPACECOW						
+3595.151	check	SPACECOW	get on discord						
+3595.951	check	get on discord	SPACECOW						
+3596.617	check	get on discord	SPACECOW						
+3596.717	check	get on discord	SPACECOW						
+3601.401	check	nitr0	SPACECOW						
+3601.958	collide	puck	player	nitr0	green	authority-closest	34		
+3602.917	check	nitr0	SPACECOW						
+3602.917	check	SPACECOW	nitr0						
+3604.517	collide	puck	player	get on discord	green	stick	14		
+3604.967	check	get on discord	SPACECOW						
+3607.184	check	nitr0	get on discord						
+3609.884	collide	puck	player	nb28	blue	authority-closest	31		
+3611.351	collide	puck	player	nitr0	green	stick	34		
+3612.717	collide	puck	player	get on discord	green	stick	14		
+3612.967	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3613.517	collide	puck	player	nb28	blue	stick	31		
+3613.517	collide	puck	player	nb28	blue	stick	31		
+3613.567	check	nb28	SPACECOW						
+3615.384	check	get on discord	SPACECOW						
+3615.384	check	SPACECOW	get on discord						
+3618.034	collide	puck	player	SPACECOW	blue	stick	25		
+3624.784	collide	puck	player	nb28	blue	authority-closest	31		
+3632.917	check	get on discord	nb28						
+3632.917	check	nb28	get on discord						
+3633.951	check	get on discord	nb28						
+3633.951	check	nb28	get on discord						
+3634.901	check	nitr0	SPACECOW						
+3634.901	check	SPACECOW	nitr0						
+3637.684	check	nitr0	SPACECOW						
+3639.467	collide	puck	player	nitr0	green	authority-closest	34		
+3640.701	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3647.455	collide	puck	player	nb28	blue	authority-request	31		
+3647.667	check	nitr0	nb28						
+3658.25	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3663.734	check	nitr0	WRAITH						
+3673.651	check	nitr0	SPACECOW						
+3673.651	check	SPACECOW	nitr0						
+3676.284	check	nitr0	WRAITH						
+3676.284	check	WRAITH	nitr0						
+3676.367	check	nb28	WRAITH						
+3676.367	check	WRAITH	nb28						
+3676.434	check	nb28	WRAITH						
+3676.434	check	WRAITH	nb28						
+3676.517	check	nb28	WRAITH						
+3676.517	check	WRAITH	nb28						
+3678.601	collide	puck	player	WRAITH	green	stick	52		
+3679.967	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3680.517	collide	puck	player	SPACECOW	blue	stick	25		
+3681.656	collide	puck	player	nitr0	green	authority-closest	34		
+3681.801	collide	puck	player	WRAITH	green	stick	52		
+3682.784	collide	puck	player	nitr0	green	stick	34		
+3683.517	check	nitr0	WRAITH						
+3688.601	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3694.684	collide	puck	player	nb28	blue	authority-closest	31		
+3695.467	collide	puck	player	WRAITH	green	authority-closest	52		
+3700.317	collide	puck	player	nitr0	green	authority-closest	34		
+3701.317	collide	puck	player	SPACECOW	blue	stick	25		
+3701.717	check	nitr0	SPACECOW						
+3702.517	check	nitr0	SPACECOW						
+3702.517	check	SPACECOW	nitr0						
+3702.834	check	nitr0	SPACECOW						
+3702.834	check	SPACECOW	nitr0						
+3703.651	collide	puck	player	WRAITH	green	stick	52		
+3705	collide	puck	player	nitr0	green	stick	34		
+3715.184	collide	puck	player	get on discord	green	authority-closest	55		
+3717.867	check	nitr0	nb28						
+3724.517	check	get on discord	SPACECOW						
+3725.101	check	bigbootyjudy	get on discord						
+3727.084	check	nitr0	SPACECOW						
+3729.918	collide	puck	player	nitr0	green	authority-request	34		
+3730.017	check	nitr0	SPACECOW						
+3730.017	check	SPACECOW	nitr0						
+3731.034	collide	puck	player	get on discord	green	stick	55		
+3733.301	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3734.734	collide	puck	player	WRAITH	green	authority-closest	52		
+3744.485	collide	puck	player	get on discord	green	authority-request	55		
+3746.851	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3759.284	check	get on discord	SPACECOW						
+3759.434	collide	puck	player	nb28	blue	authority-closest	31		
+3760.517	collide	puck	player	nitr0	green	authority-closest	34		
+3765.051	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3768.234	collide	puck	player	WRAITH	green	stick	52		
+3768.717	check	bigbootyjudy	WRAITH						
+3768.717	check	WRAITH	bigbootyjudy						
+3770.134	collide	puck	player	nb28	blue	authority-closest	31		
+3776.051	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3784.797	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3788.534	collide	puck	player	get on discord	green	authority-closest	55		
+3788.984	collide	puck	player	nb28	blue	authority-closest	31		
+3792.151	collide	puck	player	WRAITH	green	stick	52		
+3792.417	check	nb28	WRAITH						
+3797.551	check	bigbootyjudy	get on discord						
+3797.567	check	bigbootyjudy	get on discord						
+3798.671	collide	puck	player	nitr0	green	authority-closest	34		
+3799.367	collide	puck	player	WRAITH	green	stick	52		
+3799.464	collide	puck	player	nitr0	green	authority-closest	34		
+3799.617	check	nitr0	nb28						
+3800.101	check	bigbootyjudy	get on discord						
+3800.101	check	get on discord	bigbootyjudy						
+3800.401	check	bigbootyjudy	get on discord						
+3801.917	check	bigbootyjudy	WRAITH						
+3804.134	collide	puck	player	SPACECOW	blue	stick	25		
+3804.367	check	nitr0	SPACECOW						
+3808.251	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3811.067	check	bigbootyjudy	get on discord						
+3814.617	collide	puck	player	WRAITH	green	authority-closest	52		
+3817.834	collide	puck	player	SPACECOW	blue	authority-collide	25		
+3817.918	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3818.001	collide	puck	player	SPACECOW	blue	authority-collide	25		
+3818.351	check	SPACECOW	WRAITH						
+3818.351	check	WRAITH	SPACECOW						
+3820.601	collide	puck	player	nitr0	green	stick	34		
+3821.301	check	nitr0	SPACECOW						
+3823.051	check	nitr0	SPACECOW						
+3824.234	check	nitr0	WRAITH						
+3824.551	collide	puck	player	bigbootyjudy	blue	stick	49		
+3825.901	check	nitr0	bigbootyjudy						
+3825.901	check	bigbootyjudy	nitr0						
+3829.451	check	nitr0	SPACECOW						
+3831.234	check	nb28	get on discord						
+3831.234	check	get on discord	nb28						
+3833.567	collide	puck	player	nb28	blue	stick	31		
+3834.501	collide	puck	player	SPACECOW	blue	authority-request	25		
+3834.717	check	get on discord	SPACECOW						
+3834.817	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3835.051	check	nitr0	SPACECOW						
+3835.217	check	nitr0	get on discord						
+3835.434	check	nitr0	SPACECOW						
+3836.551	check	nb28	get on discord						
+3836.551	check	get on discord	nb28						
+3839.284	collide	puck	player	WRAITH	green	authority-closest	52		
+3844.384	check	bigbootyjudy	WRAITH						
+3845.234	collide	puck	player	nitr0	green	authority-closest	34		
+3849.135	collide	puck	player	nb28	blue	authority-request	31		
+3849.651	check	nitr0	nb28						
+3849.651	check	nb28	nitr0						
+3851.867	check	bigbootyjudy	get on discord						
+3855.651	goal	server	-	blue	nb28	13	1	1066.478	3849.135
+3858.659	faceoff								
+3861.517	faceoff								
+3861.534	collide	puck	player	nb28	blue	authority-closest	31		
+3861.701	faceoff								
+3861.767	collide	puck	player	nb28	blue	authority-closest	31		
+3862.954	collide	puck	player	get on discord	green	authority-request	55		
+3864.567	collide	puck	player	bigbootyjudy	blue	stick	49		
+3864.751	check	bigbootyjudy	nb28						
+3864.917	check	bigbootyjudy	nb28						
+3867.667	check	bigbootyjudy	WRAITH						
+3873.417	collide	puck	player	nb28	blue	authority-closest	31		
+3879.001	check	bigbootyjudy	WRAITH						
+3879.001	check	WRAITH	bigbootyjudy						
+3880.334	check	bigbootyjudy	SPACECOW						
+3880.334	check	SPACECOW	bigbootyjudy						
+3888.434	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3895.701	collide	puck	player	nb28	blue	authority-closest	31		
+3899.134	collide	puck	player	WRAITH	green	authority-closest	52		
+3900.017	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3900.204	collide	puck	player	get on discord	green	authority-request	55		
+3901.184	collide	puck	player	nb28	blue	stick	31		
+3901.451	check	get on discord	WRAITH						
+3901.451	check	WRAITH	get on discord						
+3906.239	collide	puck	player	WRAITH	green	authority-request	52		
+3909.167	collide	puck	player	get on discord	green	stick	55		
+3909.2	collide	puck	player	WRAITH	green	authority-closest	52		
+3909.267	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+3909.267	collide	puck	player	get on discord	green	stick	55		
+3909.367	check	get on discord	WRAITH						
+3914.467	collide	puck	player	nb28	blue	authority-closest	31		
+3918.634	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3921.251	collide	puck	player	WRAITH	green	stick	52		
+3925.534	check	bigbootyjudy	WRAITH						
+3925.534	check	WRAITH	bigbootyjudy						
+3926.334	collide	puck	player	SPACECOW	blue	stick	25		
+3926.433	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3926.534	collide	puck	player	SPACECOW	blue	stick	25		
+3926.601	collide	puck	player	bigbootyjudy	blue	stick	49		
+3926.651	collide	puck	player	SPACECOW	blue	authority-collide	25		
+3926.701	collide	puck	player	bigbootyjudy	blue	stick	49		
+3926.884	check	SPACECOW	WRAITH						
+3927.034	check	bigbootyjudy	SPACECOW						
+3927.117	check	bigbootyjudy	WRAITH						
+3927.134	collide	puck	player	SPACECOW	blue	stick	25		
+3927.667	collide	puck	player	bigbootyjudy	blue	stick	49		
+3928.534	collide	puck	player	SPACECOW	blue	stick	25		
+3929.301	check	SPACECOW	WRAITH						
+3929.301	check	WRAITH	SPACECOW						
+3929.879	collide	puck	player	nb28	blue	authority-request	31		
+3930.451	check	nb28	WRAITH						
+3930.484	check	nb28	SPACECOW						
+3930.834	check	SPACECOW	WRAITH						
+3932.017	check	SPACECOW	WRAITH						
+3932.017	check	WRAITH	SPACECOW						
+3934.851	collide	puck	player	SPACECOW	blue	stick	25		
+3940.567	check	nb28	WRAITH						
+3940.567	check	WRAITH	nb28						
+3940.584	goal	server	-	green	WRAITH	13	2	1151.412	3921.251
+3943.588	faceoff								
+3946.451	faceoff								
+3946.467	collide	puck	player	nb28	blue	authority-closest	31		
+3953.234	check	nb28	get on discord						
+3953.366	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3955.234	collide	puck	player	SPACECOW	blue	stick	25		
+3955.834	collide	puck	player	WRAITH	green	stick	52		
+3958.167	collide	puck	player	get on discord	green	stick	55		
+3958.517	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+3958.651	check	get on discord	WRAITH						
+3958.651	check	WRAITH	get on discord						
+3958.867	goal	server	-	blue	bigbootyjudy	14	2	1169.695	3958.517
+3961.878	faceoff								
+3962.234	check	bigbootyjudy	SPACECOW						
+3962.534	check	bigbootyjudy	nb28						
+3962.701	check	nb28	SPACECOW						
+3962.701	check	SPACECOW	nb28						
+3962.834	check	bigbootyjudy	SPACECOW						
+3962.834	check	SPACECOW	bigbootyjudy						
+3964.734	faceoff								
+3964.751	collide	puck	player	nb28	blue	authority-closest	31		
+3964.901	faceoff								
+3964.984	collide	puck	player	nb28	blue	authority-closest	31		
+3965.522	collide	puck	player	get on discord	green	authority-request	55		
+3966.117	check	nb28	get on discord						
+3967.334	check	bigbootyjudy	get on discord						
+3967.813	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+3968.267	check	nb28	SPACECOW						
+3970.051	check	nb28	SPACECOW						
+3970.051	check	SPACECOW	nb28						
+3970.401	check	get on discord	WRAITH						
+3970.434	collide	puck	player	WRAITH	green	stick	52		
+3971.867	collide	puck	player	get on discord	green	stick	55		
+3975.867	collide	puck	player	SPACECOW	blue	authority-closest	25		
+3979.184	collide	puck	player	WRAITH	green	authority-closest	52		
+3980.617	check	nb28	SPACECOW						
+3980.617	check	SPACECOW	nb28						
+3980.834	collide	puck	player	bigbootyjudy	blue	stick	49		
+3986.867	check	bigbootyjudy	get on discord						
+3987.634	collide	puck	player	nb28	blue	authority-closest	31		
+3989.108	period-end	server	-	14	2				
+3989.108	faceoff								
+3989.108	period-start	server	-						
+3991.967	faceoff								
+3991.984	collide	puck	player	nb28	blue	authority-closest	31		
+3992.863	collide	puck	player	get on discord	green	authority-request	55		
+3994.251	collide	puck	player	bigbootyjudy	blue	stick	49		
+3995.946	collide	puck	player	WRAITH	green	authority-closest	52		
+3996.051	check	bigbootyjudy	WRAITH						
+3996.351	check	bigbootyjudy	WRAITH						
+4008.251	collide	puck	player	nb28	green	authority-closest	31		
+4010.434	collide	puck	player	WRAITH	green	stick	52		
+4012.914	collide	puck	player	SPACECOW	blue	authority-request	25		
+4018.651	collide	puck	player	get on discord	green	stick	55		
+4019.734	collide	puck	player	nb28	green	authority-closest	31		
+4020.367	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4022.651	check	get on discord	SPACECOW						
+4022.651	check	SPACECOW	get on discord						
+4028.301	check	nb28	get on discord						
+4028.301	check	get on discord	nb28						
+4028.851	check	bigbootyjudy	get on discord						
+4028.851	check	get on discord	bigbootyjudy						
+4029.401	collide	puck	player	WRAITH	green	authority-closest	52		
+4031.034	check	nb28	get on discord						
+4031.484	check	bigbootyjudy	get on discord						
+4033.067	check	bigbootyjudy	nb28						
+4079.542	collide	puck	player	nb28	blue	authority-request	31		
+4079.634	check	nb28	WRAITH						
+4080.501	collide	puck	player	get on discord	green	authority-closest	55		
+4087.017	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4087.467	goal	server	-	green	get on discord	0	1	98.35913	4080.501
+4090.477	faceoff								
+4093.334	faceoff								
+4093.351	collide	puck	player	nb28	blue	authority-closest	31		
+4093.501	faceoff								
+4093.584	collide	puck	player	nb28	blue	authority-closest	31		
+4095.001	check	nb28	get on discord						
+4095.001	check	get on discord	nb28						
+4098.717	check	nb28	get on discord						
+4099.434	check	nb28	get on discord						
+4103.271	collide	puck	player	WRAITH	green	authority-closest	52		
+4103.717	goal	server	-	blue	nb28	1	1	114.6091	4093.584
+4106.718	faceoff								
+4109.584	faceoff								
+4109.601	collide	puck	player	nb28	blue	authority-closest	31		
+4109.75	faceoff								
+4109.834	collide	puck	player	nb28	blue	authority-closest	31		
+4110.737	collide	puck	player	get on discord	green	authority-request	55		
+4128.384	check	nb28	WRAITH						
+4128.384	check	WRAITH	nb28						
+4129.101	collide	puck	player	WRAITH	green	stick	52		
+4130.284	check	nb28	get on discord						
+4134.201	check	SPACECOW	WRAITH						
+4134.201	check	WRAITH	SPACECOW						
+4139.851	collide	puck	player	get on discord	green	stick	55		
+4145.684	check	nb28	get on discord						
+4145.684	check	get on discord	nb28						
+4146.034	check	nb28	get on discord						
+4147.404	collide	puck	player	WRAITH	green	authority-request	52		
+4147.514	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4148.134	check	bigbootyjudy	SPACECOW						
+4148.134	check	SPACECOW	bigbootyjudy						
+4148.217	check	nb28	get on discord						
+4148.434	check	bigbootyjudy	get on discord						
+4148.451	check	bigbootyjudy	WRAITH						
+4148.617	check	SPACECOW	WRAITH						
+4148.617	check	get on discord	WRAITH						
+4148.634	check	nb28	get on discord						
+4148.651	check	SPACECOW	WRAITH						
+4148.667	check	bigbootyjudy	get on discord						
+4148.717	check	SPACECOW	WRAITH						
+4148.717	check	bigbootyjudy	get on discord						
+4148.734	check	bigbootyjudy	SPACECOW						
+4148.851	check	SPACECOW	WRAITH						
+4148.851	check	WRAITH	SPACECOW						
+4150.151	collide	puck	player	SPACECOW	blue	stick	25		
+4150.5	collide	puck	player	bigbootyjudy	blue	stick	49		
+4151.734	collide	puck	player	get on discord	green	stick	55		
+4153.284	check	get on discord	SPACECOW						
+4153.551	check	nb28	SPACECOW						
+4153.551	check	SPACECOW	nb28						
+4153.734	check	nb28	SPACECOW						
+4153.734	check	SPACECOW	nb28						
+4153.75	check	get on discord	SPACECOW						
+4153.884	check	nb28	get on discord						
+4153.884	check	get on discord	nb28						
+4154.051	check	get on discord	WRAITH						
+4157.201	check	get on discord	SPACECOW						
+4157.201	check	SPACECOW	get on discord						
+4157.717	check	bigbootyjudy	SPACECOW						
+4157.717	check	SPACECOW	bigbootyjudy						
+4161.117	check	bigbootyjudy	SPACECOW						
+4161.117	check	SPACECOW	bigbootyjudy						
+4162.601	collide	puck	player	WRAITH	green	stick	52		
+4162.867	check	bigbootyjudy	get on discord						
+4162.867	check	get on discord	bigbootyjudy						
+4163.534	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4183.701	collide	puck	player	get on discord	green	authority-closest	55		
+4184.917	goal	server	-	blue	SPACECOW	2	1	195.8093	4163.534
+4187.925	faceoff								
+4190.784	faceoff								
+4190.801	collide	puck	player	nb28	blue	authority-closest	31		
+4190.967	faceoff								
+4191.034	collide	puck	player	nb28	blue	authority-closest	31		
+4191.845	collide	puck	player	get on discord	green	authority-request	55		
+4192.098	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4192.505	collide	puck	player	WRAITH	green	authority-request	52		
+4193.634	collide	puck	player	SPACECOW	blue	stick	25		
+4194.917	check	bigbootyjudy	SPACECOW						
+4194.917	check	SPACECOW	bigbootyjudy						
+4195.034	check	get on discord	WRAITH						
+4195.151	check	bigbootyjudy	SPACECOW						
+4196.167	check	nb28	WRAITH						
+4196.167	check	WRAITH	nb28						
+4198.467	goal	server	-	blue	SPACECOW	3	1	209.3591	4193.634
+4201.468	faceoff								
+4204.334	faceoff								
+4204.351	collide	puck	player	WRAITH	green	authority-closest	52		
+4204.534	faceoff								
+4204.584	collide	puck	player	WRAITH	green	authority-closest	52		
+4204.667	faceoff								
+4204.817	collide	puck	player	WRAITH	green	authority-closest	52		
+4205.301	collide	puck	player	get on discord	green	stick	55		
+4205.534	collide	puck	player	WRAITH	green	stick	52		
+4206.084	check	nb28	WRAITH						
+4206.25	check	nb28	get on discord						
+4209.101	collide	puck	player	bigbootyjudy	blue	stick	49		
+4209.351	check	bigbootyjudy	WRAITH						
+4209.917	check	bigbootyjudy	WRAITH						
+4209.951	check	bigbootyjudy	WRAITH						
+4210.234	check	bigbootyjudy	WRAITH						
+4210.234	check	WRAITH	bigbootyjudy						
+4210.784	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4217.184	collide	puck	player	nb28	green	authority-closest	31		
+4222.034	collide	puck	player	bigbootyjudy	blue	stick	49		
+4222.184	check	bigbootyjudy	nb28						
+4222.184	check	nb28	bigbootyjudy						
+4224.551	collide	puck	player	get on discord	green	authority-closest	55		
+4225.951	collide	puck	player	SPACECOW	blue	stick	25		
+4225.951	check	get on discord	WRAITH						
+4225.951	check	WRAITH	get on discord						
+4226.706	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4226.926	collide	puck	player	WRAITH	green	authority-request	52		
+4226.984	check	bigbootyjudy	WRAITH						
+4227.834	collide	puck	player	SPACECOW	blue	stick	25		
+4227.95	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4228.217	collide	puck	player	SPACECOW	blue	authority-collide	25		
+4228.313	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4229.834	check	get on discord	WRAITH						
+4229.834	check	WRAITH	get on discord						
+4235.117	check	bigbootyjudy	SPACECOW						
+4235.167	check	bigbootyjudy	SPACECOW						
+4236.884	goal	server	-	blue	bigbootyjudy	4	1	247.7756	4228.313
+4239.351	collide	puck	player	get on discord	green	stick	55		
+4239.551	check	bigbootyjudy	nb28						
+4239.886	faceoff								
+4239.984	check	bigbootyjudy	SPACECOW						
+4241.034	check	nb28	SPACECOW						
+4241.034	check	SPACECOW	nb28						
+4242.75	faceoff								
+4242.768	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4242.967	faceoff								
+4243	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4243.564	collide	puck	player	get on discord	green	authority-request	55		
+4243.872	collide	puck	player	WRAITH	green	authority-request	52		
+4244.051	check	get on discord	SPACECOW						
+4244.051	check	SPACECOW	get on discord						
+4244.351	check	get on discord	WRAITH						
+4244.351	check	WRAITH	get on discord						
+4248.901	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4249.401	check	bigbootyjudy	WRAITH						
+4253.268	collide	puck	player	get on discord	green	stick	55		
+4253.651	check	bigbootyjudy	get on discord						
+4253.651	check	get on discord	bigbootyjudy						
+4257.951	collide	puck	player	nb28	green	stick	31		
+4258.951	check	bigbootyjudy	nb28						
+4258.951	check	nb28	bigbootyjudy						
+4259.134	collide	puck	player	get on discord	green	authority-request	55		
+4261.226	collide	puck	player	WRAITH	green	authority-closest	52		
+4265.801	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4268.684	check	bigbootyjudy	SPACECOW						
+4268.684	check	SPACECOW	bigbootyjudy						
+4268.834	collide	puck	player	get on discord	green	authority-closest	55		
+4270.334	check	bigbootyjudy	get on discord						
+4270.334	check	get on discord	bigbootyjudy						
+4273.074	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4273.25	collide	puck	player	SPACECOW	blue	stick	25		
+4274.201	collide	puck	player	bigbootyjudy	blue	stick	49		
+4274.684	check	bigbootyjudy	get on discord						
+4274.917	check	bigbootyjudy	get on discord						
+4274.917	check	get on discord	bigbootyjudy						
+4276.267	collide	puck	player	nb28	green	authority-request	31		
+4276.401	check	get on discord	SPACECOW						
+4287.634	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4289.518	collide	puck	player	get on discord	green	stick	55		
+4289.534	check	nb28	get on discord						
+4289.584	collide	puck	player	nb28	green	stick	31		
+4289.617	check	get on discord	SPACECOW						
+4289.667	check	nb28	get on discord						
+4289.734	check	nb28	SPACECOW						
+4289.834	check	nb28	SPACECOW						
+4289.851	check	nb28	get on discord						
+4289.934	check	get on discord	SPACECOW						
+4290.018	check	nb28	get on discord						
+4290.051	check	nb28	SPACECOW						
+4292.101	check	nb28	SPACECOW						
+4292.25	check	nb28	SPACECOW						
+4292.917	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4299.434	collide	puck	player	SPACECOW	blue	stick	25		
+4300.26	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4300.359	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4307.451	goal	server	-	green	nb28	4	2	318.3425	4289.584
+4310.457	faceoff								
+4313.317	faceoff								
+4313.334	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4313.484	faceoff								
+4313.567	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4316.117	collide	puck	player	get on discord	green	authority-collide	55		
+4316.234	check	get on discord	SPACECOW						
+4316.284	check	get on discord	SPACECOW						
+4317.9	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+4318.518	check	get on discord	SPACECOW						
+4319.351	check	bigbootyjudy	nb28						
+4319.351	check	nb28	bigbootyjudy						
+4319.401	check	bigbootyjudy	SPACECOW						
+4320.484	check	bigbootyjudy	get on discord						
+4326.634	check	get on discord	SPACECOW						
+4327.567	check	get on discord	SPACECOW						
+4328.167	check	bigbootyjudy	SPACECOW						
+4328.518	check	bigbootyjudy	get on discord						
+4328.584	check	bigbootyjudy	SPACECOW						
+4328.768	check	bigbootyjudy	SPACECOW						
+4329.351	check	bigbootyjudy	SPACECOW						
+4329.351	check	SPACECOW	bigbootyjudy						
+4329.551	check	bigbootyjudy	SPACECOW						
+4336.117	collide	puck	player	nb28	green	authority-closest	31		
+4347.467	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4350.434	faceoff								
+4350.434	faceoff								
+4350.434	faceoff								
+4353.301	faceoff								
+4353.317	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4353.484	faceoff								
+4353.551	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4353.851	collide	puck	player	get on discord	green	authority-request	55		
+4359.867	goal	server	-	blue	bigbootyjudy	5	2	370.759	4353.551
+4362.869	faceoff								
+4365.734	faceoff								
+4365.75	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4365.917	faceoff								
+4365.984	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4366.635	collide	puck	player	get on discord	green	authority-request	55		
+4374.467	collide	puck	player	bigbootyjudy	blue	stick	49		
+4375.117	check	bigbootyjudy	SPACECOW						
+4375.117	check	SPACECOW	bigbootyjudy						
+4380.476	collide	puck	player	nb28	green	authority-request	31		
+4381.101	check	bigbootyjudy	nb28						
+4384	collide	puck	player	get on discord	green	stick	55		
+4384.401	check	nb28	get on discord						
+4384.401	check	get on discord	nb28						
+4384.925	collide	puck	player	SPACECOW	blue	authority-request	25		
+4396.5	collide	puck	player	nb28	green	authority-closest	31		
+4398.401	check	bigbootyjudy	nb28						
+4398.401	check	nb28	bigbootyjudy						
+4400.784	collide	puck	player	get on discord	green	authority-closest	55		
+4402.451	check	get on discord	SPACECOW						
+4403.451	check	get on discord	SPACECOW						
+4403.451	check	SPACECOW	get on discord						
+4403.634	check	get on discord	SPACECOW						
+4403.734	check	get on discord	SPACECOW						
+4403.734	check	SPACECOW	get on discord						
+4403.834	check	get on discord	SPACECOW						
+4403.834	check	SPACECOW	get on discord						
+4403.934	check	get on discord	SPACECOW						
+4404.417	check	get on discord	SPACECOW						
+4404.755	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4411	collide	puck	player	nb28	green	stick	31		
+4411.151	collide	puck	player	get on discord	green	stick	55		
+4411.467	check	nb28	get on discord						
+4411.467	check	get on discord	nb28						
+4414.151	check	nb28	get on discord						
+4414.634	collide	puck	player	nb28	green	authority-collide	31		
+4415.217	check	bigbootyjudy	get on discord						
+4415.217	check	get on discord	bigbootyjudy						
+4415.284	check	bigbootyjudy	get on discord						
+4415.634	collide	puck	player	get on discord	green	stick	55		
+4418.784	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4424.101	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4435.701	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4447.351	check	get on discord	SPACECOW						
+4447.934	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4450.451	collide	puck	player	SPACECOW	blue	stick	25		
+4450.534	check	bigbootyjudy	nb28						
+4455.917	check	nb28	get on discord						
+4456.084	check	get on discord	SPACECOW						
+4456.084	check	SPACECOW	get on discord						
+4456.167	check	get on discord	SPACECOW						
+4456.167	check	SPACECOW	get on discord						
+4456.75	goal	server	-	blue	SPACECOW	6	2	467.6423	4450.451
+4457.917	collide	puck	player	get on discord	green	stick	55		
+4459.756	faceoff								
+4460.701	check	bigbootyjudy	SPACECOW						
+4460.701	check	SPACECOW	bigbootyjudy						
+4462.617	faceoff								
+4462.634	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4463.533	collide	puck	player	get on discord	green	authority-request	55		
+4465.119	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4468.534	check	bigbootyjudy	nb28						
+4468.534	check	nb28	bigbootyjudy						
+4470.018	check	nb28	SPACECOW						
+4470.018	check	SPACECOW	nb28						
+4473.684	collide	puck	player	nb28	green	authority-closest	31		
+4478.734	goal	server	-	green	nb28	6	3	489.6257	4473.684
+4479.367	check	bigbootyjudy	nb28						
+4479.367	check	nb28	bigbootyjudy						
+4481.684	check	nb28	get on discord						
+4481.734	faceoff								
+4484.601	faceoff								
+4484.617	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4484.851	faceoff								
+4484.867	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4485.434	collide	puck	player	get on discord	green	authority-request	55		
+4489.134	check	bigbootyjudy	get on discord						
+4491.067	collide	puck	player	nb28	green	stick	31		
+4492.451	check	nb28	SPACECOW						
+4492.451	check	SPACECOW	nb28						
+4492.551	check	nb28	SPACECOW						
+4492.551	check	SPACECOW	nb28						
+4494.151	collide	puck	player	get on discord	green	stick	55		
+4494.397	collide	puck	player	nb28	green	authority-request	31		
+4494.401	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4494.434	check	get on discord	SPACECOW						
+4494.617	check	nb28	get on discord						
+4494.617	check	get on discord	nb28						
+4495.167	check	get on discord	SPACECOW						
+4495.167	check	SPACECOW	get on discord						
+4495.284	check	nb28	get on discord						
+4495.284	check	get on discord	nb28						
+4496.984	check	get on discord	SPACECOW						
+4496.984	check	SPACECOW	get on discord						
+4506.634	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4514.484	collide	puck	player	get on discord	green	authority-closest	55		
+4518.901	collide	puck	player	nb28	green	authority-closest	31		
+4534.967	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4538.551	check	bigbootyjudy	get on discord						
+4538.551	check	get on discord	bigbootyjudy						
+4540.951	collide	puck	player	SPACECOW	blue	stick	25		
+4544.617	collide	puck	player	get on discord	green	authority-closest	55		
+4545.067	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4546.051	goal	server	-	blue	bigbootyjudy	7	3	556.9426	4545.067
+4549.056	faceoff								
+4549.484	check	nb28	get on discord						
+4551.917	faceoff								
+4551.934	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4552.778	collide	puck	player	get on discord	green	authority-request	55		
+4553.301	check	get on discord	SPACECOW						
+4553.434	check	get on discord	SPACECOW						
+4553.617	check	get on discord	SPACECOW						
+4553.617	check	SPACECOW	get on discord						
+4555.734	check	bigbootyjudy	nb28						
+4555.734	check	nb28	bigbootyjudy						
+4555.851	collide	puck	player	bigbootyjudy	blue	stick	49		
+4556.378	collide	puck	player	nb28	green	authority-request	31		
+4558.151	collide	puck	player	SPACECOW	blue	stick	25		
+4558.684	check	nb28	SPACECOW						
+4561.001	check	bigbootyjudy	nb28						
+4561.567	check	get on discord	SPACECOW						
+4564.567	collide	puck	player	get on discord	green	stick	55		
+4564.637	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4565.367	check	get on discord	SPACECOW						
+4576.534	collide	puck	player	nb28	green	stick	31		
+4576.967	check	bigbootyjudy	nb28						
+4576.967	check	nb28	bigbootyjudy						
+4577.151	check	nb28	get on discord						
+4579.634	collide	puck	player	get on discord	green	authority-closest	55		
+4589.051	collide	puck	player	SPACECOW	blue	stick	25		
+4589.584	check	get on discord	SPACECOW						
+4590.268	check	get on discord	SPACECOW						
+4590.584	check	get on discord	SPACECOW						
+4590.584	check	SPACECOW	get on discord						
+4595.268	collide	puck	player	nb28	green	authority-closest	31		
+4598.817	check	nb28	SPACECOW						
+4598.817	check	SPACECOW	nb28						
+4599.667	check	nb28	SPACECOW						
+4599.667	check	SPACECOW	nb28						
+4606.688	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+4606.867	check	bigbootyjudy	nb28						
+4606.867	check	nb28	bigbootyjudy						
+4612.384	check	bigbootyjudy	nb28						
+4612.384	check	nb28	bigbootyjudy						
+4612.501	collide	puck	player	SPACECOW	blue	stick	25		
+4612.584	collide	puck	player	get on discord	green	stick	55		
+4613.268	check	nb28	SPACECOW						
+4613.334	check	bigbootyjudy	get on discord						
+4613.417	check	bigbootyjudy	SPACECOW						
+4613.417	check	SPACECOW	bigbootyjudy						
+4613.534	check	get on discord	SPACECOW						
+4613.534	check	SPACECOW	get on discord						
+4613.567	check	bigbootyjudy	get on discord						
+4613.567	check	get on discord	bigbootyjudy						
+4624.534	check	bigbootyjudy	SPACECOW						
+4626.651	collide	puck	player	nb28	green	authority-closest	31		
+4629.167	check	get on discord	SPACECOW						
+4629.167	check	SPACECOW	get on discord						
+4630.034	collide	puck	player	get on discord	green	stick	55		
+4640.034	collide	puck	player	nb28	green	authority-closest	31		
+4641.334	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4645.501	check	bigbootyjudy	nb28						
+4645.501	check	nb28	bigbootyjudy						
+4649.217	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4649.784	check	get on discord	SPACECOW						
+4649.784	check	SPACECOW	get on discord						
+4650.204	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4652.751	collide	puck	player	SPACECOW	blue	stick	25		
+4652.951	collide	puck	player	get on discord	green	stick	55		
+4653.734	check	get on discord	SPACECOW						
+4653.734	check	SPACECOW	get on discord						
+4654.617	check	nb28	SPACECOW						
+4654.617	check	SPACECOW	nb28						
+4656.26	collide	puck	player	nb28	green	authority-closest	31		
+4657.201	collide	puck	player	get on discord	green	stick	55		
+4658.284	check	nb28	SPACECOW						
+4658.284	check	SPACECOW	nb28						
+4663.501	check	bigbootyjudy	get on discord						
+4663.567	check	get on discord	SPACECOW						
+4664.051	check	bigbootyjudy	SPACECOW						
+4664.051	check	SPACECOW	bigbootyjudy						
+4664.384	collide	puck	player	nb28	green	authority-closest	31		
+4664.634	check	bigbootyjudy	SPACECOW						
+4666.384	check	bigbootyjudy	SPACECOW						
+4666.384	check	SPACECOW	bigbootyjudy						
+4684.372	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+4684.401	goal	server	-	green	nb28	7	4	695.2927	4664.384
+4687.411	faceoff								
+4690.268	faceoff								
+4690.284	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4690.501	faceoff								
+4690.518	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4690.751	faceoff								
+4690.768	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4690.934	faceoff								
+4691.001	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4691.364	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4691.451	collide	puck	player	SPACECOW	blue	stick	25		
+4691.529	collide	puck	player	get on discord	green	authority-request	55		
+4692.334	check	nb28	SPACECOW						
+4692.334	check	SPACECOW	nb28						
+4694.401	check	bigbootyjudy	SPACECOW						
+4694.484	collide	puck	player	bigbootyjudy	blue	stick	49		
+4696.165	collide	puck	player	nb28	green	authority-request	31		
+4698.284	collide	puck	player	get on discord	green	authority-closest	55		
+4705.268	check	get on discord	SPACECOW						
+4705.268	check	SPACECOW	get on discord						
+4705.917	check	bigbootyjudy	watermelon						
+4705.917	check	watermelon	bigbootyjudy						
+4707.167	check	watermelon	get on discord						
+4707.167	check	get on discord	watermelon						
+4708.834	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4715.384	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4715.801	collide	puck	player	watermelon	blue	stick	58		
+4719.118	collide	puck	player	bigbootyjudy	blue	stick	49		
+4720.884	collide	puck	player	nb28	green	stick	31		
+4723.134	collide	puck	player	get on discord	green	stick	55		
+4723.285	collide	puck	player	SPACECOW	blue	authority-request	25		
+4723.373	collide	puck	player	nb28	green	authority-request	31		
+4723.784	check	bigbootyjudy	get on discord						
+4723.834	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4723.901	check	get on discord	SPACECOW						
+4725.467	check	watermelon	nb28						
+4725.467	check	nb28	watermelon						
+4725.584	check	watermelon	nb28						
+4725.584	check	nb28	watermelon						
+4728.394	collide	puck	player	watermelon	blue	authority-request	58		
+4735.151	collide	puck	player	SPACECOW	blue	authority-closest	25		
+4737.917	check	get on discord	SPACECOW						
+4737.917	check	SPACECOW	get on discord						
+4738.217	check	get on discord	SPACECOW						
+4738.217	check	SPACECOW	get on discord						
+4745.667	check	watermelon	get on discord						
+4745.667	check	get on discord	watermelon						
+4749.217	check	watermelon	get on discord						
+4750.801	check	bigbootyjudy	SPACECOW						
+4750.801	check	SPACECOW	bigbootyjudy						
+4755.467	check	bigbootyjudy	SPACECOW						
+4755.467	check	SPACECOW	bigbootyjudy						
+4758.434	check	nb28	get on discord						
+4758.434	check	get on discord	nb28						
+4758.717	check	nb28	get on discord						
+4759.451	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4759.567	check	bigbootyjudy	nb28						
+4759.567	check	nb28	bigbootyjudy						
+4760.967	collide	puck	player	watermelon	blue	authority-closest	58		
+4763.401	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4769.251	collide	puck	player	SPACECOW	blue	stick	25		
+4773.467	check	nb28	SPACECOW						
+4773.467	check	SPACECOW	nb28						
+4775.301	collide	puck	player	get on discord	green	authority-request	55		
+4775.817	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4783.684	goal	server	-	blue	bigbootyjudy	8	4	794.5759	4775.817
+4784.051	check	get on discord	SPACECOW						
+4784.051	check	SPACECOW	get on discord						
+4784.768	check	watermelon	nb28						
+4784.768	check	nb28	watermelon						
+4785.934	check	watermelon	SPACECOW						
+4785.934	check	SPACECOW	watermelon						
+4786.687	faceoff								
+4789.551	faceoff								
+4789.567	collide	puck	player	watermelon	blue	authority-closest	58		
+4789.717	faceoff								
+4789.801	collide	puck	player	watermelon	blue	authority-closest	58		
+4790.584	collide	puck	player	get on discord	green	stick	55		
+4791.101	check	watermelon	get on discord						
+4791.817	collide	puck	player	bigbootyjudy	blue	stick	49		
+4792.784	collide	puck	player	watermelon	blue	authority-closest	58		
+4793.018	collide	puck	player	nb28	green	stick	31		
+4794.307	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+4794.334	collide	puck	player	watermelon	blue	stick	58		
+4794.368	collide	puck	player	bigbootyjudy	blue	stick	49		
+4794.501	collide	puck	player	watermelon	blue	stick	58		
+4796.368	check	bigbootyjudy	watermelon						
+4796.368	check	watermelon	bigbootyjudy						
+4798.634	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4799.067	collide	puck	player	watermelon	blue	stick	58		
+4800.934	check	watermelon	nb28						
+4800.934	check	nb28	watermelon						
+4801.217	check	watermelon	nb28						
+4802.091	collide	puck	player	SPACECOW	blue	authority-request	25		
+4802.345	collide	puck	player	get on discord	green	authority-request	55		
+4802.401	check	get on discord	SPACECOW						
+4804.518	collide	puck	player	watermelon	blue	stick	58		
+4804.567	check	watermelon	get on discord						
+4804.717	collide	puck	player	nb28	green	stick	31		
+4804.834	collide	puck	player	SPACECOW	blue	stick	25		
+4804.851	collide	puck	player	get on discord	green	authority-collide	55		
+4805.167	collide	puck	player	nb28	green	stick	31		
+4806.951	collide	puck	player	watermelon	blue	stick	58		
+4807.684	check	watermelon	nb28						
+4807.684	check	nb28	watermelon						
+4808.268	check	bigbootyjudy	SPACECOW						
+4816.801	collide	puck	player	get on discord	green	stick	55		
+4816.967	check	watermelon	get on discord						
+4817.184	check	watermelon	nb28						
+4817.184	check	nb28	get on discord						
+4817.268	check	nb28	get on discord						
+4818.667	check	nb28	get on discord						
+4819.412	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4819.584	check	bigbootyjudy	nb28						
+4820.567	collide	puck	player	watermelon	blue	stick	58		
+4820.967	collide	puck	player	bigbootyjudy	blue	stick	49		
+4821.984	collide	puck	player	nb28	green	stick	31		
+4823.368	check	nb28	get on discord						
+4825.901	collide	puck	player	watermelon	blue	stick	58		
+4826.134	collide	puck	player	bigbootyjudy	blue	stick	49		
+4826.351	check	bigbootyjudy	watermelon						
+4827.434	check	bigbootyjudy	watermelon						
+4827.567	check	bigbootyjudy	watermelon						
+4833.467	check	bigbootyjudy	get on discord						
+4839.217	collide	puck	player	get on discord	green	authority-closest	55		
+4844.567	check	bigbootyjudy	get on discord						
+4844.567	check	get on discord	bigbootyjudy						
+4846.667	check	watermelon	get on discord						
+4846.667	check	get on discord	watermelon						
+4846.863	collide	puck	player	watermelon	blue	authority-request	58		
+4847.434	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4848.967	check	bigbootyjudy	get on discord						
+4848.967	check	get on discord	bigbootyjudy						
+4849.368	check	bigbootyjudy	get on discord						
+4850.234	collide	puck	player	watermelon	blue	authority-closest	58		
+4851.901	check	watermelon	get on discord						
+4851.901	check	get on discord	watermelon						
+4854.075	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4854.501	collide	puck	player	watermelon	blue	stick	58		
+4854.751	check	bigbootyjudy	watermelon						
+4854.751	check	watermelon	bigbootyjudy						
+4854.967	collide	puck	player	bigbootyjudy	blue	stick	49		
+4855.334	check	watermelon	get on discord						
+4856.251	collide	puck	player	watermelon	blue	stick	58		
+4858.184	check	watermelon	get on discord						
+4858.684	check	bigbootyjudy	nb28						
+4862.851	collide	puck	player	nb28	green	authority-closest	31		
+4863.151	check	watermelon	get on discord						
+4863.417	check	watermelon	get on discord						
+4863.417	check	get on discord	watermelon						
+4864.268	check	bigbootyjudy	nb28						
+4874.917	check	bigbootyjudy	nb28						
+4874.917	check	nb28	bigbootyjudy						
+4883.201	collide	puck	player	get on discord	green	stick	55		
+4891.151	collide	puck	player	nb28	green	authority-closest	31		
+4892.118	collide	puck	player	get on discord	green	authority-closest	55		
+4894.217	check	bigbootyjudy	nb28						
+4899.251	goal	server	-	green	get on discord	8	5	910.1428	4892.118
+4900.467	check	watermelon	get on discord						
+4900.467	check	get on discord	watermelon						
+4901.051	collide	puck	player	watermelon	blue	stick	58		
+4902.26	faceoff								
+4902.501	check	nb28	get on discord						
+4905.118	faceoff								
+4905.134	collide	puck	player	watermelon	blue	authority-closest	58		
+4905.301	faceoff								
+4905.368	collide	puck	player	watermelon	blue	authority-closest	58		
+4906.4	collide	puck	player	nb28	green	authority-request	31		
+4906.554	collide	puck	player	get on discord	green	authority-request	55		
+4907.001	check	watermelon	get on discord						
+4907.001	check	get on discord	watermelon						
+4907.084	collide	puck	player	nb28	green	stick	31		
+4907.368	check	nb28	get on discord						
+4907.634	check	nb28	get on discord						
+4907.677	collide	puck	player	get on discord	green	authority-request	55		
+4908.118	collide	puck	player	nb28	green	stick	31		
+4916.434	collide	puck	player	get on discord	green	stick	55		
+4916.868	collide	puck	player	nb28	green	authority-collide	31		
+4927.284	goal	server	-	green	nb28	8	6	938.176	4916.868
+4930.294	faceoff								
+4933.151	faceoff								
+4933.167	collide	puck	player	watermelon	blue	authority-closest	58		
+4933.334	faceoff								
+4933.401	collide	puck	player	watermelon	blue	authority-closest	58		
+4935.151	collide	puck	player	nb28	green	authority-closest	31		
+4943.298	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4945.001	collide	puck	player	watermelon	blue	stick	58		
+4945.28	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4945.368	collide	puck	player	get on discord	green	stick	55		
+4945.717	check	bigbootyjudy	nb28						
+4946.167	collide	puck	player	watermelon	blue	stick	58		
+4946.351	check	bigbootyjudy	watermelon						
+4947.717	collide	puck	player	nb28	green	authority-closest	31		
+4950.234	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4950.451	check	bigbootyjudy	nb28						
+4950.667	collide	puck	player	watermelon	blue	authority-closest	58		
+4951.751	goal	server	-	green	nb28	8	7	962.6428	4947.717
+4952.034	check	watermelon	nb28						
+4954.761	faceoff								
+4957.618	faceoff								
+4957.634	collide	puck	player	watermelon	blue	authority-closest	58		
+4957.784	faceoff								
+4957.868	collide	puck	player	watermelon	blue	authority-closest	58		
+4958.725	collide	puck	player	get on discord	green	authority-request	55		
+4959.154	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+4960.201	collide	puck	player	nb28	green	authority-closest	31		
+4961.817	check	bigbootyjudy	nb28						
+4961.817	check	nb28	bigbootyjudy						
+4965.684	check	bigbootyjudy	nb28						
+4965.684	check	nb28	bigbootyjudy						
+4968.051	collide	puck	player	get on discord	green	authority-closest	55		
+4972.417	collide	puck	player	nb28	green	authority-closest	31		
+4974.967	check	bigbootyjudy	nb28						
+4974.967	check	nb28	bigbootyjudy						
+4975.401	check	bigbootyjudy	get on discord						
+4976.217	collide	puck	player	get on discord	green	stick	55		
+4976.451	collide	puck	player	watermelon	blue	authority-closest	58		
+4983.434	collide	puck	player	bigbootyjudy	blue	stick	49		
+4983.618	check	bigbootyjudy	get on discord						
+4983.868	check	bigbootyjudy	get on discord						
+4983.868	check	get on discord	bigbootyjudy						
+4985.201	collide	puck	player	nb28	green	authority-closest	31		
+4988.443	collide	puck	player	watermelon	blue	authority-closest	58		
+4990.118	check	watermelon	nb28						
+4990.118	check	nb28	watermelon						
+4990.866	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+4990.967	check	bigbootyjudy	get on discord						
+4991.051	check	bigbootyjudy	nb28						
+4991.051	check	watermelon	get on discord						
+4991.101	check	nb28	get on discord						
+4991.184	check	watermelon	get on discord						
+4991.184	collide	puck	player	watermelon	blue	stick	58		
+4991.201	check	bigbootyjudy	get on discord						
+4991.201	check	get on discord	bigbootyjudy						
+4991.301	check	bigbootyjudy	get on discord						
+4991.301	check	nb28	get on discord						
+4991.334	check	watermelon	nb28						
+4991.384	check	nb28	get on discord						
+4991.484	check	nb28	get on discord						
+4991.518	collide	puck	player	bigbootyjudy	blue	stick	49		
+4992.287	collide	puck	player	get on discord	green	authority-request	55		
+4995.001	check	bigbootyjudy	get on discord						
+4995.784	collide	puck	player	watermelon	blue	authority-closest	58		
+5000.584	collide	puck	player	nb28	green	stick	31		
+5003.751	collide	puck	player	get on discord	green	authority-closest	55		
+5006.645	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+5007.884	check	bigbootyjudy	get on discord						
+5007.884	check	get on discord	bigbootyjudy						
+5008.317	check	bigbootyjudy	get on discord						
+5008.317	check	get on discord	bigbootyjudy						
+5008.651	check	bigbootyjudy	get on discord						
+5008.684	collide	puck	player	watermelon	blue	stick	58		
+5009.567	check	nb28	get on discord						
+5009.651	check	bigbootyjudy	watermelon						
+5010.834	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5013.851	check	bigbootyjudy	get on discord						
+5018.801	collide	puck	player	nb28	green	authority-closest	31		
+5022.368	check	watermelon	nb28						
+5023.051	collide	puck	player	watermelon	blue	authority-request	58		
+5023.284	check	watermelon	nb28						
+5026.868	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5037.151	check	watermelon	nb28						
+5037.201	collide	puck	player	watermelon	blue	authority-closest	58		
+5039.784	check	nb28	get on discord						
+5046.901	check	watermelon	nb28						
+5046.901	check	nb28	watermelon						
+5047.518	check	nb28	get on discord						
+5047.518	check	get on discord	nb28						
+5053.784	check	watermelon	get on discord						
+5053.784	check	get on discord	watermelon						
+5053.868	check	watermelon	get on discord						
+5053.868	check	get on discord	watermelon						
+5055.534	check	watermelon	get on discord						
+5055.534	check	get on discord	watermelon						
+5059.934	check	bigbootyjudy	nb28						
+5059.934	check	nb28	bigbootyjudy						
+5062.701	check	watermelon	nb28						
+5065.251	check	watermelon	nb28						
+5066.234	collide	puck	player	get on discord	green	authority-closest	55		
+5070.768	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5072.201	check	bigbootyjudy	get on discord						
+5072.201	check	get on discord	bigbootyjudy						
+5072.584	check	bigbootyjudy	get on discord						
+5077.801	check	bigbootyjudy	get on discord						
+5080.084	check	bigbootyjudy	get on discord						
+5086.751	collide	puck	player	nb28	green	authority-closest	31		
+5091.401	collide	puck	player	get on discord	green	authority-closest	55		
+5105.018	collide	puck	player	nb28	green	authority-closest	31		
+5110.151	check	bigbootyjudy	nb28						
+5117.184	collide	puck	player	watermelon	blue	stick	58		
+5117.384	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5117.784	goal	server	-	blue	bigbootyjudy	9	7	1128.676	5117.384
+5119.301	check	bigbootyjudy	nb28						
+5120.786	faceoff								
+5123.651	faceoff								
+5123.667	collide	puck	player	watermelon	blue	authority-closest	58		
+5123.834	faceoff								
+5123.901	collide	puck	player	watermelon	blue	authority-closest	58		
+5124.574	collide	puck	player	get on discord	green	authority-request	55		
+5126.101	check	bigbootyjudy	nb28						
+5126.268	check	watermelon	get on discord						
+5126.618	check	bigbootyjudy	nb28						
+5126.618	check	nb28	bigbootyjudy						
+5130.751	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5131.201	check	bigbootyjudy	get on discord						
+5131.201	check	get on discord	bigbootyjudy						
+5131.618	collide	puck	player	watermelon	blue	authority-closest	58		
+5133.301	collide	puck	player	nb28	green	authority-closest	31		
+5134.601	check	bigbootyjudy	get on discord						
+5134.651	check	bigbootyjudy	get on discord						
+5137.446	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5137.951	check	watermelon	nb28						
+5137.951	check	bigbootyjudy	nb28						
+5138.384	check	watermelon	nb28						
+5142.317	check	bigbootyjudy	get on discord						
+5142.317	check	get on discord	bigbootyjudy						
+5147.284	check	bigbootyjudy	nb28						
+5147.484	check	bigbootyjudy	nb28						
+5148.667	check	nb28	get on discord						
+5148.768	check	bigbootyjudy	get on discord						
+5148.834	check	bigbootyjudy	get on discord						
+5148.967	check	nb28	get on discord						
+5149.101	check	nb28	get on discord						
+5149.101	check	get on discord	nb28						
+5150.334	collide	puck	player	watermelon	blue	authority-closest	58		
+5165.48	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5167.768	check	watermelon	nb28						
+5170.251	collide	puck	player	get on discord	green	authority-closest	55		
+5178.868	check	watermelon	nb28						
+5178.868	check	nb28	watermelon						
+5179.534	goal	server	-	green	get on discord	9	8	1190.426	5170.251
+5182.537	faceoff								
+5185.401	faceoff								
+5185.417	collide	puck	player	watermelon	blue	authority-closest	58		
+5185.567	faceoff								
+5185.651	collide	puck	player	watermelon	blue	authority-closest	58		
+5186.412	collide	puck	player	get on discord	green	authority-request	55		
+5187.227	collide	puck	player	nb28	green	authority-request	31		
+5189.044	period-end	server	-	9	8				
+5189.044	faceoff								
+5191.451	check	watermelon	get on discord						
+5191.901	faceoff								
+5191.917	collide	puck	player	watermelon	blue	authority-closest	58		
+5192.118	faceoff								
+5192.151	collide	puck	player	watermelon	blue	authority-closest	58		
+5193.052	collide	puck	player	get on discord	green	authority-request	55		
+5195.868	collide	puck	player	nb28	green	authority-closest	31		
+5200.768	check	bigbootyjudy	get on discord						
+5200.768	check	get on discord	bigbootyjudy						
+5216.934	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5217.417	collide	puck	player	get on discord	green	authority-closest	55		
+5218.631	collide	puck	player	watermelon	blue	authority-closest	58		
+5221.329	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5221.834	check	bigbootyjudy	watermelon						
+5221.834	check	watermelon	bigbootyjudy						
+5226.484	collide	puck	player	nb28	green	authority-closest	31		
+5226.484	check	get on discord	bigbootyjudy						
+5228.317	check	bigbootyjudy	get on discord						
+5228.317	check	get on discord	bigbootyjudy						
+5237.334	check	watermelon	nb28						
+5237.351	collide	puck	player	watermelon	blue	stick	58		
+5237.451	check	bigbootyjudy	watermelon						
+5237.451	check	watermelon	bigbootyjudy						
+5237.518	collide	puck	player	bigbootyjudy	blue	stick	49		
+5237.551	collide	puck	player	watermelon	blue	stick	58		
+5237.618	collide	puck	player	bigbootyjudy	blue	stick	49		
+5238.384	check	bigbootyjudy	nb28						
+5238.384	check	nb28	bigbootyjudy						
+5239.467	collide	puck	player	bigbootyjudy	blue	stick	49		
+5246.984	collide	puck	player	watermelon	blue	stick	58		
+5249.251	check	bigbootyjudy	watermelon						
+5249.251	check	watermelon	bigbootyjudy						
+5253.051	check	bigbootyjudy	nb28						
+5256.234	collide	puck	player	bigbootyjudy	blue	stick	49		
+5257.401	collide	puck	player	watermelon	blue	stick	58		
+5257.684	check	bigbootyjudy	nb28						
+5257.684	check	nb28	bigbootyjudy						
+5258.417	check	watermelon	nb28						
+5258.417	check	nb28	watermelon						
+5261.217	goal	server	-	green	nb28	0	1	72.17334	5226.484
+5261.601	check	bigbootyjudy	nb28						
+5261.601	check	nb28	bigbootyjudy						
+5264.228	faceoff								
+5267.084	faceoff								
+5267.101	collide	puck	player	watermelon	blue	authority-closest	58		
+5267.268	faceoff								
+5267.334	collide	puck	player	watermelon	blue	authority-closest	58		
+5268.6	collide	puck	player	nb28	green	authority-request	31		
+5275.234	goal	server	-	green	nb28	0	2	86.19043	5268.6
+5278.245	faceoff								
+5281.101	faceoff								
+5281.118	collide	puck	player	watermelon	blue	authority-closest	58		
+5281.284	faceoff								
+5281.351	collide	puck	player	watermelon	blue	authority-closest	58		
+5282.188	collide	puck	player	nb28	green	authority-request	31		
+5286.401	goal	server	-	green	nb28	0	3	97.35693	5282.188
+5289.411	faceoff								
+5292.268	faceoff								
+5292.284	collide	puck	player	watermelon	blue	authority-closest	58		
+5292.434	faceoff								
+5292.518	collide	puck	player	watermelon	blue	authority-closest	58		
+5300.501	collide	puck	player	nb28	green	stick	31		
+5301.551	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5309.584	check	bigbootyjudy	nb28						
+5309.584	check	nb28	bigbootyjudy						
+5311.934	collide	puck	player	watermelon	blue	stick	58		
+5312.084	collide	puck	player	bigbootyjudy	blue	stick	49		
+5318.684	collide	puck	player	watermelon	blue	authority-closest	58		
+5329.218	check	bigbootyjudy	nb28						
+5329.401	check	bigbootyjudy	nb28						
+5340.984	faceoff								
+5342.701	collide	puck	player	nb28	green	authority-closest	31		
+5349.344	collide	puck	player	watermelon	blue	authority-request	58		
+5356.667	collide	puck	player	bigbootyjudy	blue	stick	49		
+5357.034	collide	puck	player	watermelon	blue	stick	58		
+5357.218	check	bigbootyjudy	nb28						
+5358.201	check	bigbootyjudy	nb28						
+5360.834	goal	server	-	blue	watermelon	1	3	171.79	5357.034
+5363.835	faceoff								
+5366.701	faceoff								
+5366.718	collide	puck	player	watermelon	blue	authority-closest	58		
+5366.884	faceoff								
+5366.951	collide	puck	player	watermelon	blue	authority-closest	58		
+5368.096	collide	puck	player	nb28	green	authority-request	31		
+5371.034	check	bigbootyjudy	watermelon						
+5371.034	check	watermelon	bigbootyjudy						
+5371.634	check	bigbootyjudy	watermelon						
+5371.634	check	watermelon	bigbootyjudy						
+5373.801	check	watermelon	nb28						
+5374.384	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5375.218	collide	puck	player	watermelon	blue	authority-closest	58		
+5382.934	check	watermelon	nb28						
+5382.934	check	nb28	watermelon						
+5383.184	check	watermelon	nb28						
+5383.184	check	nb28	watermelon						
+5384.067	check	bigbootyjudy	nb28						
+5384.768	check	bigbootyjudy	watermelon						
+5384.768	check	watermelon	bigbootyjudy						
+5385.593	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5385.618	collide	puck	player	watermelon	blue	stick	58		
+5385.667	collide	puck	player	bigbootyjudy	blue	stick	49		
+5385.718	collide	puck	player	watermelon	blue	stick	58		
+5385.768	collide	puck	player	bigbootyjudy	blue	stick	49		
+5387.468	collide	puck	player	watermelon	blue	stick	58		
+5388.701	collide	puck	player	bigbootyjudy	blue	stick	49		
+5392.151	collide	puck	player	watermelon	blue	authority-closest	58		
+5406.301	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5406.417	check	watermelon	nb28						
+5406.417	check	nb28	watermelon						
+5415.234	check	watermelon	nb28						
+5415.234	check	nb28	watermelon						
+5421.234	collide	puck	player	watermelon	blue	authority-closest	58		
+5430.167	faceoff								
+5430.167	faceoff								
+5433.034	faceoff								
+5433.334	collide	puck	player	watermelon	blue	authority-closest	58		
+5439.234	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5443.501	collide	puck	player	nb28	green	stick	31		
+5445.339	collide	puck	player	watermelon	blue	authority-closest	58		
+5451.684	check	bigbootyjudy	watermelon						
+5453.118	check	bigbootyjudy	nb28						
+5453.118	check	nb28	bigbootyjudy						
+5453.118	check	watermelon	nb28						
+5453.118	check	nb28	watermelon						
+5453.301	check	bigbootyjudy	nb28						
+5453.301	check	nb28	bigbootyjudy						
+5453.301	check	watermelon	nb28						
+5453.301	check	nb28	watermelon						
+5453.994	collide	puck	player	bigbootyjudy	blue	authority-request	49		
+5454.018	collide	puck	player	watermelon	blue	stick	58		
+5454.084	collide	puck	player	bigbootyjudy	blue	stick	49		
+5474.934	goal	server	-	green	nb28	1	4	285.8901	5443.501
+5476.917	check	bigbootyjudy	nb28						
+5476.917	check	nb28	bigbootyjudy						
+5477.943	faceoff								
+5480.801	faceoff								
+5480.817	collide	puck	player	watermelon	blue	authority-closest	58		
+5480.984	faceoff								
+5481.051	collide	puck	player	watermelon	blue	authority-closest	58		
+5482.534	check	bigbootyjudy	watermelon						
+5482.551	collide	puck	player	bigbootyjudy	blue	stick	49		
+5482.667	collide	puck	player	watermelon	blue	stick	58		
+5482.744	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5482.768	collide	puck	player	watermelon	blue	stick	58		
+5482.817	collide	puck	player	bigbootyjudy	blue	stick	49		
+5483.051	check	bigbootyjudy	watermelon						
+5489.901	collide	puck	player	nb28	green	stick	31		
+5491.334	check	bigbootyjudy	nb28						
+5494.567	collide	puck	player	watermelon	blue	authority-closest	58		
+5506.518	goal	server	-	green	nb28	1	5	317.4736	5489.901
+5508.384	collide	puck	player	bigbootyjudy	blue	stick	49		
+5509.523	faceoff								
+5512.384	faceoff								
+5512.401	collide	puck	player	watermelon	blue	authority-closest	58		
+5520.084	collide	puck	player	bigbootyjudy	blue	authority-closest	49		
+5520.251	check	watermelon	nb28						
+5524.651	collide	puck	player	nb28	green	stick	31		
+5526.701	check	bigbootyjudy	nb28						
+5527.284	check	bigbootyjudy	nb28						
+5527.284	check	nb28	bigbootyjudy						
+5527.384	check	bigbootyjudy	nb28						
+5527.484	check	bigbootyjudy	nb28						
+5529.817	check	bigbootyjudy	nb28						
+5529.817	check	nb28	bigbootyjudy						
+5532.667	check	bigbootyjudy	nb28						
+5532.667	check	nb28	bigbootyjudy						
+5540.618	goal	server	-	green	nb28	1	6	351.5737	5524.651
+5543.624	faceoff								
+5546.484	faceoff								
+5546.501	collide	puck	player	watermelon	blue	authority-closest	58		
+5546.667	faceoff								
+5546.734	collide	puck	player	watermelon	blue	authority-closest	58		
+5547.962	collide	puck	player	nb28	green	authority-request	31		
+5552.718	check	watermelon	nb28						
+5603.834	check	watermelon	nb28						
+5603.834	check	nb28	watermelon						
+5607.034	check	watermelon	nb28						
+5614.851	check	watermelon	nb28						
+5615.001	check	watermelon	nb28						
+5640.718	goal	server	-	blue	watermelon	2	6	451.6738	5546.734
+5641.034	check	watermelon	nb28						
+5641.034	check	nb28	watermelon						
+5643.726	faceoff								
+5646.584	faceoff								
+5646.601	collide	puck	player	watermelon	blue	authority-closest	58		
+5646.768	faceoff								
+5646.834	collide	puck	player	watermelon	blue	authority-closest	58		
+5647.613	collide	puck	player	nb28	green	authority-request	31		
+5659.051	check	watermelon	nb28						
+5659.051	check	nb28	watermelon						
+5659.301	check	watermelon	nb28						
+5659.301	check	nb28	watermelon						
+5678.501	goal	server	-	green	nb28	2	7	489.457	5647.613
+5681.505	faceoff								
+5684.368	faceoff								
+5685.784	collide	puck	player	nb28	green	authority-closest	31		
+5729.317	collide	puck	player	watermelon	blue	authority-closest	58		
+5771.797	period-end	server	early	2	7				
+0	log-started	server							
+13.89418	period-start	server	-						
+16.75	faceoff								
+16.76667	collide	puck	player	wraithwon	blue	authority-closest	5		
+16.98334	faceoff								
+17	collide	puck	player	wraithwon	blue	authority-closest	5		
+17.16667	faceoff								
+17.23334	collide	puck	player	wraithwon	blue	authority-closest	5		
+42.96351	period-end	server	early	0	0				
+336.2995	faceoff								
+339.1501	faceoff								
+339.1667	collide	puck	player	WRAITH	blue	authority-closest	11		
+339.3667	faceoff								
+339.4001	collide	puck	player	WRAITH	blue	authority-closest	11		
+342.9286	period-end	server	early	0	0				

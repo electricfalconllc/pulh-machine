@@ -14,6 +14,9 @@ var config = {
     assisttime: 20.0, //10 seconds max time player touch before goal to count as assist
 };
 
+var stats = {};
+stats.periods=[];
+
 //gs.Reset(); //not needed here. could be used to break up totals into 'game' totals every 3 periods, for example
 var period = gs.NewPeriod(config);
 var state;
@@ -23,16 +26,18 @@ for (var i=0; i<log.length; i++)
     var line = log[i];
     state = period.ProcessLine(line);
     if (state.periodOver) {
-        outputState(state);
+        //outputState(state);
+        stats.periods.push(state);
         period = gs.NewPeriod(config);
     }
 }
 if (period.GetState().startTime>0)
-    outputState(period.GetState());
+    stats.periods.push(period.GetState());
         
-console.log("Totals");
-console.log(gs.GetTotals());
-console.log("----------------");
+stats.totals=gs.GetTotals();
+
+console.log(JSON.stringify(stats,null,"    "));
+
 
 function outputState(state) {
     console.log("Period "+state.period);

@@ -1,2282 +1,2156 @@
-Period 1
 {
-  period: 1,
-  blueScore: 5,
-  greenScore: 1,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '104.8436'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '137.4269'
-    },
-    {
-      team: 'blue',
-      scorer: 'DontToewsMeBro0',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '82.74304'
-    },
-    {
-      team: 'blue',
-      scorer: 'DontToewsMeBro0',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '148.0597'
-    },
-    {
-      team: 'blue',
-      scorer: 'DontToewsMeBro0',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '361.3264'
-    },
-    {
-      team: 'blue',
-      scorer: 'DontToewsMeBro0',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '464.7264'
-    },
-    {
-      team: 'blue',
-      scorer: 'DontToewsMeBro0',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '496.7598'
-    },
-    {
-      team: 'green',
-      scorer: '',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1077.043'
+    "periods": [
+        {
+            "period": 1,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 4,
+            "greenScore": 0,
+            "goals": [],
+            "pipeHits": [],
+            "startTime": 1251.479,
+            "endTime": 1251.479,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "period": 2,
+            "blueTouches": [
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "14",
+                    "time": 2581.417
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 11.24146
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 1251.479,
+            "endTime": 2598.436,
+            "periodOver": true,
+            "players": {
+                "WRAITH": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 5,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 5,
+                    "pipehits": 0,
+                    "goals": 1
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "goals": 0
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 3,
+            "blueTouches": [
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "11",
+                    "time": 3674.601
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 22.89111
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 3645.593,
+            "endTime": 4753.531,
+            "periodOver": true,
+            "players": {
+                "nb28": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 4,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 4,
+                    "pipehits": 0,
+                    "goals": 1
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "goals": 0
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 4,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 0,
+            "goals": [],
+            "pipeHits": [],
+            "startTime": 4845.528,
+            "endTime": 4845.528,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "period": 5,
+            "blueTouches": [
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "21",
+                    "time": 5916.651
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 2,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 39.45264
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 62.30273
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 75.31934
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 4845.528,
+            "endTime": 6000.231,
+            "periodOver": true,
+            "players": {
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 9,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "green",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 9,
+                    "pipehits": 0,
+                    "goals": 1
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "goals": 2
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 6,
+            "blueTouches": [
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "26",
+                    "time": 6168.634
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 2,
+            "greenScore": 2,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 6.60791
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 16.1748
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 39.95801
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 130.5747
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 6031.943,
+            "endTime": 6188.521,
+            "periodOver": true,
+            "players": {
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 10,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 10,
+                    "pipehits": 0,
+                    "goals": 2
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "goals": 2
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 7,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 6,
+            "greenScore": 3,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 64.07422
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 112.7246
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 253.7412
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 285.2578
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 321.1416
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 401.4414
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 413.2412
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 445.5244
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 460.9082
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 8212.144,
+            "endTime": 8693.131,
+            "periodOver": true,
+            "players": {
+                "SPACECOW": {
+                    "team": "green",
+                    "goals": 6,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 2,
+                    "checked": 4,
+                    "posessions": 15,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "WRAITH": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 4,
+                    "checked": 2,
+                    "posessions": 12,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 2,
+                    "checked": 4,
+                    "posessions": 14,
+                    "pipehits": 0,
+                    "goals": 6
+                },
+                "green": {
+                    "hits": 4,
+                    "checked": 2,
+                    "posessions": 13,
+                    "pipehits": 0,
+                    "goals": 3
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 8,
+            "blueTouches": [
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "39",
+                    "time": 8746.618
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "44",
+                    "time": 8744.085
+                }
+            ],
+            "blueScore": 0,
+            "greenScore": 1,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 34.5
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 8703.701,
+            "endTime": 8747.306,
+            "periodOver": true,
+            "players": {
+                "WRAITH": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SPACECOW": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "green",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "goals": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "goals": 1
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 9,
+            "blueTouches": [
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "47",
+                    "time": 9142.968
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 4,
+            "greenScore": 3,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 107.998
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 122.0313
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 160.0313
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 209.3984
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 229.4814
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 240.4648
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 295.7314
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 8840.734,
+            "endTime": 9172.114,
+            "periodOver": true,
+            "players": {
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 4,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 18,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 3,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 18,
+                    "pipehits": 0,
+                    "goals": 4
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "goals": 3
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 10,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "get on discord",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 12.63363
+                },
+                {
+                    "team": "green",
+                    "scorer": "get on discord",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 63.25535
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 172.8554
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 194.522
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 50.88305,
+            "endTime": 46.28039,
+            "periodOver": true,
+            "players": {
+                "WRAITH": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 1,
+                    "checked": 1,
+                    "posessions": 4,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "green",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 1,
+                    "checked": 1,
+                    "posessions": 6,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 2,
+                    "checked": 2,
+                    "posessions": 12,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nb28": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 1,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 5,
+                    "pipehits": 0,
+                    "goals": 2
+                },
+                "blue": {
+                    "hits": 4,
+                    "checked": 4,
+                    "posessions": 18,
+                    "pipehits": 0,
+                    "goals": 2
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 11,
+            "blueTouches": [
+                {
+                    "player": "StephenSeven",
+                    "part": "authority-closest",
+                    "netid": "20",
+                    "time": 1453.984
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-request",
+                    "netid": "25",
+                    "time": 1457.565
+                },
+                {
+                    "player": "StephenSeven",
+                    "part": "authority-request",
+                    "netid": "20",
+                    "time": 1458.908
+                },
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "31",
+                    "time": 1460.35
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "25",
+                    "time": 1482.367
+                },
+                {
+                    "player": "StephenSeven",
+                    "part": "stick",
+                    "netid": "20",
+                    "time": 1485.734
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-request",
+                    "netid": "25",
+                    "time": 1495.201
+                },
+                {
+                    "player": "nb28",
+                    "part": "stick",
+                    "netid": "31",
+                    "time": 1530.534
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "25",
+                    "time": 1530.834
+                },
+                {
+                    "player": "StephenSeven",
+                    "part": "stick",
+                    "netid": "20",
+                    "time": 1534.834
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "25",
+                    "time": 1542.217
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "get on discord",
+                    "part": "authority-request",
+                    "netid": "14",
+                    "time": 1454.548
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "stick",
+                    "netid": "28",
+                    "time": 1455.384
+                },
+                {
+                    "player": "nitr0",
+                    "part": "authority-request",
+                    "netid": "34",
+                    "time": 1466.759
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "28",
+                    "time": 1466.767
+                },
+                {
+                    "player": "nitr0",
+                    "part": "authority-request",
+                    "netid": "34",
+                    "time": 1474.148
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "28",
+                    "time": 1481.834
+                },
+                {
+                    "player": "nitr0",
+                    "part": "authority-request",
+                    "netid": "34",
+                    "time": 1486.755
+                },
+                {
+                    "player": "get on discord",
+                    "part": "authority-request",
+                    "netid": "14",
+                    "time": 1502.325
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "28",
+                    "time": 1515.367
+                },
+                {
+                    "player": "get on discord",
+                    "part": "stick",
+                    "netid": "14",
+                    "time": 1531.467
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "stick",
+                    "netid": "28",
+                    "time": 1533.817
+                },
+                {
+                    "player": "nitr0",
+                    "part": "authority-closest",
+                    "netid": "34",
+                    "time": 1533.916
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "stick",
+                    "netid": "28",
+                    "time": 1533.967
+                },
+                {
+                    "player": "nitr0",
+                    "part": "authority-closest",
+                    "netid": "34",
+                    "time": 1534.764
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "28",
+                    "time": 1535.017
+                }
+            ],
+            "blueScore": 8,
+            "greenScore": 5,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 45.93634
+                },
+                {
+                    "team": "blue",
+                    "scorer": "StephenSeven",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 59.38635
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 387.2864
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 534.5031
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 562.8698
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 631.1865
+                },
+                {
+                    "team": "blue",
+                    "scorer": "StephenSeven",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 698.5865
+                },
+                {
+                    "team": "blue",
+                    "scorer": "StephenSeven",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 743.1364
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "StephenSeven",
+                    "time": 948.9199
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1010.32
+                },
+                {
+                    "team": "green",
+                    "scorer": "get on discord",
+                    "primaryassist": "WRAITH",
+                    "secondaryassist": "",
+                    "time": 1024.687
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "StephenSeven",
+                    "secondaryassist": "",
+                    "time": 1075.87
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "StephenSeven",
+                    "secondaryassist": "",
+                    "time": 1104.287
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 343.5804,
+            "endTime": 1543.606,
+            "periodOver": true,
+            "players": {
+                "StephenSeven": {
+                    "team": "blue",
+                    "goals": 3,
+                    "primaryassists": 2,
+                    "secondaryassists": 1,
+                    "hits": 55,
+                    "checked": 74,
+                    "posessions": 68,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nb28": {
+                    "team": "blue",
+                    "goals": 3,
+                    "primaryassists": 2,
+                    "secondaryassists": 0,
+                    "hits": 30,
+                    "checked": 44,
+                    "posessions": 43,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 3,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 42,
+                    "checked": 76,
+                    "posessions": 60,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 2,
+                    "secondaryassists": 0,
+                    "hits": 100,
+                    "checked": 65,
+                    "posessions": 63,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "WRAITH": {
+                    "team": "green",
+                    "goals": 3,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 62,
+                    "checked": 31,
+                    "posessions": 64,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nitr0": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 3,
+                    "checked": 2,
+                    "posessions": 5,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 113,
+                    "checked": 175,
+                    "posessions": 149,
+                    "pipehits": 0,
+                    "goals": 8
+                },
+                "green": {
+                    "hits": 178,
+                    "checked": 116,
+                    "posessions": 154,
+                    "pipehits": 0,
+                    "goals": 5
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 12,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 6,
+            "greenScore": 5,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 107.7946
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 181.1779
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 219.4779
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "StephenSeven",
+                    "secondaryassist": "",
+                    "time": 316.5446
+                },
+                {
+                    "team": "blue",
+                    "scorer": "StephenSeven",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 375.1613
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 827.7446
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "StephenSeven",
+                    "secondaryassist": "",
+                    "time": 895.0947
+                },
+                {
+                    "team": "green",
+                    "scorer": "get on discord",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 962.678
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "nitr0",
+                    "secondaryassist": "",
+                    "time": 1180.161
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 1192.961
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1245.411
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 1546,
+            "endTime": 2789.172,
+            "periodOver": true,
+            "players": {
+                "nitr0": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 123,
+                    "checked": 62,
+                    "posessions": 82,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nb28": {
+                    "team": "blue",
+                    "goals": 4,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 65,
+                    "checked": 112,
+                    "posessions": 81,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "StephenSeven": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 2,
+                    "secondaryassists": 0,
+                    "hits": 73,
+                    "checked": 97,
+                    "posessions": 68,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 3,
+                    "secondaryassists": 0,
+                    "hits": 129,
+                    "checked": 92,
+                    "posessions": 86,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 2,
+                    "secondaryassists": 0,
+                    "hits": 63,
+                    "checked": 139,
+                    "posessions": 70,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "WRAITH": {
+                    "team": "green",
+                    "goals": 4,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 133,
+                    "checked": 84,
+                    "posessions": 82,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "green": {
+                    "hits": 385,
+                    "checked": 238,
+                    "posessions": 250,
+                    "pipehits": 0,
+                    "goals": 5
+                },
+                "blue": {
+                    "hits": 199,
+                    "checked": 347,
+                    "posessions": 219,
+                    "pipehits": 0,
+                    "goals": 6
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 13,
+            "blueTouches": [
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "31",
+                    "time": 3964.984
+                },
+                {
+                    "player": "bigbootyjudy",
+                    "part": "authority-request",
+                    "netid": "49",
+                    "time": 3967.813
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "25",
+                    "time": 3975.867
+                },
+                {
+                    "player": "bigbootyjudy",
+                    "part": "stick",
+                    "netid": "49",
+                    "time": 3980.834
+                },
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "31",
+                    "time": 3987.634
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "get on discord",
+                    "part": "authority-request",
+                    "netid": "55",
+                    "time": 3965.522
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "stick",
+                    "netid": "52",
+                    "time": 3970.434
+                },
+                {
+                    "player": "get on discord",
+                    "part": "stick",
+                    "netid": "55",
+                    "time": 3971.867
+                },
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "52",
+                    "time": 3979.184
+                }
+            ],
+            "blueScore": 14,
+            "greenScore": 2,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 77.79468
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 102.728
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 126.6948
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 152.6782
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 196.6948
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 263.8447
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 277.8447
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 314.9114
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 404.3616
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 500.9783
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 590.8281
+                },
+                {
+                    "team": "green",
+                    "scorer": "nitr0",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 667.5781
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 702.6282
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1066.478
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1151.412
+                },
+                {
+                    "team": "blue",
+                    "scorer": "bigbootyjudy",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 1169.695
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 2789.172,
+            "endTime": 3989.108,
+            "periodOver": true,
+            "players": {
+                "nb28": {
+                    "team": "blue",
+                    "goals": 6,
+                    "primaryassists": 5,
+                    "secondaryassists": 0,
+                    "hits": 48,
+                    "checked": 70,
+                    "posessions": 73,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 81,
+                    "checked": 70,
+                    "posessions": 67,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 7,
+                    "primaryassists": 4,
+                    "secondaryassists": 0,
+                    "hits": 49,
+                    "checked": 94,
+                    "posessions": 59,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nitr0": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 103,
+                    "checked": 51,
+                    "posessions": 57,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "WRAITH": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 13,
+                    "checked": 26,
+                    "posessions": 17,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "bigbootyjudy": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 24,
+                    "checked": 7,
+                    "posessions": 21,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 121,
+                    "checked": 171,
+                    "posessions": 153,
+                    "pipehits": 0,
+                    "goals": 14
+                },
+                "green": {
+                    "hits": 193,
+                    "checked": 142,
+                    "posessions": 141,
+                    "pipehits": 0,
+                    "goals": 2
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 14,
+            "blueTouches": [
+                {
+                    "player": "watermelon",
+                    "part": "authority-closest",
+                    "netid": "58",
+                    "time": 5185.651
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "get on discord",
+                    "part": "authority-request",
+                    "netid": "55",
+                    "time": 5186.412
+                },
+                {
+                    "player": "nb28",
+                    "part": "authority-request",
+                    "netid": "31",
+                    "time": 5187.227
+                }
+            ],
+            "blueScore": 9,
+            "greenScore": 8,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "get on discord",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 98.35913
+                },
+                {
+                    "team": "blue",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 114.6091
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 195.8093
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "bigbootyjudy",
+                    "secondaryassist": "nb28",
+                    "time": 209.3591
+                },
+                {
+                    "team": "blue",
+                    "scorer": "bigbootyjudy",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 247.7756
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 318.3425
+                },
+                {
+                    "team": "blue",
+                    "scorer": "bigbootyjudy",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 370.759
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "bigbootyjudy",
+                    "secondaryassist": "",
+                    "time": 467.6423
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 489.6257
+                },
+                {
+                    "team": "blue",
+                    "scorer": "bigbootyjudy",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 556.9426
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 695.2927
+                },
+                {
+                    "team": "blue",
+                    "scorer": "bigbootyjudy",
+                    "primaryassist": "SPACECOW",
+                    "secondaryassist": "",
+                    "time": 794.5759
+                },
+                {
+                    "team": "green",
+                    "scorer": "get on discord",
+                    "primaryassist": "nb28",
+                    "secondaryassist": "",
+                    "time": 910.1428
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 938.176
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "get on discord",
+                    "secondaryassist": "",
+                    "time": 962.6428
+                },
+                {
+                    "team": "blue",
+                    "scorer": "bigbootyjudy",
+                    "primaryassist": "watermelon",
+                    "secondaryassist": "",
+                    "time": 1128.676
+                },
+                {
+                    "team": "green",
+                    "scorer": "get on discord",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1190.426
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 3989.108,
+            "endTime": 5189.044,
+            "periodOver": true,
+            "players": {
+                "nb28": {
+                    "team": "green",
+                    "goals": 6,
+                    "primaryassists": 1,
+                    "secondaryassists": 1,
+                    "hits": 93,
+                    "checked": 81,
+                    "posessions": 54,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "green",
+                    "goals": 3,
+                    "primaryassists": 4,
+                    "secondaryassists": 0,
+                    "hits": 89,
+                    "checked": 132,
+                    "posessions": 61,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "bigbootyjudy": {
+                    "team": "blue",
+                    "goals": 5,
+                    "primaryassists": 2,
+                    "secondaryassists": 0,
+                    "hits": 125,
+                    "checked": 52,
+                    "posessions": 65,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "WRAITH": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 8,
+                    "checked": 24,
+                    "posessions": 15,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 3,
+                    "primaryassists": 3,
+                    "secondaryassists": 0,
+                    "hits": 51,
+                    "checked": 94,
+                    "posessions": 47,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "watermelon": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 44,
+                    "checked": 27,
+                    "posessions": 41,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 234,
+                    "checked": 178,
+                    "posessions": 161,
+                    "pipehits": 0,
+                    "goals": 9
+                },
+                "green": {
+                    "hits": 174,
+                    "checked": 230,
+                    "posessions": 122,
+                    "pipehits": 0,
+                    "goals": 8
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 15,
+            "blueTouches": [
+                {
+                    "player": "watermelon",
+                    "part": "authority-closest",
+                    "netid": "58",
+                    "time": 5729.317
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "31",
+                    "time": 5685.784
+                }
+            ],
+            "blueScore": 2,
+            "greenScore": 7,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 72.17334
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 86.19043
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 97.35693
+                },
+                {
+                    "team": "blue",
+                    "scorer": "watermelon",
+                    "primaryassist": "bigbootyjudy",
+                    "secondaryassist": "",
+                    "time": 171.79
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 285.8901
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 317.4736
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 351.5737
+                },
+                {
+                    "team": "blue",
+                    "scorer": "watermelon",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 451.6738
+                },
+                {
+                    "team": "green",
+                    "scorer": "nb28",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 489.457
+                }
+            ],
+            "pipeHits": [],
+            "startTime": 5189.044,
+            "endTime": 5771.797,
+            "periodOver": true,
+            "players": {
+                "watermelon": {
+                    "team": "blue",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 25,
+                    "checked": 20,
+                    "posessions": 39,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 3,
+                    "checked": 3,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nb28": {
+                    "team": "green",
+                    "goals": 7,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 21,
+                    "checked": 38,
+                    "posessions": 13,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "bigbootyjudy": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 31,
+                    "checked": 19,
+                    "posessions": 23,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "green",
+            "teams": {
+                "blue": {
+                    "hits": 54,
+                    "checked": 38,
+                    "posessions": 62,
+                    "pipehits": 0,
+                    "goals": 2
+                },
+                "green": {
+                    "hits": 24,
+                    "checked": 40,
+                    "posessions": 15,
+                    "pipehits": 0,
+                    "goals": 7
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 16,
+            "blueTouches": [
+                {
+                    "player": "wraithwon",
+                    "part": "authority-closest",
+                    "netid": "5",
+                    "time": 17.23334
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipeHits": [],
+            "startTime": 13.89418,
+            "endTime": 42.96351,
+            "periodOver": true,
+            "players": {
+                "wraithwon": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "goals": 0
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "period": 17,
+            "blueTouches": [
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "11",
+                    "time": 339.4001
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipeHits": [],
+            "startTime": 336.2995,
+            "endTime": 342.9286,
+            "periodOver": true,
+            "players": {
+                "WRAITH": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "goals": 0
+                }
+            },
+            "lastTimestamp": -1
+        }
+    ],
+    "totals": {
+        "players": {
+            "WRAITH": {
+                "team": "",
+                "goals": 10,
+                "primaryassists": 1,
+                "secondaryassists": 0,
+                "hits": 221,
+                "checked": 168,
+                "posessions": 203,
+                "pipehits": 0,
+                "periods": 9
+            },
+            "nb28": {
+                "team": "",
+                "goals": 27,
+                "primaryassists": 8,
+                "secondaryassists": 1,
+                "hits": 257,
+                "checked": 345,
+                "posessions": 269,
+                "pipehits": 0,
+                "periods": 7
+            },
+            "SPACECOW": {
+                "team": "",
+                "goals": 29,
+                "primaryassists": 10,
+                "secondaryassists": 0,
+                "hits": 209,
+                "checked": 409,
+                "posessions": 302,
+                "pipehits": 0,
+                "periods": 10
+            },
+            "": {
+                "team": "",
+                "goals": 10,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 0,
+                "checked": 0,
+                "posessions": 0,
+                "pipehits": 0,
+                "periods": 5
+            },
+            "get on discord": {
+                "team": "",
+                "goals": 7,
+                "primaryassists": 10,
+                "secondaryassists": 0,
+                "hits": 403,
+                "checked": 363,
+                "posessions": 285,
+                "pipehits": 0,
+                "periods": 6
+            },
+            "StephenSeven": {
+                "team": "",
+                "goals": 4,
+                "primaryassists": 4,
+                "secondaryassists": 1,
+                "hits": 128,
+                "checked": 171,
+                "posessions": 136,
+                "pipehits": 0,
+                "periods": 2
+            },
+            "nitr0": {
+                "team": "",
+                "goals": 1,
+                "primaryassists": 1,
+                "secondaryassists": 0,
+                "hits": 229,
+                "checked": 115,
+                "posessions": 144,
+                "pipehits": 0,
+                "periods": 3
+            },
+            "bigbootyjudy": {
+                "team": "",
+                "goals": 6,
+                "primaryassists": 3,
+                "secondaryassists": 0,
+                "hits": 180,
+                "checked": 78,
+                "posessions": 109,
+                "pipehits": 0,
+                "periods": 3
+            },
+            "watermelon": {
+                "team": "",
+                "goals": 2,
+                "primaryassists": 1,
+                "secondaryassists": 0,
+                "hits": 69,
+                "checked": 47,
+                "posessions": 80,
+                "pipehits": 0,
+                "periods": 2
+            },
+            "wraithwon": {
+                "team": "",
+                "goals": 0,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 0,
+                "checked": 0,
+                "posessions": 3,
+                "pipehits": 0,
+                "periods": 1
+            }
+        },
+        "teams": {
+            "blue": {
+                "hits": 727,
+                "checked": 917,
+                "posessions": 829,
+                "pipehits": 0,
+                "goals": 56
+            },
+            "green": {
+                "hits": 958,
+                "checked": 768,
+                "posessions": 702,
+                "pipehits": 0,
+                "goals": 40
+            }
+        }
     }
-  ],
-  pipeHits: [],
-  startTime: 168.05,
-  endTime: 1951.381,
-  periodOver: true,
-  players: {
-    wraithwon: {
-      team: 'blue',
-      goals: 4,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    DontToewsMeBro0: {
-      team: 'blue',
-      goals: 10,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    '': {
-      team: 'green',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 0,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  winTeam: 'blue',
-  teams: {
-    blue: { hits: 0, checked: 0, posessions: 4, pipehits: 0, goals: 14 },
-    green: { hits: 0, checked: 0, posessions: 0, pipehits: 0, goals: 2 }
-  }
-}
-------------------
-Period 2
-{
-  period: 2,
-  blueScore: 6,
-  greenScore: 12,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '22.56177'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '35.54492'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '76.52832'
-    },
-    {
-      team: 'green',
-      scorer: '',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '184.3118'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '206.845'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '123.1523'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '144.519'
-    },
-    {
-      team: 'blue',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '42.99146'
-    },
-    {
-      team: 'blue',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '108.7249'
-    },
-    {
-      team: 'blue',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '193.7415'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '241.9915'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '464.9915'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '478.075'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '549.3918'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '63.65771'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '80.27441'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '122.2075'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '178.2578'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '228.9409'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '254.2241'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '316.8579'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '366.2744'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '399.041'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '688.7246'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '29.12891'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '49.0791'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '68.7959'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '188.6123'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '226.0122'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '317.0791'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '337.6792'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '404.5791'
-    },
-    {
-      team: 'blue',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '508.7959'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '720.229'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '748.1294'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '760.9956'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '920.1626'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1017.363'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1042.096'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1102.129'
-    },
-    {
-      team: 'blue',
-      scorer: 'wraithwon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1139.913'
-    },
-    {
-      team: 'green',
-      scorer: 'Dr3wbis',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1151.313'
-    }
-  ],
-  pipeHits: [],
-  startTime: 1951.381,
-  endTime: 6489.167,
-  periodOver: true,
-  players: {
-    wraithwon: {
-      team: 'blue',
-      goals: 9,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 25,
-      checked: 25,
-      posessions: 2,
-      pipehits: 0,
-      periods: 1
-    },
-    '': {
-      team: 'green',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    'OL TWO HANDS': {
-      team: 'blue',
-      goals: 34,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 14,
-      checked: 14,
-      posessions: 6,
-      pipehits: 0,
-      periods: 0
-    },
-    '(discord) dotjson': {
-      team: 'blue',
-      goals: 6,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 14,
-      checked: 14,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    Dr3wbis: {
-      team: 'green',
-      goals: 24,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 50,
-      checked: 50,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  winTeam: 'green',
-  teams: {
-    blue: { hits: 33, checked: 33, posessions: 5, pipehits: 0, goals: 23 },
-    green: { hits: 31, checked: 31, posessions: 2, pipehits: 0, goals: 19 }
-  }
-}
-------------------
-Period 3
-{
-  period: 3,
-  blueScore: 6,
-  greenScore: 8,
-  goals: [
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '135.3052'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '235.0386'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '445.4551'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '545.4551'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '574.6553'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '654.772'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '747.3389'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '762.522'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '858.4053'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '873.0889'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '897.7222'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '927.1719'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1040.255'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1142.472'
-    }
-  ],
-  pipeHits: [],
-  startTime: 6489.167,
-  endTime: 7887.814,
-  periodOver: true,
-  players: {
-    'OL TWO HANDS': {
-      team: 'green',
-      goals: 8,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 69,
-      checked: 67,
-      posessions: 1,
-      pipehits: 0,
-      periods: 1
-    },
-    wraithwon: {
-      team: '',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 3,
-      checked: 3,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    'get on discord': {
-      team: 'blue',
-      goals: 4,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 6,
-      checked: 6,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    WRAITH: {
-      team: 'blue',
-      goals: 8,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 122,
-      checked: 126,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  winTeam: 'green',
-  teams: {
-    green: { hits: 69, checked: 67, posessions: 1, pipehits: 0, goals: 8 },
-    blue: { hits: 64, checked: 66, posessions: 2, pipehits: 0, goals: 6 }
-  }
-}
-------------------
-Period 4
-{
-  period: 4,
-  blueScore: 11,
-  greenScore: 0,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '78.75391'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '125.4375'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '155.3042'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '260.0708'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '303.7539'
-    },
-    {
-      team: 'blue',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '360.2378'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '76.82129'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '96.12109'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '172.0049'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '184.0381'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '196.9551'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '209.0713'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '221.8047'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '240.4883'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '252.7383'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '285.3711'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '305.7383'
-    }
-  ],
-  pipeHits: [],
-  startTime: 7887.814,
-  endTime: 10911,
-  periodOver: true,
-  players: {
-    'OL TWO HANDS': {
-      team: 'green',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 30,
-      checked: 30,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    WRAITH: {
-      team: 'blue',
-      goals: 4,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 30,
-      checked: 30,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    Kira47: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    bigbootyjudy: {
-      team: 'blue',
-      goals: 22,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  winTeam: 'blue',
-  teams: {
-    blue: { hits: 26, checked: 26, posessions: 2, pipehits: 0, goals: 15 },
-    green: { hits: 16, checked: 16, posessions: 0, pipehits: 0, goals: 2 }
-  }
-}
-------------------
-Period 5
-{
-  period: 5,
-  blueScore: 6,
-  greenScore: 8,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '280.1719'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: 'MatthewH30',
-      secondaryassist: '',
-      time: '355.7549'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '466.5879'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '506.9551'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '556.9053'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '644.0713'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '682.4717'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '696.5713'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '714.5879'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '756.2217'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '808.8545'
-    },
-    {
-      team: 'blue',
-      scorer: 'UNKNOWN_PLAYER',
-      primaryassist: 'SPACECOW',
-      secondaryassist: 'bigbootyjudy',
-      time: '970.2051'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '985.8711'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'OL TWO HANDS',
-      secondaryassist: 'watermelon',
-      time: '1158.205'
-    }
-  ],
-  pipeHits: [],
-  startTime: 10911,
-  endTime: 12837.94,
-  periodOver: true,
-  players: {
-    watermelon: {
-      team: 'green',
-      goals: 12,
-      primaryassists: 0,
-      secondaryassists: 2,
-      hits: 306,
-      checked: 306,
-      posessions: 60,
-      pipehits: 0,
-      periods: 0
-    },
-    bigbootyjudy: {
-      team: 'blue',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 1,
-      hits: 96,
-      checked: 97,
-      posessions: 23,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'blue',
-      goals: 8,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 176,
-      checked: 180,
-      posessions: 52,
-      pipehits: 0,
-      periods: 0
-    },
-    MatthewH30: {
-      team: 'green',
-      goals: 0,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 72,
-      checked: 74,
-      posessions: 12,
-      pipehits: 0,
-      periods: 0
-    },
-    WRAITH: {
-      team: 'green',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 52,
-      checked: 49,
-      posessions: 22,
-      pipehits: 0,
-      periods: 1
-    },
-    UNKNOWN_PLAYER: {
-      team: 'blue',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 58,
-      checked: 58,
-      posessions: 24,
-      pipehits: 0,
-      periods: 0
-    },
-    'OL TWO HANDS': {
-      team: 'green',
-      goals: 0,
-      primaryassists: 1,
-      secondaryassists: 0,
-      hits: 13,
-      checked: 12,
-      posessions: 4,
-      pipehits: 0,
-      periods: 1
-    }
-  },
-  winTeam: 'green',
-  teams: {
-    green: { hits: 251, checked: 249, posessions: 62, pipehits: 0, goals: 8 },
-    blue: { hits: 192, checked: 195, posessions: 61, pipehits: 0, goals: 6 }
-  }
-}
-------------------
-Period 6
-{
-  period: 6,
-  blueScore: 5,
-  greenScore: 8,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: 'UNKNOWN_PLAYER',
-      secondaryassist: '',
-      time: '32.06543'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'watermelon',
-      secondaryassist: '',
-      time: '47.46582'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'OL TWO HANDS',
-      secondaryassist: '',
-      time: '196.2656'
-    },
-    {
-      team: 'green',
-      scorer: 'watermelon',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '227.3486'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'UNKNOWN_PLAYER',
-      secondaryassist: 'bigbootyjudy',
-      time: '239.9326'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'OL TWO HANDS',
-      secondaryassist: 'watermelon',
-      time: '289.9326'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '382.916'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '428.6992'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '465.3818'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'OL TWO HANDS',
-      secondaryassist: 'watermelon',
-      time: '581.2822'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '653.1494'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '701.0322'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1178.065'
-    }
-  ],
-  pipeHits: [],
-  startTime: 12837.94,
-  endTime: 14037.91,
-  periodOver: true,
-  players: {
-    watermelon: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 1,
-      secondaryassists: 2,
-      hits: 165,
-      checked: 164,
-      posessions: 41,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'blue',
-      goals: 3,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 145,
-      checked: 149,
-      posessions: 41,
-      pipehits: 0,
-      periods: 1
-    },
-    UNKNOWN_PLAYER: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 123,
-      checked: 122,
-      posessions: 33,
-      pipehits: 0,
-      periods: 1
-    },
-    'OL TWO HANDS': {
-      team: 'green',
-      goals: 2,
-      primaryassists: 3,
-      secondaryassists: 0,
-      hits: 111,
-      checked: 108,
-      posessions: 45,
-      pipehits: 0,
-      periods: 1
-    },
-    WRAITH: {
-      team: 'green',
-      goals: 5,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 128,
-      checked: 127,
-      posessions: 46,
-      pipehits: 0,
-      periods: 1
-    },
-    bigbootyjudy: {
-      team: 'blue',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 1,
-      hits: 157,
-      checked: 159,
-      posessions: 39,
-      pipehits: 0,
-      periods: 1
-    },
-    nb28: {
-      team: 'green',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 26,
-      checked: 26,
-      posessions: 12,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  winTeam: 'green',
-  teams: {
-    green: { hits: 414, checked: 409, posessions: 138, pipehits: 0, goals: 8 },
-    blue: { hits: 410, checked: 415, posessions: 113, pipehits: 0, goals: 5 }
-  }
-}
-------------------
-Period 7
-{
-  period: 7,
-  blueScore: 3,
-  greenScore: 6,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'UNKNOWN_PLAYER',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '46.04199'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '191.9922'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '447.0088'
-    },
-    {
-      team: 'green',
-      scorer: 'OL TWO HANDS',
-      primaryassist: 'nb28',
-      secondaryassist: 'WRAITH',
-      time: '469.7588'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '518.1758'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '613.6924'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'trentonlavenski',
-      secondaryassist: '',
-      time: '736.6426'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'nb28',
-      secondaryassist: '',
-      time: '866.9756'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: 'OL TWO HANDS',
-      secondaryassist: '',
-      time: '1175.143'
-    }
-  ],
-  pipeHits: [],
-  startTime: 14037.91,
-  endTime: 15237.86,
-  periodOver: true,
-  players: {
-    'get on discord': {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 89,
-      checked: 87,
-      posessions: 25,
-      pipehits: 0,
-      periods: 1
-    },
-    'OL TWO HANDS': {
-      team: 'green',
-      goals: 1,
-      primaryassists: 1,
-      secondaryassists: 0,
-      hits: 100,
-      checked: 100,
-      posessions: 33,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'blue',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 131,
-      checked: 133,
-      posessions: 44,
-      pipehits: 0,
-      periods: 1
-    },
-    UNKNOWN_PLAYER: {
-      team: 'blue',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 42,
-      checked: 41,
-      posessions: 11,
-      pipehits: 0,
-      periods: 1
-    },
-    nb28: {
-      team: 'green',
-      goals: 3,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 131,
-      checked: 126,
-      posessions: 39,
-      pipehits: 0,
-      periods: 1
-    },
-    WRAITH: {
-      team: 'green',
-      goals: 2,
-      primaryassists: 0,
-      secondaryassists: 1,
-      hits: 104,
-      checked: 106,
-      posessions: 35,
-      pipehits: 0,
-      periods: 1
-    },
-    trentonlavenski: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 270,
-      checked: 278,
-      posessions: 62,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  winTeam: 'green',
-  teams: {
-    blue: { hits: 393, checked: 396, posessions: 111, pipehits: 0, goals: 3 },
-    green: { hits: 335, checked: 332, posessions: 107, pipehits: 0, goals: 6 }
-  }
-}
-------------------
-Period 8
-{
-  period: 8,
-  blueScore: 8,
-  greenScore: 7,
-  goals: [
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '64.84277'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'get on discord',
-      secondaryassist: '',
-      time: '110.2598'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '164.8096'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '231.0596'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'get on discord',
-      secondaryassist: '',
-      time: '284.6768'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: 'nb28',
-      secondaryassist: '',
-      time: '318.3594'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '389.0928'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '422.5928'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '484.0098'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '650.3428'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '(discord) dotjson',
-      secondaryassist: '',
-      time: '886.6104'
-    },
-    {
-      team: 'blue',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '930.6436'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '(discord) dotjson',
-      secondaryassist: '',
-      time: '942.3604'
-    },
-    {
-      team: 'green',
-      scorer: 'nb28',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1122.894'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'get on discord',
-      secondaryassist: '(discord) dotjson',
-      time: '1152.977'
-    }
-  ],
-  pipeHits: [],
-  startTime: 15237.86,
-  endTime: 16437.83,
-  periodOver: true,
-  players: {
-    trentonlavenski: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 48,
-      checked: 48,
-      posessions: 7,
-      pipehits: 0,
-      periods: 1
-    },
-    nb28: {
-      team: 'green',
-      goals: 6,
-      primaryassists: 1,
-      secondaryassists: 0,
-      hits: 96,
-      checked: 96,
-      posessions: 41,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'blue',
-      goals: 6,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 104,
-      checked: 104,
-      posessions: 42,
-      pipehits: 0,
-      periods: 1
-    },
-    WRAITH: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 4,
-      secondaryassists: 0,
-      hits: 113,
-      checked: 114,
-      posessions: 42,
-      pipehits: 0,
-      periods: 1
-    },
-    'OL TWO HANDS': {
-      team: 'green',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 4,
-      checked: 3,
-      posessions: 1,
-      pipehits: 0,
-      periods: 1
-    },
-    'get on discord': {
-      team: 'blue',
-      goals: 1,
-      primaryassists: 3,
-      secondaryassists: 0,
-      hits: 114,
-      checked: 114,
-      posessions: 50,
-      pipehits: 0,
-      periods: 1
-    },
-    'home wrecker': {
-      team: 'green',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 58,
-      checked: 58,
-      posessions: 12,
-      pipehits: 0,
-      periods: 0
-    },
-    '(discord) dotjson': {
-      team: 'blue',
-      goals: 1,
-      primaryassists: 2,
-      secondaryassists: 1,
-      hits: 35,
-      checked: 35,
-      posessions: 19,
-      pipehits: 0,
-      periods: 1
-    }
-  },
-  winTeam: 'blue',
-  teams: {
-    blue: { hits: 299, checked: 299, posessions: 118, pipehits: 0, goals: 8 },
-    green: { hits: 229, checked: 229, posessions: 90, pipehits: 0, goals: 7 }
-  }
-}
-------------------
-Period 9
-{
-  period: 9,
-  blueScore: 15,
-  greenScore: 5,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '19.33789'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '57.28711'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '69.1875'
-    },
-    {
-      team: 'green',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '88.9375'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '254.8711'
-    },
-    {
-      team: 'green',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '303.3535'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'get on discord',
-      secondaryassist: '',
-      time: '327.3535'
-    },
-    {
-      team: 'green',
-      scorer: 'UNKNOWN_PLAYER',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '357.3711'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'get on discord',
-      secondaryassist: '',
-      time: '385.2539'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '414.9883'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '427.1699'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '533.8379'
-    },
-    {
-      team: 'green',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '603.1875'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: 'get on discord',
-      secondaryassist: '',
-      time: '627.3047'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '682.5039'
-    },
-    {
-      team: 'blue',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '705.8203'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '839.6543'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '856.0039'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '1015.57'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1053.121'
-    }
-  ],
-  pipeHits: [],
-  startTime: 16437.83,
-  endTime: 17637.87,
-  periodOver: true,
-  players: {
-    SPACECOW: {
-      team: 'blue',
-      goals: 7,
-      primaryassists: 4,
-      secondaryassists: 0,
-      hits: 81,
-      checked: 81,
-      posessions: 57,
-      pipehits: 0,
-      periods: 1
-    },
-    UNKNOWN_PLAYER: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 55,
-      checked: 56,
-      posessions: 11,
-      pipehits: 0,
-      periods: 1
-    },
-    'get on discord': {
-      team: 'blue',
-      goals: 8,
-      primaryassists: 3,
-      secondaryassists: 0,
-      hits: 111,
-      checked: 108,
-      posessions: 56,
-      pipehits: 0,
-      periods: 1
-    },
-    '(discord) dotjson': {
-      team: 'green',
-      goals: 3,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 93,
-      checked: 94,
-      posessions: 32,
-      pipehits: 0,
-      periods: 1
-    },
-    WRAITH: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 32,
-      checked: 33,
-      posessions: 21,
-      pipehits: 0,
-      periods: 1
-    }
-  },
-  winTeam: 'blue',
-  teams: {
-    blue: {
-      hits: 192,
-      checked: 189,
-      posessions: 113,
-      pipehits: 0,
-      goals: 15
-    },
-    green: { hits: 178, checked: 181, posessions: 64, pipehits: 0, goals: 5 }
-  }
-}
-------------------
-Period 10
-{
-  period: 10,
-  blueScore: 7,
-  greenScore: 4,
-  goals: [
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '100.082'
-    },
-    {
-      team: 'green',
-      scorer: '(discord) dotjson',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '172.332'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '349.1816'
-    },
-    {
-      team: 'green',
-      scorer: 'SPACECOW',
-      primaryassist: '(discord) dotjson',
-      secondaryassist: '',
-      time: '382.5645'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '558.416'
-    },
-    {
-      team: 'green',
-      scorer: '(discord) dotjson',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '746.0313'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '809.0645'
-    },
-    {
-      team: 'green',
-      scorer: '(discord) dotjson',
-      primaryassist: 'SPACECOW',
-      secondaryassist: '',
-      time: '841.2148'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: 'WRAITH',
-      secondaryassist: '',
-      time: '956.1484'
-    },
-    {
-      team: 'blue',
-      scorer: 'get on discord',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '1036.133'
-    },
-    {
-      team: 'blue',
-      scorer: 'bigbootyjudy',
-      primaryassist: 'nb28',
-      secondaryassist: '',
-      time: '1163.615'
-    }
-  ],
-  pipeHits: [],
-  startTime: 17646.69,
-  endTime: 18837.82,
-  periodOver: true,
-  players: {
-    WRAITH: {
-      team: 'green',
-      goals: 0,
-      primaryassists: 1,
-      secondaryassists: 0,
-      hits: 49,
-      checked: 50,
-      posessions: 22,
-      pipehits: 0,
-      periods: 1
-    },
-    '(discord) dotjson': {
-      team: 'green',
-      goals: 3,
-      primaryassists: 1,
-      secondaryassists: 0,
-      hits: 74,
-      checked: 72,
-      posessions: 35,
-      pipehits: 0,
-      periods: 1
-    },
-    'get on discord': {
-      team: 'blue',
-      goals: 6,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 125,
-      checked: 124,
-      posessions: 50,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 3,
-      secondaryassists: 0,
-      hits: 134,
-      checked: 137,
-      posessions: 46,
-      pipehits: 0,
-      periods: 1
-    },
-    Kira47: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 85,
-      checked: 84,
-      posessions: 21,
-      pipehits: 0,
-      periods: 1
-    },
-    nb28: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 1,
-      secondaryassists: 0,
-      hits: 12,
-      checked: 12,
-      posessions: 6,
-      pipehits: 0,
-      periods: 1
-    },
-    bigbootyjudy: {
-      team: 'blue',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 25,
-      checked: 25,
-      posessions: 13,
-      pipehits: 0,
-      periods: 1
-    }
-  },
-  winTeam: 'blue',
-  teams: {
-    green: { hits: 216, checked: 218, posessions: 79, pipehits: 0, goals: 4 },
-    blue: { hits: 282, checked: 280, posessions: 114, pipehits: 0, goals: 7 }
-  }
-}
-------------------
-Period 11
-{
-  period: 11,
-  blueScore: 0,
-  greenScore: 2,
-  goals: [
-    {
-      team: 'green',
-      scorer: 'SPACECOW',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '28.88477'
-    },
-    {
-      team: 'green',
-      scorer: 'WRAITH',
-      primaryassist: '',
-      secondaryassist: '',
-      time: '13.0332'
-    }
-  ],
-  pipeHits: [],
-  startTime: 18837.82,
-  endTime: 0,
-  periodOver: false,
-  players: {
-    'get on discord': {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 2,
-      checked: 2,
-      posessions: 1,
-      pipehits: 0,
-      periods: 1
-    },
-    '(discord) dotjson': {
-      team: '',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 2,
-      checked: 2,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    WRAITH: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 1,
-      checked: 1,
-      posessions: 1,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'green',
-      goals: 1,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 2,
-      checked: 2,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    bigbootyjudy: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 3,
-      checked: 3,
-      posessions: 2,
-      pipehits: 0,
-      periods: 1
-    },
-    nb28: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 2,
-      checked: 2,
-      posessions: 1,
-      pipehits: 0,
-      periods: 1
-    }
-  },
-  winTeam: 'green',
-  teams: {
-    blue: { hits: 4, checked: 4, posessions: 4, pipehits: 0, goals: 0 },
-    green: { hits: 0, checked: 0, posessions: 1, pipehits: 0, goals: 2 }
-  }
-}
-------------------
-Totals
-{
-  players: {
-    wraithwon: {
-      team: 'blue',
-      goals: 13,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 28,
-      checked: 28,
-      posessions: 4,
-      pipehits: 0,
-      periods: 2
-    },
-    DontToewsMeBro0: {
-      team: 'blue',
-      goals: 10,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    '': {
-      team: 'green',
-      goals: 3,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 0,
-      checked: 0,
-      posessions: 0,
-      pipehits: 0,
-      periods: 1
-    },
-    'OL TWO HANDS': {
-      team: 'blue',
-      goals: 47,
-      primaryassists: 5,
-      secondaryassists: 0,
-      hits: 341,
-      checked: 334,
-      posessions: 90,
-      pipehits: 0,
-      periods: 6
-    },
-    '(discord) dotjson': {
-      team: 'blue',
-      goals: 13,
-      primaryassists: 3,
-      secondaryassists: 1,
-      hits: 216,
-      checked: 215,
-      posessions: 88,
-      pipehits: 0,
-      periods: 3
-    },
-    Dr3wbis: {
-      team: 'green',
-      goals: 24,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 50,
-      checked: 50,
-      posessions: 2,
-      pipehits: 0,
-      periods: 0
-    },
-    'get on discord': {
-      team: 'blue',
-      goals: 19,
-      primaryassists: 6,
-      secondaryassists: 0,
-      hits: 445,
-      checked: 439,
-      posessions: 183,
-      pipehits: 0,
-      periods: 4
-    },
-    WRAITH: {
-      team: 'blue',
-      goals: 23,
-      primaryassists: 7,
-      secondaryassists: 1,
-      hits: 630,
-      checked: 635,
-      posessions: 190,
-      pipehits: 0,
-      periods: 7
-    },
-    Kira47: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 85,
-      checked: 84,
-      posessions: 23,
-      pipehits: 0,
-      periods: 1
-    },
-    bigbootyjudy: {
-      team: 'blue',
-      goals: 26,
-      primaryassists: 0,
-      secondaryassists: 2,
-      hits: 278,
-      checked: 281,
-      posessions: 77,
-      pipehits: 0,
-      periods: 3
-    },
-    watermelon: {
-      team: 'green',
-      goals: 13,
-      primaryassists: 1,
-      secondaryassists: 4,
-      hits: 471,
-      checked: 470,
-      posessions: 101,
-      pipehits: 0,
-      periods: 1
-    },
-    SPACECOW: {
-      team: 'blue',
-      goals: 27,
-      primaryassists: 9,
-      secondaryassists: 0,
-      hits: 771,
-      checked: 784,
-      posessions: 282,
-      pipehits: 0,
-      periods: 5
-    },
-    MatthewH30: {
-      team: 'green',
-      goals: 0,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 72,
-      checked: 74,
-      posessions: 12,
-      pipehits: 0,
-      periods: 0
-    },
-    UNKNOWN_PLAYER: {
-      team: 'blue',
-      goals: 4,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 278,
-      checked: 277,
-      posessions: 79,
-      pipehits: 0,
-      periods: 3
-    },
-    nb28: {
-      team: 'green',
-      goals: 9,
-      primaryassists: 4,
-      secondaryassists: 0,
-      hits: 265,
-      checked: 260,
-      posessions: 98,
-      pipehits: 0,
-      periods: 3
-    },
-    trentonlavenski: {
-      team: 'blue',
-      goals: 0,
-      primaryassists: 2,
-      secondaryassists: 0,
-      hits: 318,
-      checked: 326,
-      posessions: 69,
-      pipehits: 0,
-      periods: 1
-    },
-    'home wrecker': {
-      team: 'green',
-      goals: 0,
-      primaryassists: 0,
-      secondaryassists: 0,
-      hits: 58,
-      checked: 58,
-      posessions: 12,
-      pipehits: 0,
-      periods: 0
-    }
-  },
-  teams: {
-    blue: {
-      hits: 1891,
-      checked: 1899,
-      posessions: 643,
-      pipehits: 0,
-      goals: 102
-    },
-    green: {
-      hits: 1739,
-      checked: 1732,
-      posessions: 543,
-      pipehits: 0,
-      goals: 69
-    }
-  }
 }
