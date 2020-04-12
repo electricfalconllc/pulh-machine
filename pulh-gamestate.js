@@ -20,13 +20,14 @@ exports.NewPeriod = function(config) {
     period = {
         "config": config,
         state: {
+            lastLine:"",
             period: exports._periodCount,
             blueTouches:[],
             greenTouches:[],
             blueScore: 0,
             greenScore: 0,
             goals:[],
-            pipeHits:[],
+            pipehits:[],
             startTime:0,
             endTime:0,
             periodOver:false,
@@ -40,6 +41,9 @@ exports.NewPeriod = function(config) {
         },        
         ProcessLine: function(line) {
             line = line.replace(/\r/g, ""); //good ol' windows
+            if (this.state.lastLine==line)
+                return this.state;
+            
             if (countVals(line)==0) return this.state;
             var timestamp = parseFloat(getVal(line, 0));            
             var type=getVal(line, 1);
@@ -57,6 +61,9 @@ exports.NewPeriod = function(config) {
                 <timestamp> goal server - <team> <lasttouchedteamplayer> <bluescore> <greenscore> <periodtime-elapsed>
                 <timestamp> period-end server - <bluescore> <greenscore>
                 */
+                case "goalie-hit":
+                    this._handleGoalieHit(line, timestamp);
+                    break;
                 case "collide":
                     this._handleCollide(line, timestamp);
                     break;
@@ -82,6 +89,8 @@ exports.NewPeriod = function(config) {
                 default: 
                     console.log("Warning: Unknown event type - "+type+", line: "+line);
             }
+
+            this.state.lastLine = line;
             return this.state;
         },
         _addPlayerIfNotExist: function(name) {
@@ -111,6 +120,7 @@ exports.NewPeriod = function(config) {
                 posessions:0,
                 pipehits:0,
                 goals:0,
+                saves:0,
             };
             if (typeof this.state.teams[name]=="undefined")
                 this.state.teams[name]=z;
@@ -118,6 +128,10 @@ exports.NewPeriod = function(config) {
                 exports._totals.teams[name] = {};
                 Object.assign(exports._totals.teams[name], z);
             }
+        },
+        _handleGoalieHit: function(line, timestamp) {
+            this._addTeamIfNotExist(getVal(line, 3));
+            this.state.teams[getVal(line, 3)].saves++;
         },
         _handleFaceoff: function(line, timestamp) {
             this.state.blueTouches=[];
@@ -189,9 +203,11 @@ exports.NewPeriod = function(config) {
             this.state.teams[t].pipehits++;
             if (t=="blue") {
                 var ph = getPrimaryAssist(this.state.blueTouches, timestamp, config);
+                this._addPlayerIfNotExist(ph);
                 this.state.players[ph].pipehits++;
             } else {
                 var ph = getPrimaryAssist(this.state.greenTouches, timestamp, config);
+                this._addPlayerIfNotExist(ph);
                 this.state.players[ph].pipehits++;
             }
         },
@@ -210,6 +226,11 @@ exports.NewPeriod = function(config) {
                 this.state.winTeam=t;
             } else if (this.state.teams[t].goals == this.state.teams[othert].goals) {
                 this.state.winTeam="";
+            }
+
+            //reduce saves if last line was a goalie-hit
+            if (getVal(this.state.lastLine, 1)=="goalie-hit" && getVal(this.state.lastLine, 3)==othert) {
+                this.state.teams[othert].saves--;
             }
 
             var pa="";
