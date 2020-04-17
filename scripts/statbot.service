@@ -1,0 +1,11 @@
+[Unit]
+Description=Pickup Hockey Stat Bot
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /root/pulh-machine/scripts/start-bot.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

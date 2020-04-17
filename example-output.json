@@ -1,303 +1,33 @@
 {
     "periods": [
         {
+            "lastLine": "17385.49\tperiod-end\tserver\tearly\t0\t0",
             "period": 1,
-            "blueTouches": [],
+            "blueTouches": [
+                {
+                    "player": "Mr.JassiSingh",
+                    "part": "authority-closest",
+                    "netid": "5",
+                    "time": 17257.55
+                }
+            ],
             "greenTouches": [],
-            "blueScore": 4,
+            "blueScore": 0,
             "greenScore": 0,
             "goals": [],
-            "pipeHits": [],
-            "startTime": 1251.479,
-            "endTime": 1251.479,
-            "periodOver": true,
-            "players": {},
-            "winTeam": "blue",
-            "teams": {},
-            "lastTimestamp": -1
-        },
-        {
-            "period": 2,
-            "blueTouches": [
-                {
-                    "player": "WRAITH",
-                    "part": "authority-closest",
-                    "netid": "14",
-                    "time": 2581.417
-                }
-            ],
-            "greenTouches": [],
-            "blueScore": 1,
-            "greenScore": 0,
-            "goals": [
-                {
-                    "team": "blue",
-                    "scorer": "WRAITH",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 11.24146
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 1251.479,
-            "endTime": 2598.436,
+            "pipehits": [],
+            "startTime": 13615.6,
+            "endTime": 17385.49,
             "periodOver": true,
             "players": {
-                "WRAITH": {
+                "Mr.JassiSingh": {
                     "team": "blue",
-                    "goals": 1,
+                    "goals": 0,
                     "primaryassists": 0,
                     "secondaryassists": 0,
                     "hits": 0,
                     "checked": 0,
-                    "posessions": 5,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "blue",
-            "teams": {
-                "blue": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 5,
-                    "pipehits": 0,
-                    "goals": 1
-                },
-                "green": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "goals": 0
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 3,
-            "blueTouches": [
-                {
-                    "player": "nb28",
-                    "part": "authority-closest",
-                    "netid": "11",
-                    "time": 3674.601
-                }
-            ],
-            "greenTouches": [],
-            "blueScore": 1,
-            "greenScore": 0,
-            "goals": [
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 22.89111
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 3645.593,
-            "endTime": 4753.531,
-            "periodOver": true,
-            "players": {
-                "nb28": {
-                    "team": "blue",
-                    "goals": 1,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 4,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "blue",
-            "teams": {
-                "blue": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 4,
-                    "pipehits": 0,
-                    "goals": 1
-                },
-                "green": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "goals": 0
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 4,
-            "blueTouches": [],
-            "greenTouches": [],
-            "blueScore": 1,
-            "greenScore": 0,
-            "goals": [],
-            "pipeHits": [],
-            "startTime": 4845.528,
-            "endTime": 4845.528,
-            "periodOver": true,
-            "players": {},
-            "winTeam": "blue",
-            "teams": {},
-            "lastTimestamp": -1
-        },
-        {
-            "period": 5,
-            "blueTouches": [
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "21",
-                    "time": 5916.651
-                }
-            ],
-            "greenTouches": [],
-            "blueScore": 1,
-            "greenScore": 2,
-            "goals": [
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 39.45264
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 62.30273
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 75.31934
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 4845.528,
-            "endTime": 6000.231,
-            "periodOver": true,
-            "players": {
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 1,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 9,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "": {
-                    "team": "green",
-                    "goals": 2,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "green",
-            "teams": {
-                "blue": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 9,
-                    "pipehits": 0,
-                    "goals": 1
-                },
-                "green": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "goals": 2
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 6,
-            "blueTouches": [
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "26",
-                    "time": 6168.634
-                }
-            ],
-            "greenTouches": [],
-            "blueScore": 2,
-            "greenScore": 2,
-            "goals": [
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 6.60791
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 16.1748
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 39.95801
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 130.5747
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 6031.943,
-            "endTime": 6188.521,
-            "periodOver": true,
-            "players": {
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 2,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 10,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "": {
-                    "team": "green",
-                    "goals": 2,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
+                    "posessions": 1,
                     "pipehits": 0,
                     "periods": 1
                 }
@@ -307,184 +37,40 @@
                 "blue": {
                     "hits": 0,
                     "checked": 0,
-                    "posessions": 10,
+                    "posessions": 1,
                     "pipehits": 0,
-                    "goals": 2
-                },
-                "green": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "goals": 2
+                    "goals": 0,
+                    "saves": 0
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 7,
-            "blueTouches": [],
-            "greenTouches": [],
-            "blueScore": 6,
-            "greenScore": 3,
-            "goals": [
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 64.07422
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 112.7246
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 253.7412
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 285.2578
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 321.1416
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 401.4414
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 413.2412
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 445.5244
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 460.9082
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 8212.144,
-            "endTime": 8693.131,
-            "periodOver": true,
-            "players": {
-                "SPACECOW": {
-                    "team": "green",
-                    "goals": 6,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 2,
-                    "checked": 4,
-                    "posessions": 15,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "": {
-                    "team": "green",
-                    "goals": 2,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "WRAITH": {
-                    "team": "green",
-                    "goals": 1,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 4,
-                    "checked": 2,
-                    "posessions": 12,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "blue",
-            "teams": {
-                "blue": {
-                    "hits": 2,
-                    "checked": 4,
-                    "posessions": 14,
-                    "pipehits": 0,
-                    "goals": 6
-                },
-                "green": {
-                    "hits": 4,
-                    "checked": 2,
-                    "posessions": 13,
-                    "pipehits": 0,
-                    "goals": 3
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 8,
+            "lastLine": "22985.32\tperiod-end\tserver\tearly\t0\t0",
+            "period": 2,
             "blueTouches": [
                 {
-                    "player": "WRAITH",
+                    "player": "tk.adolphe",
                     "part": "authority-closest",
-                    "netid": "39",
-                    "time": 8746.618
+                    "netid": "11",
+                    "time": 22687.15
                 }
             ],
-            "greenTouches": [
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "44",
-                    "time": 8744.085
-                }
-            ],
+            "greenTouches": [],
             "blueScore": 0,
-            "greenScore": 1,
-            "goals": [
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [
                 {
-                    "team": "green",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 34.5
+                    "time": 185.1800000000003,
+                    "team": "green"
                 }
             ],
-            "pipeHits": [],
-            "startTime": 8703.701,
-            "endTime": 8747.306,
+            "startTime": 22683.46,
+            "endTime": 22985.32,
             "periodOver": true,
             "players": {
-                "WRAITH": {
+                "tk.adolphe": {
                     "team": "blue",
                     "goals": 0,
                     "primaryassists": 0,
@@ -495,8 +81,858 @@
                     "pipehits": 0,
                     "periods": 1
                 },
-                "SPACECOW": {
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 1,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "goals": 0,
+                    "saves": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 1,
+                    "goals": 0,
+                    "saves": 3
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "26661.27\tperiod-end\tserver\tearly\t0\t0",
+            "period": 3,
+            "blueTouches": [
+                {
+                    "player": "UNKNOWN_PLAYER",
+                    "part": "authority-closest",
+                    "netid": "16",
+                    "time": 26496.34
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 26492.97,
+            "endTime": 26661.27,
+            "periodOver": true,
+            "players": {
+                "UNKNOWN_PLAYER": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 1,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 1,
+                    "pipehits": 0,
+                    "goals": 0,
+                    "saves": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 0,
+                    "goals": 0,
+                    "saves": 2
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "31913.57\tperiod-end\tserver\tearly\t0\t0",
+            "period": 4,
+            "blueTouches": [
+                {
+                    "player": "SirJames91",
+                    "part": "authority-closest",
+                    "netid": "21",
+                    "time": 31817.59
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 31813.01,
+            "endTime": 31913.57,
+            "periodOver": true,
+            "players": {
+                "SirJames91": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 6,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 6,
+                    "pipehits": 0,
+                    "goals": 0,
+                    "saves": 0
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "40349.19\tperiod-end\tserver\t-\t5\t3",
+            "period": 5,
+            "blueTouches": [
+                {
+                    "player": "£agles",
+                    "part": "authority-request",
+                    "netid": "35",
+                    "time": 40299.96
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-request",
+                    "netid": "43",
+                    "time": 40300.13
+                },
+                {
+                    "player": "£agles",
+                    "part": "authority-closest",
+                    "netid": "35",
+                    "time": 40302.74
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "stick",
+                    "netid": "43",
+                    "time": 40303.42
+                },
+                {
+                    "player": "£agles",
+                    "part": "authority-closest",
+                    "netid": "35",
+                    "time": 40319.99
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "\"val.rus.777\"",
+                    "part": "authority-closest",
+                    "netid": "40",
+                    "time": 40299.09
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-closest",
+                    "netid": "43",
+                    "time": 40313.54
+                },
+                {
+                    "player": "\"val.rus.777\"",
+                    "part": "authority-closest",
+                    "netid": "40",
+                    "time": 40314.99
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-closest",
+                    "netid": "43",
+                    "time": 40323.77
+                }
+            ],
+            "blueScore": 5,
+            "greenScore": 3,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 41.06641
+                },
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "£agles",
+                    "secondaryassist": "",
+                    "time": 458.9648
+                },
+                {
                     "team": "green",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "\"val.rus.777\"",
+                    "secondaryassist": "",
+                    "time": 824.4141
+                },
+                {
+                    "team": "green",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "\"val.rus.777\"",
+                    "secondaryassist": "",
+                    "time": 860.7148
+                },
+                {
+                    "team": "green",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "\"val.rus.777\"",
+                    "secondaryassist": "",
+                    "time": 989.1484
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1046.047
+                },
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "£agles",
+                    "secondaryassist": "",
+                    "time": 1087.184
+                },
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "£agles",
+                    "secondaryassist": "",
+                    "time": 1143.781
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 2787.340000000004,
+                    "team": "green"
+                },
+                {
+                    "time": 2787.3600000000006,
+                    "team": "green"
+                },
+                {
+                    "time": 2818.720000000001,
+                    "team": "green"
+                },
+                {
+                    "time": 2861.5699999999997,
+                    "team": "green"
+                },
+                {
+                    "time": 3008.7400000000052,
+                    "team": "green"
+                },
+                {
+                    "time": 3008.75,
+                    "team": "green"
+                },
+                {
+                    "time": 3420.1400000000067,
+                    "team": "green"
+                },
+                {
+                    "time": 3498.4400000000023,
+                    "team": "green"
+                },
+                {
+                    "time": 3565.1200000000026,
+                    "team": "green"
+                },
+                {
+                    "time": 3565.1400000000067,
+                    "team": "green"
+                },
+                {
+                    "time": 3565.3600000000006,
+                    "team": "green"
+                },
+                {
+                    "time": 3648.6500000000015,
+                    "team": "green"
+                },
+                {
+                    "time": 3648.6700000000055,
+                    "team": "green"
+                }
+            ],
+            "startTime": 36371.52,
+            "endTime": 40349.19,
+            "periodOver": true,
+            "players": {
+                "£agles": {
+                    "team": "blue",
+                    "goals": 2,
+                    "primaryassists": 3,
+                    "secondaryassists": 0,
+                    "hits": 25,
+                    "checked": 27,
+                    "posessions": 42,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 11,
+                    "periods": 1
+                },
+                "\"val.rus.777\"": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 3,
+                    "secondaryassists": 0,
+                    "hits": 28,
+                    "checked": 29,
+                    "posessions": 32,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "GoranJunior": {
+                    "team": "green",
+                    "goals": 6,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 17,
+                    "checked": 14,
+                    "posessions": 56,
+                    "pipehits": 2,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 35,
+                    "checked": 35,
+                    "posessions": 69,
+                    "pipehits": 0,
+                    "goals": 5,
+                    "saves": 12
+                },
+                "green": {
+                    "hits": 35,
+                    "checked": 35,
+                    "posessions": 61,
+                    "pipehits": 13,
+                    "goals": 3,
+                    "saves": 37
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "41355.96\tperiod-end\tserver\tearly\t10\t2",
+            "period": 6,
+            "blueTouches": [
+                {
+                    "player": "£agles",
+                    "part": "authority-closest",
+                    "netid": "35",
+                    "time": 41330.47
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 10,
+            "greenScore": 2,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "£agles",
+                    "secondaryassist": "",
+                    "time": 18.45313
+                },
+                {
+                    "team": "green",
+                    "scorer": "\"val.rus.777\"",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 85.88672
+                },
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 156.0195
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "GoranJunior",
+                    "secondaryassist": "",
+                    "time": 332.6016
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 648.1367
+                },
+                {
+                    "team": "green",
+                    "scorer": "\"val.rus.777\"",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 739.2852
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 792.5703
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 818.9375
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 838.8203
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 851.9531
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 864.3008
+                },
+                {
+                    "team": "blue",
+                    "scorer": "£agles",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 975.168
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 18.32999999999447,
+                    "team": "green"
+                },
+                {
+                    "time": 116.59999999999854,
+                    "team": "blue"
+                },
+                {
+                    "time": 116.89999999999418,
+                    "team": "blue"
+                },
+                {
+                    "time": 116.91999999999825,
+                    "team": "blue"
+                },
+                {
+                    "time": 117.57999999999447,
+                    "team": "blue"
+                },
+                {
+                    "time": 156,
+                    "team": "green"
+                },
+                {
+                    "time": 170.59999999999854,
+                    "team": "green"
+                },
+                {
+                    "time": 332.59999999999854,
+                    "team": "green"
+                },
+                {
+                    "time": 567.0499999999956,
+                    "team": "blue"
+                },
+                {
+                    "time": 567.3999999999942,
+                    "team": "blue"
+                },
+                {
+                    "time": 792.5199999999968,
+                    "team": "green"
+                },
+                {
+                    "time": 792.5299999999988,
+                    "team": "green"
+                },
+                {
+                    "time": 792.5499999999956,
+                    "team": "green"
+                },
+                {
+                    "time": 818.939999999995,
+                    "team": "green"
+                }
+            ],
+            "startTime": 40349.19,
+            "endTime": 41355.96,
+            "periodOver": true,
+            "players": {
+                "\"val.rus.777\"": {
+                    "team": "green",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 22,
+                    "checked": 21,
+                    "posessions": 8,
+                    "pipehits": 1,
+                    "periods": 1
+                },
+                "£agles": {
+                    "team": "blue",
+                    "goals": 8,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 14,
+                    "checked": 15,
+                    "posessions": 42,
+                    "pipehits": 3,
+                    "periods": 1
+                },
+                "GoranJunior": {
+                    "team": "blue",
+                    "goals": 2,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 7,
+                    "checked": 7,
+                    "posessions": 29,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 10,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 20,
+                    "checked": 21,
+                    "posessions": 68,
+                    "pipehits": 6,
+                    "goals": 10,
+                    "saves": 19
+                },
+                "green": {
+                    "hits": 21,
+                    "checked": 20,
+                    "posessions": 11,
+                    "pipehits": 8,
+                    "goals": 2,
+                    "saves": 32
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "41549.2\tperiod-end\tserver\t-\t10\t2",
+            "period": 7,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 10,
+            "greenScore": 2,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 41549.2,
+            "endTime": 41549.2,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "43577.12\tperiod-end\tserver\tearly\t1\t0",
+            "period": 8,
+            "blueTouches": [
+                {
+                    "player": "WRAITH",
+                    "part": "authority-closest",
+                    "netid": "46",
+                    "time": 43566.92
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 11.44141
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 2011.520000000004,
+                    "team": "green"
+                }
+            ],
+            "startTime": 41549.2,
+            "endTime": 43577.12,
+            "periodOver": true,
+            "players": {
+                "WRAITH": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 4,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 1,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 4,
+                    "pipehits": 0,
+                    "goals": 1,
+                    "saves": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 1,
+                    "goals": 0,
+                    "saves": 6
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "43867.15\tperiod-end\tserver\tearly\t1\t0",
+            "period": 9,
+            "blueTouches": [
+                {
+                    "player": "UNKNOWN_PLAYER",
+                    "part": "authority-closest",
+                    "netid": "51",
+                    "time": 43809.16
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "UNKNOWN_PLAYER",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 39.18359
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 39.21999999999389,
+                    "team": "green"
+                }
+            ],
+            "startTime": 43764.05,
+            "endTime": 43867.15,
+            "periodOver": true,
+            "players": {
+                "UNKNOWN_PLAYER": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 1,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "goals": 1,
+                    "saves": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 1,
+                    "goals": 0,
+                    "saves": 4
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "45006.8\tperiod-end\tserver\tearly\t0\t0",
+            "period": 10,
+            "blueTouches": [
+                {
+                    "player": "rocket54321",
+                    "part": "authority-closest",
+                    "netid": "56",
+                    "time": 44885.19
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 44881.77,
+            "endTime": 45006.8,
+            "periodOver": true,
+            "players": {
+                "rocket54321": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "goals": 0,
+                    "saves": 0
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "45643.69\tperiod-end\tserver\tearly\t1\t0",
+            "period": 11,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 30.73828
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 31.05999999999767,
+                    "team": "green"
+                },
+                {
+                    "time": 31.06999999999971,
+                    "team": "green"
+                }
+            ],
+            "startTime": 45608.32,
+            "endTime": 45643.69,
+            "periodOver": true,
+            "players": {
+                "GoranJunior": {
+                    "team": "blue",
                     "goals": 1,
                     "primaryassists": 0,
                     "secondaryassists": 0,
@@ -504,226 +940,367 @@
                     "checked": 0,
                     "posessions": 2,
                     "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 2,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 2,
+                    "pipehits": 0,
+                    "goals": 1,
+                    "saves": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 2,
+                    "goals": 0,
+                    "saves": 3
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "46575.28\tperiod-end\tserver\tearly\t0\t3",
+            "period": 12,
+            "blueTouches": [],
+            "greenTouches": [
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-closest",
+                    "netid": "71",
+                    "time": 46434.84
+                }
+            ],
+            "blueScore": 0,
+            "greenScore": 3,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 234.3516
+                },
+                {
+                    "team": "green",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 400.2344
+                },
+                {
+                    "team": "green",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 507.5508
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 370.6600000000035,
+                    "team": "blue"
+                },
+                {
+                    "time": 656.9100000000035,
+                    "team": "blue"
+                },
+                {
+                    "time": 656.9200000000055,
+                    "team": "blue"
+                },
+                {
+                    "time": 736.0500000000029,
+                    "team": "green"
+                },
+                {
+                    "time": 924.3600000000006,
+                    "team": "green"
+                }
+            ],
+            "startTime": 45645.27,
+            "endTime": 46575.28,
+            "periodOver": true,
+            "players": {
+                "cjtwarrior08": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 8,
+                    "checked": 8,
+                    "posessions": 4,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "GoranJunior": {
+                    "team": "green",
+                    "goals": 3,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 8,
+                    "checked": 8,
+                    "posessions": 10,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 5,
                     "periods": 1
                 }
             },
             "winTeam": "green",
             "teams": {
                 "blue": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 2,
-                    "pipehits": 0,
-                    "goals": 0
+                    "hits": 8,
+                    "checked": 8,
+                    "posessions": 4,
+                    "pipehits": 3,
+                    "goals": 0,
+                    "saves": 18
                 },
                 "green": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 2,
-                    "pipehits": 0,
-                    "goals": 1
+                    "hits": 8,
+                    "checked": 8,
+                    "posessions": 10,
+                    "pipehits": 2,
+                    "goals": 3,
+                    "saves": 10
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 9,
+            "lastLine": "47101.99\tperiod-end\tserver\t-\t0\t3",
+            "period": 13,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 3,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 47101.99,
+            "endTime": 47101.99,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "green",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "49856.18\tperiod-end\tserver\tearly\t4\t0",
+            "period": 14,
             "blueTouches": [
                 {
-                    "player": "SPACECOW",
+                    "player": "UNKNOWN_PLAYER",
                     "part": "authority-closest",
-                    "netid": "47",
-                    "time": 9142.968
+                    "netid": "74",
+                    "time": 49690.07
                 }
             ],
-            "greenTouches": [],
+            "greenTouches": [
+                {
+                    "player": "mini nasher35",
+                    "part": "stick",
+                    "netid": "82",
+                    "time": 49691.91
+                }
+            ],
             "blueScore": 4,
-            "greenScore": 3,
+            "greenScore": 0,
             "goals": [
                 {
-                    "team": "green",
-                    "scorer": "",
+                    "team": "blue",
+                    "scorer": "UNKNOWN_PLAYER",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 107.998
+                    "time": 64.91797
                 },
                 {
                     "team": "blue",
-                    "scorer": "SPACECOW",
+                    "scorer": "UNKNOWN_PLAYER",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 122.0313
+                    "time": 349.6016
                 },
                 {
                     "team": "blue",
-                    "scorer": "SPACECOW",
+                    "scorer": "UNKNOWN_PLAYER",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 160.0313
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 209.3984
+                    "time": 461.3672
                 },
                 {
                     "team": "blue",
-                    "scorer": "SPACECOW",
+                    "scorer": "UNKNOWN_PLAYER",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 229.4814
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 240.4648
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 295.7314
+                    "time": 563.1328
                 }
             ],
-            "pipeHits": [],
-            "startTime": 8840.734,
-            "endTime": 9172.114,
+            "pipehits": [
+                {
+                    "time": 2131.75,
+                    "team": "green"
+                },
+                {
+                    "time": 2205.300000000003,
+                    "team": "green"
+                },
+                {
+                    "time": 2214.8899999999994,
+                    "team": "blue"
+                },
+                {
+                    "time": 2214.9000000000015,
+                    "team": "blue"
+                },
+                {
+                    "time": 2271.800000000003,
+                    "team": "green"
+                },
+                {
+                    "time": 2306.300000000003,
+                    "team": "green"
+                },
+                {
+                    "time": 2306.3199999999997,
+                    "team": "green"
+                },
+                {
+                    "time": 2480.2000000000044,
+                    "team": "green"
+                },
+                {
+                    "time": 2676.7000000000044,
+                    "team": "green"
+                },
+                {
+                    "time": 2734.770000000004,
+                    "team": "green"
+                }
+            ],
+            "startTime": 47101.99,
+            "endTime": 49856.18,
             "periodOver": true,
             "players": {
-                "SPACECOW": {
+                "UNKNOWN_PLAYER": {
                     "team": "blue",
                     "goals": 4,
                     "primaryassists": 0,
                     "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
+                    "hits": 16,
+                    "checked": 17,
                     "posessions": 18,
                     "pipehits": 0,
                     "periods": 1
                 },
-                "": {
+                "mini nasher35": {
                     "team": "green",
-                    "goals": 3,
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 17,
+                    "checked": 16,
+                    "posessions": 12,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
                     "primaryassists": 0,
                     "secondaryassists": 0,
                     "hits": 0,
                     "checked": 0,
                     "posessions": 0,
-                    "pipehits": 0,
+                    "pipehits": 10,
                     "periods": 1
                 }
             },
             "winTeam": "blue",
             "teams": {
                 "blue": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 18,
-                    "pipehits": 0,
-                    "goals": 4
+                    "hits": 16,
+                    "checked": 17,
+                    "posessions": 19,
+                    "pipehits": 2,
+                    "goals": 4,
+                    "saves": 0
                 },
                 "green": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "goals": 3
+                    "hits": 17,
+                    "checked": 16,
+                    "posessions": 11,
+                    "pipehits": 8,
+                    "goals": 0,
+                    "saves": 30
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 10,
+            "lastLine": "50320.79\tperiod-end\tserver\t-\t4\t0",
+            "period": 15,
             "blueTouches": [],
             "greenTouches": [],
-            "blueScore": 0,
+            "blueScore": 4,
             "greenScore": 0,
-            "goals": [
+            "goals": [],
+            "pipehits": [],
+            "startTime": 50320.79,
+            "endTime": 50320.79,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "54916.88\tperiod-end\tserver\tearly\t0\t0",
+            "period": 16,
+            "blueTouches": [],
+            "greenTouches": [
                 {
-                    "team": "blue",
-                    "scorer": "get on discord",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 12.63363
-                },
-                {
-                    "team": "green",
-                    "scorer": "get on discord",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 63.25535
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 172.8554
-                },
-                {
-                    "team": "green",
-                    "scorer": "",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 194.522
+                    "player": "vector",
+                    "part": "authority-closest",
+                    "netid": "85",
+                    "time": 54890.03
                 }
             ],
-            "pipeHits": [],
-            "startTime": 50.88305,
-            "endTime": 46.28039,
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 50320.79,
+            "endTime": 54916.88,
             "periodOver": true,
             "players": {
-                "WRAITH": {
-                    "team": "blue",
-                    "goals": 0,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 1,
-                    "checked": 1,
-                    "posessions": 4,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "get on discord": {
+                "vector": {
                     "team": "green",
-                    "goals": 2,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 1,
-                    "checked": 1,
-                    "posessions": 6,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 1,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 2,
-                    "checked": 2,
-                    "posessions": 12,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "": {
-                    "team": "green",
-                    "goals": 1,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 0,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "nb28": {
-                    "team": "blue",
                     "goals": 0,
                     "primaryassists": 0,
                     "secondaryassists": 0,
@@ -739,1180 +1316,642 @@
                 "green": {
                     "hits": 0,
                     "checked": 0,
-                    "posessions": 5,
+                    "posessions": 1,
                     "pipehits": 0,
-                    "goals": 2
-                },
-                "blue": {
-                    "hits": 4,
-                    "checked": 4,
-                    "posessions": 18,
-                    "pipehits": 0,
-                    "goals": 2
+                    "goals": 0,
+                    "saves": 0
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 11,
+            "lastLine": "56277.34\tperiod-end\tserver\t-\t14\t13",
+            "period": 17,
             "blueTouches": [
                 {
-                    "player": "StephenSeven",
+                    "player": "vector",
                     "part": "authority-closest",
-                    "netid": "20",
-                    "time": 1453.984
-                },
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-request",
-                    "netid": "25",
-                    "time": 1457.565
-                },
-                {
-                    "player": "StephenSeven",
-                    "part": "authority-request",
-                    "netid": "20",
-                    "time": 1458.908
-                },
-                {
-                    "player": "nb28",
-                    "part": "authority-closest",
-                    "netid": "31",
-                    "time": 1460.35
-                },
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "25",
-                    "time": 1482.367
-                },
-                {
-                    "player": "StephenSeven",
-                    "part": "stick",
-                    "netid": "20",
-                    "time": 1485.734
-                },
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-request",
-                    "netid": "25",
-                    "time": 1495.201
-                },
-                {
-                    "player": "nb28",
-                    "part": "stick",
-                    "netid": "31",
-                    "time": 1530.534
-                },
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "25",
-                    "time": 1530.834
-                },
-                {
-                    "player": "StephenSeven",
-                    "part": "stick",
-                    "netid": "20",
-                    "time": 1534.834
-                },
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "25",
-                    "time": 1542.217
+                    "netid": "90",
+                    "time": 56276.54
                 }
             ],
-            "greenTouches": [
-                {
-                    "player": "get on discord",
-                    "part": "authority-request",
-                    "netid": "14",
-                    "time": 1454.548
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "stick",
-                    "netid": "28",
-                    "time": 1455.384
-                },
-                {
-                    "player": "nitr0",
-                    "part": "authority-request",
-                    "netid": "34",
-                    "time": 1466.759
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "authority-closest",
-                    "netid": "28",
-                    "time": 1466.767
-                },
-                {
-                    "player": "nitr0",
-                    "part": "authority-request",
-                    "netid": "34",
-                    "time": 1474.148
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "authority-closest",
-                    "netid": "28",
-                    "time": 1481.834
-                },
-                {
-                    "player": "nitr0",
-                    "part": "authority-request",
-                    "netid": "34",
-                    "time": 1486.755
-                },
-                {
-                    "player": "get on discord",
-                    "part": "authority-request",
-                    "netid": "14",
-                    "time": 1502.325
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "authority-closest",
-                    "netid": "28",
-                    "time": 1515.367
-                },
-                {
-                    "player": "get on discord",
-                    "part": "stick",
-                    "netid": "14",
-                    "time": 1531.467
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "stick",
-                    "netid": "28",
-                    "time": 1533.817
-                },
-                {
-                    "player": "nitr0",
-                    "part": "authority-closest",
-                    "netid": "34",
-                    "time": 1533.916
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "stick",
-                    "netid": "28",
-                    "time": 1533.967
-                },
-                {
-                    "player": "nitr0",
-                    "part": "authority-closest",
-                    "netid": "34",
-                    "time": 1534.764
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "authority-closest",
-                    "netid": "28",
-                    "time": 1535.017
-                }
-            ],
-            "blueScore": 8,
-            "greenScore": 5,
-            "goals": [
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 45.93634
-                },
-                {
-                    "team": "blue",
-                    "scorer": "StephenSeven",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 59.38635
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 387.2864
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 534.5031
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 562.8698
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 631.1865
-                },
-                {
-                    "team": "blue",
-                    "scorer": "StephenSeven",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 698.5865
-                },
-                {
-                    "team": "blue",
-                    "scorer": "StephenSeven",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 743.1364
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "StephenSeven",
-                    "time": 948.9199
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 1010.32
-                },
-                {
-                    "team": "green",
-                    "scorer": "get on discord",
-                    "primaryassist": "WRAITH",
-                    "secondaryassist": "",
-                    "time": 1024.687
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "StephenSeven",
-                    "secondaryassist": "",
-                    "time": 1075.87
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "StephenSeven",
-                    "secondaryassist": "",
-                    "time": 1104.287
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 343.5804,
-            "endTime": 1543.606,
-            "periodOver": true,
-            "players": {
-                "StephenSeven": {
-                    "team": "blue",
-                    "goals": 3,
-                    "primaryassists": 2,
-                    "secondaryassists": 1,
-                    "hits": 55,
-                    "checked": 74,
-                    "posessions": 68,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "nb28": {
-                    "team": "blue",
-                    "goals": 3,
-                    "primaryassists": 2,
-                    "secondaryassists": 0,
-                    "hits": 30,
-                    "checked": 44,
-                    "posessions": 43,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 3,
-                    "primaryassists": 1,
-                    "secondaryassists": 0,
-                    "hits": 42,
-                    "checked": 76,
-                    "posessions": 60,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "get on discord": {
-                    "team": "green",
-                    "goals": 1,
-                    "primaryassists": 2,
-                    "secondaryassists": 0,
-                    "hits": 100,
-                    "checked": 65,
-                    "posessions": 63,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "WRAITH": {
-                    "team": "green",
-                    "goals": 3,
-                    "primaryassists": 1,
-                    "secondaryassists": 0,
-                    "hits": 62,
-                    "checked": 31,
-                    "posessions": 64,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "nitr0": {
-                    "team": "green",
-                    "goals": 0,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 3,
-                    "checked": 2,
-                    "posessions": 5,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "blue",
-            "teams": {
-                "blue": {
-                    "hits": 113,
-                    "checked": 175,
-                    "posessions": 149,
-                    "pipehits": 0,
-                    "goals": 8
-                },
-                "green": {
-                    "hits": 178,
-                    "checked": 116,
-                    "posessions": 154,
-                    "pipehits": 0,
-                    "goals": 5
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 12,
-            "blueTouches": [],
             "greenTouches": [],
-            "blueScore": 6,
-            "greenScore": 5,
-            "goals": [
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 107.7946
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 181.1779
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 219.4779
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "StephenSeven",
-                    "secondaryassist": "",
-                    "time": 316.5446
-                },
-                {
-                    "team": "blue",
-                    "scorer": "StephenSeven",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 375.1613
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 827.7446
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "StephenSeven",
-                    "secondaryassist": "",
-                    "time": 895.0947
-                },
-                {
-                    "team": "green",
-                    "scorer": "get on discord",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 962.678
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "nitr0",
-                    "secondaryassist": "",
-                    "time": 1180.161
-                },
-                {
-                    "team": "green",
-                    "scorer": "WRAITH",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 1192.961
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 1245.411
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 1546,
-            "endTime": 2789.172,
-            "periodOver": true,
-            "players": {
-                "nitr0": {
-                    "team": "green",
-                    "goals": 0,
-                    "primaryassists": 1,
-                    "secondaryassists": 0,
-                    "hits": 123,
-                    "checked": 62,
-                    "posessions": 82,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "nb28": {
-                    "team": "blue",
-                    "goals": 4,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 65,
-                    "checked": 112,
-                    "posessions": 81,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "StephenSeven": {
-                    "team": "blue",
-                    "goals": 1,
-                    "primaryassists": 2,
-                    "secondaryassists": 0,
-                    "hits": 73,
-                    "checked": 97,
-                    "posessions": 68,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "get on discord": {
-                    "team": "green",
-                    "goals": 1,
-                    "primaryassists": 3,
-                    "secondaryassists": 0,
-                    "hits": 129,
-                    "checked": 92,
-                    "posessions": 86,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 1,
-                    "primaryassists": 2,
-                    "secondaryassists": 0,
-                    "hits": 63,
-                    "checked": 139,
-                    "posessions": 70,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "WRAITH": {
-                    "team": "green",
-                    "goals": 4,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 133,
-                    "checked": 84,
-                    "posessions": 82,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "blue",
-            "teams": {
-                "green": {
-                    "hits": 385,
-                    "checked": 238,
-                    "posessions": 250,
-                    "pipehits": 0,
-                    "goals": 5
-                },
-                "blue": {
-                    "hits": 199,
-                    "checked": 347,
-                    "posessions": 219,
-                    "pipehits": 0,
-                    "goals": 6
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 13,
-            "blueTouches": [
-                {
-                    "player": "nb28",
-                    "part": "authority-closest",
-                    "netid": "31",
-                    "time": 3964.984
-                },
-                {
-                    "player": "bigbootyjudy",
-                    "part": "authority-request",
-                    "netid": "49",
-                    "time": 3967.813
-                },
-                {
-                    "player": "SPACECOW",
-                    "part": "authority-closest",
-                    "netid": "25",
-                    "time": 3975.867
-                },
-                {
-                    "player": "bigbootyjudy",
-                    "part": "stick",
-                    "netid": "49",
-                    "time": 3980.834
-                },
-                {
-                    "player": "nb28",
-                    "part": "authority-closest",
-                    "netid": "31",
-                    "time": 3987.634
-                }
-            ],
-            "greenTouches": [
-                {
-                    "player": "get on discord",
-                    "part": "authority-request",
-                    "netid": "55",
-                    "time": 3965.522
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "stick",
-                    "netid": "52",
-                    "time": 3970.434
-                },
-                {
-                    "player": "get on discord",
-                    "part": "stick",
-                    "netid": "55",
-                    "time": 3971.867
-                },
-                {
-                    "player": "WRAITH",
-                    "part": "authority-closest",
-                    "netid": "52",
-                    "time": 3979.184
-                }
-            ],
             "blueScore": 14,
-            "greenScore": 2,
+            "greenScore": 13,
             "goals": [
                 {
                     "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 77.79468
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 102.728
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 126.6948
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
+                    "scorer": "vector",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 152.6782
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 196.6948
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 263.8447
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 277.8447
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 314.9114
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 404.3616
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 500.9783
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 590.8281
+                    "time": 25.78516
                 },
                 {
                     "team": "green",
-                    "scorer": "nitr0",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 667.5781
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 702.6282
-                },
-                {
-                    "team": "blue",
-                    "scorer": "nb28",
+                    "scorer": "",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 1066.478
+                    "time": 84.69922
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 96.83203
                 },
                 {
                     "team": "green",
-                    "scorer": "WRAITH",
+                    "scorer": "",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 1151.412
+                    "time": 156.3516
                 },
                 {
                     "team": "blue",
-                    "scorer": "bigbootyjudy",
-                    "primaryassist": "SPACECOW",
+                    "scorer": "vector",
+                    "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 1169.695
+                    "time": 188.25
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 244.0508
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 262.4336
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 278.3164
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 290.7344
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 331.418
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 365.9844
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 488.332
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 521.2148
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 548.1016
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 580
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 607.3828
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 677.4648
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 738.2852
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 753.8008
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 923.4336
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 944.8164
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1005.352
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1019.699
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1045.801
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1138.352
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1181.102
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1193
                 }
             ],
-            "pipeHits": [],
-            "startTime": 2789.172,
-            "endTime": 3989.108,
+            "pipehits": [
+                {
+                    "time": 229.70000000000437,
+                    "team": "blue"
+                },
+                {
+                    "time": 237.5699999999997,
+                    "team": "blue"
+                },
+                {
+                    "time": 244.67000000000553,
+                    "team": "blue"
+                },
+                {
+                    "time": 291.15000000000146,
+                    "team": "green"
+                },
+                {
+                    "time": 366.5699999999997,
+                    "team": "green"
+                },
+                {
+                    "time": 366.58000000000175,
+                    "team": "green"
+                },
+                {
+                    "time": 386.5500000000029,
+                    "team": "blue"
+                },
+                {
+                    "time": 548.6800000000003,
+                    "team": "blue"
+                },
+                {
+                    "time": 548.7000000000044,
+                    "team": "blue"
+                },
+                {
+                    "time": 575.9200000000055,
+                    "team": "green"
+                },
+                {
+                    "time": 607.9700000000012,
+                    "team": "blue"
+                },
+                {
+                    "time": 643.3700000000026,
+                    "team": "green"
+                },
+                {
+                    "time": 643.3800000000047,
+                    "team": "green"
+                },
+                {
+                    "time": 734.8500000000058,
+                    "team": "blue"
+                },
+                {
+                    "time": 890.4200000000055,
+                    "team": "blue"
+                },
+                {
+                    "time": 936,
+                    "team": "green"
+                },
+                {
+                    "time": 984.9800000000032,
+                    "team": "blue"
+                },
+                {
+                    "time": 985,
+                    "team": "blue"
+                },
+                {
+                    "time": 1005.8199999999997,
+                    "team": "blue"
+                },
+                {
+                    "time": 1173.7000000000044,
+                    "team": "blue"
+                },
+                {
+                    "time": 1173.7200000000012,
+                    "team": "blue"
+                }
+            ],
+            "startTime": 55076.81,
+            "endTime": 56277.34,
             "periodOver": true,
             "players": {
-                "nb28": {
+                "vector": {
                     "team": "blue",
-                    "goals": 6,
-                    "primaryassists": 5,
-                    "secondaryassists": 0,
-                    "hits": 48,
-                    "checked": 70,
-                    "posessions": 73,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "get on discord": {
-                    "team": "green",
-                    "goals": 0,
-                    "primaryassists": 1,
-                    "secondaryassists": 0,
-                    "hits": 81,
-                    "checked": 70,
-                    "posessions": 67,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 7,
-                    "primaryassists": 4,
-                    "secondaryassists": 0,
-                    "hits": 49,
-                    "checked": 94,
-                    "posessions": 59,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "nitr0": {
-                    "team": "green",
-                    "goals": 1,
+                    "goals": 14,
                     "primaryassists": 0,
                     "secondaryassists": 0,
-                    "hits": 103,
-                    "checked": 51,
-                    "posessions": 57,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 56,
                     "pipehits": 0,
                     "periods": 1
                 },
-                "WRAITH": {
+                "": {
                     "team": "green",
-                    "goals": 1,
+                    "goals": 13,
                     "primaryassists": 0,
                     "secondaryassists": 0,
-                    "hits": 13,
-                    "checked": 26,
-                    "posessions": 17,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "bigbootyjudy": {
-                    "team": "blue",
-                    "goals": 1,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 24,
-                    "checked": 7,
-                    "posessions": 21,
-                    "pipehits": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 21,
                     "periods": 1
                 }
             },
             "winTeam": "blue",
             "teams": {
                 "blue": {
-                    "hits": 121,
-                    "checked": 171,
-                    "posessions": 153,
-                    "pipehits": 0,
-                    "goals": 14
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 56,
+                    "pipehits": 14,
+                    "goals": 14,
+                    "saves": 93
                 },
                 "green": {
-                    "hits": 193,
-                    "checked": 142,
-                    "posessions": 141,
-                    "pipehits": 0,
-                    "goals": 2
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 7,
+                    "goals": 13,
+                    "saves": 32
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 14,
+            "lastLine": "57206.98\tperiod-end\tserver\tearly\t13\t14",
+            "period": 18,
             "blueTouches": [
                 {
-                    "player": "watermelon",
+                    "player": "vector",
                     "part": "authority-closest",
-                    "netid": "58",
-                    "time": 5185.651
+                    "netid": "90",
+                    "time": 57115.89
                 }
             ],
-            "greenTouches": [
-                {
-                    "player": "get on discord",
-                    "part": "authority-request",
-                    "netid": "55",
-                    "time": 5186.412
-                },
-                {
-                    "player": "nb28",
-                    "part": "authority-request",
-                    "netid": "31",
-                    "time": 5187.227
-                }
-            ],
-            "blueScore": 9,
-            "greenScore": 8,
+            "greenTouches": [],
+            "blueScore": 13,
+            "greenScore": 14,
             "goals": [
                 {
-                    "team": "green",
-                    "scorer": "get on discord",
+                    "team": "blue",
+                    "scorer": "vector",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 98.35913
+                    "time": 44.55469
                 },
                 {
                     "team": "blue",
-                    "scorer": "nb28",
+                    "scorer": "vector",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 114.6091
+                    "time": 55.55469
                 },
                 {
                     "team": "blue",
-                    "scorer": "SPACECOW",
+                    "scorer": "vector",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 195.8093
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "bigbootyjudy",
-                    "secondaryassist": "nb28",
-                    "time": 209.3591
-                },
-                {
-                    "team": "blue",
-                    "scorer": "bigbootyjudy",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 247.7756
+                    "time": 67.78906
                 },
                 {
                     "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 318.3425
-                },
-                {
-                    "team": "blue",
-                    "scorer": "bigbootyjudy",
+                    "scorer": "",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 370.759
-                },
-                {
-                    "team": "blue",
-                    "scorer": "SPACECOW",
-                    "primaryassist": "bigbootyjudy",
-                    "secondaryassist": "",
-                    "time": 467.6423
+                    "time": 84.20703
                 },
                 {
                     "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 489.6257
-                },
-                {
-                    "team": "blue",
-                    "scorer": "bigbootyjudy",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 556.9426
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
+                    "scorer": "",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 695.2927
-                },
-                {
-                    "team": "blue",
-                    "scorer": "bigbootyjudy",
-                    "primaryassist": "SPACECOW",
-                    "secondaryassist": "",
-                    "time": 794.5759
+                    "time": 99.77344
                 },
                 {
                     "team": "green",
-                    "scorer": "get on discord",
-                    "primaryassist": "nb28",
-                    "secondaryassist": "",
-                    "time": 910.1428
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 938.176
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "get on discord",
-                    "secondaryassist": "",
-                    "time": 962.6428
-                },
-                {
-                    "team": "blue",
-                    "scorer": "bigbootyjudy",
-                    "primaryassist": "watermelon",
-                    "secondaryassist": "",
-                    "time": 1128.676
-                },
-                {
-                    "team": "green",
-                    "scorer": "get on discord",
+                    "scorer": "",
                     "primaryassist": "",
                     "secondaryassist": "",
-                    "time": 1190.426
+                    "time": 124.4883
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 135.8398
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 154.9063
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 180.8906
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 191.6406
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 216.3086
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 287.625
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 306.8398
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 335.5742
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 351.2227
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 363.0898
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 382.8906
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 395.0742
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 436.8398
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 448.0898
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 648.6563
+                },
+                {
+                    "team": "green",
+                    "scorer": "RyanHockey05",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 707.1055
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 726.5742
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 742.9414
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 800.5078
+                },
+                {
+                    "team": "blue",
+                    "scorer": "vector",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 817.0391
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 832.4414
                 }
             ],
-            "pipeHits": [],
-            "startTime": 3989.108,
-            "endTime": 5189.044,
+            "pipehits": [
+                {
+                    "time": 55.54000000000087,
+                    "team": "green"
+                },
+                {
+                    "time": 67.70000000000437,
+                    "team": "green"
+                },
+                {
+                    "time": 84.17000000000553,
+                    "team": "blue"
+                },
+                {
+                    "time": 124.55000000000291,
+                    "team": "blue"
+                },
+                {
+                    "time": 124.57000000000698,
+                    "team": "blue"
+                },
+                {
+                    "time": 274.1400000000067,
+                    "team": "blue"
+                },
+                {
+                    "time": 274.15000000000146,
+                    "team": "blue"
+                },
+                {
+                    "time": 287.6200000000026,
+                    "team": "blue"
+                },
+                {
+                    "time": 436.75,
+                    "team": "blue"
+                },
+                {
+                    "time": 740.9500000000044,
+                    "team": "blue"
+                },
+                {
+                    "time": 816.9700000000012,
+                    "team": "green"
+                },
+                {
+                    "time": 844.6400000000067,
+                    "team": "green"
+                }
+            ],
+            "startTime": 56277.34,
+            "endTime": 57206.98,
             "periodOver": true,
             "players": {
-                "nb28": {
-                    "team": "green",
-                    "goals": 6,
-                    "primaryassists": 1,
-                    "secondaryassists": 1,
-                    "hits": 93,
-                    "checked": 81,
-                    "posessions": 54,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "get on discord": {
-                    "team": "green",
-                    "goals": 3,
-                    "primaryassists": 4,
-                    "secondaryassists": 0,
-                    "hits": 89,
-                    "checked": 132,
-                    "posessions": 61,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "bigbootyjudy": {
+                "vector": {
                     "team": "blue",
-                    "goals": 5,
-                    "primaryassists": 2,
-                    "secondaryassists": 0,
-                    "hits": 125,
-                    "checked": 52,
-                    "posessions": 65,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "WRAITH": {
-                    "team": "green",
-                    "goals": 0,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 8,
-                    "checked": 24,
-                    "posessions": 15,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "SPACECOW": {
-                    "team": "blue",
-                    "goals": 3,
-                    "primaryassists": 3,
-                    "secondaryassists": 0,
-                    "hits": 51,
-                    "checked": 94,
-                    "posessions": 47,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "watermelon": {
-                    "team": "blue",
-                    "goals": 0,
-                    "primaryassists": 1,
-                    "secondaryassists": 0,
-                    "hits": 44,
-                    "checked": 27,
-                    "posessions": 41,
-                    "pipehits": 0,
-                    "periods": 1
-                }
-            },
-            "winTeam": "blue",
-            "teams": {
-                "blue": {
-                    "hits": 234,
-                    "checked": 178,
-                    "posessions": 161,
-                    "pipehits": 0,
-                    "goals": 9
-                },
-                "green": {
-                    "hits": 174,
-                    "checked": 230,
-                    "posessions": 122,
-                    "pipehits": 0,
-                    "goals": 8
-                }
-            },
-            "lastTimestamp": -1
-        },
-        {
-            "period": 15,
-            "blueTouches": [
-                {
-                    "player": "watermelon",
-                    "part": "authority-closest",
-                    "netid": "58",
-                    "time": 5729.317
-                }
-            ],
-            "greenTouches": [
-                {
-                    "player": "nb28",
-                    "part": "authority-closest",
-                    "netid": "31",
-                    "time": 5685.784
-                }
-            ],
-            "blueScore": 2,
-            "greenScore": 7,
-            "goals": [
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 72.17334
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 86.19043
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 97.35693
-                },
-                {
-                    "team": "blue",
-                    "scorer": "watermelon",
-                    "primaryassist": "bigbootyjudy",
-                    "secondaryassist": "",
-                    "time": 171.79
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 285.8901
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 317.4736
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 351.5737
-                },
-                {
-                    "team": "blue",
-                    "scorer": "watermelon",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 451.6738
-                },
-                {
-                    "team": "green",
-                    "scorer": "nb28",
-                    "primaryassist": "",
-                    "secondaryassist": "",
-                    "time": 489.457
-                }
-            ],
-            "pipeHits": [],
-            "startTime": 5189.044,
-            "endTime": 5771.797,
-            "periodOver": true,
-            "players": {
-                "watermelon": {
-                    "team": "blue",
-                    "goals": 2,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 25,
-                    "checked": 20,
-                    "posessions": 39,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "get on discord": {
-                    "team": "green",
-                    "goals": 0,
+                    "goals": 13,
                     "primaryassists": 0,
                     "secondaryassists": 0,
                     "hits": 3,
+                    "checked": 5,
+                    "posessions": 53,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 13,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 12,
+                    "periods": 1
+                },
+                "RyanHockey05": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 5,
                     "checked": 3,
                     "posessions": 2,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "nb28": {
-                    "team": "green",
-                    "goals": 7,
-                    "primaryassists": 0,
-                    "secondaryassists": 0,
-                    "hits": 21,
-                    "checked": 38,
-                    "posessions": 13,
-                    "pipehits": 0,
-                    "periods": 1
-                },
-                "bigbootyjudy": {
-                    "team": "blue",
-                    "goals": 0,
-                    "primaryassists": 1,
-                    "secondaryassists": 0,
-                    "hits": 31,
-                    "checked": 19,
-                    "posessions": 23,
                     "pipehits": 0,
                     "periods": 1
                 }
@@ -1920,49 +1959,69 @@
             "winTeam": "green",
             "teams": {
                 "blue": {
-                    "hits": 54,
-                    "checked": 38,
-                    "posessions": 62,
-                    "pipehits": 0,
-                    "goals": 2
+                    "hits": 3,
+                    "checked": 5,
+                    "posessions": 53,
+                    "pipehits": 8,
+                    "goals": 13,
+                    "saves": 80
                 },
                 "green": {
-                    "hits": 24,
-                    "checked": 40,
-                    "posessions": 15,
-                    "pipehits": 0,
-                    "goals": 7
+                    "hits": 5,
+                    "checked": 3,
+                    "posessions": 2,
+                    "pipehits": 4,
+                    "goals": 14,
+                    "saves": 27
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 16,
+            "lastLine": "57477.36\tperiod-end\tserver\t-\t13\t14",
+            "period": 19,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 13,
+            "greenScore": 14,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 57477.36,
+            "endTime": 57477.36,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "green",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "58512.46\tperiod-end\tserver\tearly\t0\t0",
+            "period": 20,
             "blueTouches": [
                 {
-                    "player": "wraithwon",
+                    "player": "UNKNOWN_PLAYER",
                     "part": "authority-closest",
-                    "netid": "5",
-                    "time": 17.23334
+                    "netid": "98",
+                    "time": 58490.46
                 }
             ],
             "greenTouches": [],
             "blueScore": 0,
             "greenScore": 0,
             "goals": [],
-            "pipeHits": [],
-            "startTime": 13.89418,
-            "endTime": 42.96351,
+            "pipehits": [],
+            "startTime": 57477.36,
+            "endTime": 58512.46,
             "periodOver": true,
             "players": {
-                "wraithwon": {
+                "UNKNOWN_PLAYER": {
                     "team": "blue",
                     "goals": 0,
                     "primaryassists": 0,
                     "secondaryassists": 0,
                     "hits": 0,
                     "checked": 0,
-                    "posessions": 3,
+                    "posessions": 2,
                     "pipehits": 0,
                     "periods": 1
                 }
@@ -1972,159 +2031,1296 @@
                 "blue": {
                     "hits": 0,
                     "checked": 0,
-                    "posessions": 3,
+                    "posessions": 2,
                     "pipehits": 0,
-                    "goals": 0
+                    "goals": 0,
+                    "saves": 0
                 }
             },
             "lastTimestamp": -1
         },
         {
-            "period": 17,
+            "lastLine": "59580.15\tperiod-end\tserver\tearly\t7\t0",
+            "period": 21,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 7,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 29.67969
+                },
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 42.96484
+                },
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 97.29688
+                },
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 141.4453
+                },
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 203.6484
+                },
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 259.3633
+                },
+                {
+                    "team": "blue",
+                    "scorer": "MatthewH30",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 313.3633
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 45.62000000000262,
+                    "team": "green"
+                },
+                {
+                    "time": 71.22000000000116,
+                    "team": "green"
+                },
+                {
+                    "time": 71.23999999999796,
+                    "team": "green"
+                },
+                {
+                    "time": 87.31999999999971,
+                    "team": "green"
+                },
+                {
+                    "time": 97.75,
+                    "team": "green"
+                }
+            ],
+            "startTime": 59251.29,
+            "endTime": 59580.15,
+            "periodOver": true,
+            "players": {
+                "MatthewH30": {
+                    "team": "blue",
+                    "goals": 7,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 16,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 5,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 16,
+                    "pipehits": 0,
+                    "goals": 7,
+                    "saves": 0
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 5,
+                    "goals": 0,
+                    "saves": 26
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "60451.73\tperiod-end\tserver\t-\t7\t0",
+            "period": 22,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 7,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 60451.73,
+            "endTime": 60451.73,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "61973.13\tperiod-end\tserver\tearly\t2\t0",
+            "period": 23,
             "blueTouches": [
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-closest",
+                    "netid": "108",
+                    "time": 61882.79
+                }
+            ],
+            "greenTouches": [],
+            "blueScore": 2,
+            "greenScore": 0,
+            "goals": [
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 66.24219
+                },
+                {
+                    "team": "blue",
+                    "scorer": "GoranJunior",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 95.82422
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 26.00999999999476,
+                    "team": "green"
+                },
+                {
+                    "time": 28.159999999996217,
+                    "team": "green"
+                },
+                {
+                    "time": 28.18000000000029,
+                    "team": "green"
+                }
+            ],
+            "startTime": 61780.33,
+            "endTime": 61973.13,
+            "periodOver": true,
+            "players": {
+                "GoranJunior": {
+                    "team": "blue",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 5,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 3,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 5,
+                    "pipehits": 0,
+                    "goals": 2,
+                    "saves": 1
+                },
+                "green": {
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 3,
+                    "goals": 0,
+                    "saves": 29
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "62980.81\tperiod-end\tserver\t-\t2\t0",
+            "period": 24,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 2,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 62980.81,
+            "endTime": 62980.81,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "63992.82\tperiod-end\tserver\tearly\t1\t2",
+            "period": 25,
+            "blueTouches": [
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-closest",
+                    "netid": "113",
+                    "time": 63911.78
+                },
+                {
+                    "player": "get on discord",
+                    "part": "authority-closest",
+                    "netid": "121",
+                    "time": 63920.28
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "stick",
+                    "netid": "113",
+                    "time": 63924.46
+                },
+                {
+                    "player": "get on discord",
+                    "part": "stick",
+                    "netid": "121",
+                    "time": 63942.61
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-request",
+                    "netid": "113",
+                    "time": 63947.22
+                },
+                {
+                    "player": "get on discord",
+                    "part": "authority-closest",
+                    "netid": "121",
+                    "time": 63948.84
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-request",
+                    "netid": "113",
+                    "time": 63976.91
+                },
+                {
+                    "player": "get on discord",
+                    "part": "authority-closest",
+                    "netid": "121",
+                    "time": 63980.56
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "stick",
+                    "netid": "113",
+                    "time": 63983.64
+                },
+                {
+                    "player": "get on discord",
+                    "part": "stick",
+                    "netid": "121",
+                    "time": 63983.84
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "stick",
+                    "netid": "113",
+                    "time": 63983.88
+                },
+                {
+                    "player": "get on discord",
+                    "part": "stick",
+                    "netid": "121",
+                    "time": 63983.93
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "stick",
+                    "netid": "113",
+                    "time": 63984.76
+                },
+                {
+                    "player": "get on discord",
+                    "part": "stick",
+                    "netid": "121",
+                    "time": 63985.06
+                },
+                {
+                    "player": "GoranJunior",
+                    "part": "authority-closest",
+                    "netid": "113",
+                    "time": 63987.96
+                },
+                {
+                    "player": "get on discord",
+                    "part": "authority-closest",
+                    "netid": "121",
+                    "time": 63988.79
+                }
+            ],
+            "greenTouches": [
+                {
+                    "player": "ST0NY88",
+                    "part": "authority-closest",
+                    "netid": "116",
+                    "time": 63936.89
+                },
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "124",
+                    "time": 63945.58
+                },
+                {
+                    "player": "ST0NY88",
+                    "part": "authority-request",
+                    "netid": "116",
+                    "time": 63947.47
+                },
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "124",
+                    "time": 63948.18
+                },
+                {
+                    "player": "ST0NY88",
+                    "part": "authority-request",
+                    "netid": "116",
+                    "time": 63959
+                },
+                {
+                    "player": "nb28",
+                    "part": "authority-closest",
+                    "netid": "124",
+                    "time": 63959.01
+                },
+                {
+                    "player": "ST0NY88",
+                    "part": "authority-closest",
+                    "netid": "116",
+                    "time": 63969.33
+                }
+            ],
+            "blueScore": 1,
+            "greenScore": 2,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "ST0NY88",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 91.08984
+                },
+                {
+                    "team": "green",
+                    "scorer": "ST0NY88",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 321.8711
+                },
+                {
+                    "team": "blue",
+                    "scorer": "get on discord",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 373.3555
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 576.1399999999994,
+                    "team": "green"
+                },
+                {
+                    "time": 576.1500000000015,
+                    "team": "green"
+                },
+                {
+                    "time": 576.4700000000012,
+                    "team": "green"
+                },
+                {
+                    "time": 642.5699999999997,
+                    "team": "blue"
+                }
+            ],
+            "startTime": 62980.81,
+            "endTime": 63992.82,
+            "periodOver": true,
+            "players": {
+                "GoranJunior": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 5,
+                    "checked": 5,
+                    "posessions": 36,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "ST0NY88": {
+                    "team": "green",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 3,
+                    "checked": 3,
+                    "posessions": 8,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 4,
+                    "periods": 1
+                },
+                "get on discord": {
+                    "team": "blue",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 30,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "nb28": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 2,
+                    "checked": 2,
+                    "posessions": 3,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "green",
+            "teams": {
+                "blue": {
+                    "hits": 5,
+                    "checked": 5,
+                    "posessions": 66,
+                    "pipehits": 1,
+                    "goals": 1,
+                    "saves": 7
+                },
+                "green": {
+                    "hits": 4,
+                    "checked": 4,
+                    "posessions": 11,
+                    "pipehits": 3,
+                    "goals": 2,
+                    "saves": 44
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "64732.27\tperiod-end\tserver\t-\t1\t2",
+            "period": 26,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 1,
+            "greenScore": 2,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 64732.27,
+            "endTime": 64732.27,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "green",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "68095.77\tperiod-end\tserver\t-\t14\t7",
+            "period": 27,
+            "blueTouches": [
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-request",
+                    "netid": "130",
+                    "time": 68044.45
+                },
                 {
                     "player": "WRAITH",
                     "part": "authority-closest",
-                    "netid": "11",
-                    "time": 339.4001
+                    "netid": "144",
+                    "time": 68053.71
+                },
+                {
+                    "player": "SPACECOW",
+                    "part": "authority-closest",
+                    "netid": "130",
+                    "time": 68070.03
                 }
             ],
-            "greenTouches": [],
-            "blueScore": 0,
-            "greenScore": 0,
-            "goals": [],
-            "pipeHits": [],
-            "startTime": 336.2995,
-            "endTime": 342.9286,
+            "greenTouches": [
+                {
+                    "player": "SirJames91",
+                    "part": "authority-closest",
+                    "netid": "138",
+                    "time": 68043.63
+                },
+                {
+                    "player": "u",
+                    "part": "authority-closest",
+                    "netid": "141",
+                    "time": 68067.28
+                },
+                {
+                    "player": "SirJames91",
+                    "part": "authority-closest",
+                    "netid": "138",
+                    "time": 68079.03
+                },
+                {
+                    "player": "u",
+                    "part": "authority-closest",
+                    "netid": "141",
+                    "time": 68084.49
+                }
+            ],
+            "blueScore": 14,
+            "greenScore": 7,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 42.51563
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 94.63281
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 249.6953
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 290.0156
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 312.8438
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 353.6797
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 391.4453
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 414.3828
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 439.2266
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 463.0313
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 474.8594
+                },
+                {
+                    "team": "green",
+                    "scorer": "",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 518.6094
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 538.2656
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 552.9609
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 640.2969
+                },
+                {
+                    "team": "green",
+                    "scorer": "SirJames91",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 724.9453
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 739.75
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 781.3984
+                },
+                {
+                    "team": "blue",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 888.5781
+                },
+                {
+                    "team": "green",
+                    "scorer": "u",
+                    "primaryassist": "SirJames91",
+                    "secondaryassist": "",
+                    "time": 1114.516
+                },
+                {
+                    "team": "blue",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1141.727
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 2205.989999999998,
+                    "team": "blue"
+                },
+                {
+                    "time": 2281.810000000005,
+                    "team": "blue"
+                },
+                {
+                    "time": 2281.8199999999997,
+                    "team": "blue"
+                },
+                {
+                    "time": 2292.1800000000003,
+                    "team": "green"
+                },
+                {
+                    "time": 2292.209999999999,
+                    "team": "green"
+                },
+                {
+                    "time": 2331.2200000000084,
+                    "team": "green"
+                },
+                {
+                    "time": 2366.760000000002,
+                    "team": "green"
+                },
+                {
+                    "time": 2366.780000000006,
+                    "team": "green"
+                },
+                {
+                    "time": 2602.709999999999,
+                    "team": "green"
+                },
+                {
+                    "time": 2602.7200000000084,
+                    "team": "green"
+                },
+                {
+                    "time": 2691.659999999996,
+                    "team": "green"
+                },
+                {
+                    "time": 2691.6800000000003,
+                    "team": "green"
+                },
+                {
+                    "time": 2888.4400000000096,
+                    "team": "blue"
+                }
+            ],
+            "startTime": 64732.27,
+            "endTime": 68095.77,
             "periodOver": true,
             "players": {
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 12,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 11,
+                    "checked": 11,
+                    "posessions": 55,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "green",
+                    "goals": 5,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 0,
+                    "checked": 0,
+                    "posessions": 0,
+                    "pipehits": 13,
+                    "periods": 1
+                },
+                "MatthewH30": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 3,
+                    "checked": 2,
+                    "posessions": 6,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SirJames91": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 8,
+                    "checked": 9,
+                    "posessions": 31,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "u": {
+                    "team": "green",
+                    "goals": 1,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 3,
+                    "checked": 3,
+                    "posessions": 27,
+                    "pipehits": 0,
+                    "periods": 1
+                },
                 "WRAITH": {
                     "team": "blue",
+                    "goals": 2,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 3,
+                    "checked": 3,
+                    "posessions": 10,
+                    "pipehits": 0,
+                    "periods": 1
+                }
+            },
+            "winTeam": "blue",
+            "teams": {
+                "blue": {
+                    "hits": 14,
+                    "checked": 14,
+                    "posessions": 65,
+                    "pipehits": 4,
+                    "goals": 14,
+                    "saves": 29
+                },
+                "green": {
+                    "hits": 14,
+                    "checked": 14,
+                    "posessions": 64,
+                    "pipehits": 9,
+                    "goals": 7,
+                    "saves": 50
+                }
+            },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "69134.85\tperiod-end\tserver\tearly\t9\t8",
+            "period": 28,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 9,
+            "greenScore": 8,
+            "goals": [
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "u",
+                    "secondaryassist": "",
+                    "time": 33.92969
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 45.5625
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 106.3594
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 164.9141
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 176.5938
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 189.1094
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 362.3281
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "SirJames91",
+                    "secondaryassist": "",
+                    "time": 379.6953
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "SirJames91",
+                    "secondaryassist": "",
+                    "time": 483.0313
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 561.8125
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "SirJames91",
+                    "secondaryassist": "",
+                    "time": 752.7266
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 834.9766
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "SirJames91",
+                    "secondaryassist": "",
+                    "time": 902.9297
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 914.1641
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 931.2813
+                },
+                {
+                    "team": "green",
+                    "scorer": "WRAITH",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 950.1953
+                },
+                {
+                    "team": "blue",
+                    "scorer": "SPACECOW",
+                    "primaryassist": "",
+                    "secondaryassist": "",
+                    "time": 1035.664
+                }
+            ],
+            "pipehits": [
+                {
+                    "time": 33.86000000000058,
+                    "team": "blue"
+                },
+                {
+                    "time": 33.86999999999534,
+                    "team": "blue"
+                },
+                {
+                    "time": 164.90999999998894,
+                    "team": "blue"
+                },
+                {
+                    "time": 293.1900000000023,
+                    "team": "green"
+                },
+                {
+                    "time": 293.3899999999994,
+                    "team": "green"
+                },
+                {
+                    "time": 294.75999999999476,
+                    "team": "green"
+                },
+                {
+                    "time": 294.77999999999884,
+                    "team": "green"
+                },
+                {
+                    "time": 362.179999999993,
+                    "team": "blue"
+                },
+                {
+                    "time": 871.0699999999924,
+                    "team": "blue"
+                },
+                {
+                    "time": 902.8199999999924,
+                    "team": "green"
+                },
+                {
+                    "time": 902.8399999999965,
+                    "team": "green"
+                },
+                {
+                    "time": 914.1299999999901,
+                    "team": "green"
+                }
+            ],
+            "startTime": 68095.77,
+            "endTime": 69134.85,
+            "periodOver": true,
+            "players": {
+                "SPACECOW": {
+                    "team": "blue",
+                    "goals": 9,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 14,
+                    "checked": 14,
+                    "posessions": 57,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "SirJames91": {
+                    "team": "blue",
+                    "goals": 0,
+                    "primaryassists": 4,
+                    "secondaryassists": 0,
+                    "hits": 6,
+                    "checked": 9,
+                    "posessions": 41,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "u": {
+                    "team": "green",
+                    "goals": 0,
+                    "primaryassists": 1,
+                    "secondaryassists": 0,
+                    "hits": 4,
+                    "checked": 3,
+                    "posessions": 28,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "WRAITH": {
+                    "team": "green",
+                    "goals": 8,
+                    "primaryassists": 0,
+                    "secondaryassists": 0,
+                    "hits": 18,
+                    "checked": 16,
+                    "posessions": 39,
+                    "pipehits": 0,
+                    "periods": 1
+                },
+                "": {
+                    "team": "",
                     "goals": 0,
                     "primaryassists": 0,
                     "secondaryassists": 0,
                     "hits": 0,
                     "checked": 0,
-                    "posessions": 2,
-                    "pipehits": 0,
+                    "posessions": 0,
+                    "pipehits": 12,
                     "periods": 1
                 }
             },
-            "winTeam": "",
+            "winTeam": "blue",
             "teams": {
                 "blue": {
-                    "hits": 0,
-                    "checked": 0,
-                    "posessions": 2,
-                    "pipehits": 0,
-                    "goals": 0
+                    "hits": 20,
+                    "checked": 22,
+                    "posessions": 96,
+                    "pipehits": 5,
+                    "goals": 9,
+                    "saves": 36
+                },
+                "green": {
+                    "hits": 22,
+                    "checked": 20,
+                    "posessions": 69,
+                    "pipehits": 7,
+                    "goals": 8,
+                    "saves": 17
                 }
             },
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "69295.73\tperiod-end\tserver\t-\t9\t8",
+            "period": 29,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 9,
+            "greenScore": 8,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 69137.3,
+            "endTime": 69295.73,
+            "periodOver": true,
+            "players": {},
+            "winTeam": "blue",
+            "teams": {},
+            "lastTimestamp": -1
+        },
+        {
+            "lastLine": "71245.97\tdisconnect\tserver\tBoom_Ya",
+            "period": 30,
+            "blueTouches": [],
+            "greenTouches": [],
+            "blueScore": 0,
+            "greenScore": 0,
+            "goals": [],
+            "pipehits": [],
+            "startTime": 70679.14,
+            "endTime": 0,
+            "periodOver": false,
+            "players": {},
+            "winTeam": "",
+            "teams": {},
             "lastTimestamp": -1
         }
     ],
     "totals": {
         "players": {
-            "WRAITH": {
+            "Mr.JassiSingh": {
                 "team": "",
-                "goals": 10,
-                "primaryassists": 1,
+                "goals": 0,
+                "primaryassists": 0,
                 "secondaryassists": 0,
-                "hits": 221,
-                "checked": 168,
-                "posessions": 203,
+                "hits": 0,
+                "checked": 0,
+                "posessions": 1,
                 "pipehits": 0,
-                "periods": 9
+                "periods": 1
             },
-            "nb28": {
+            "tk.adolphe": {
                 "team": "",
-                "goals": 27,
-                "primaryassists": 8,
-                "secondaryassists": 1,
-                "hits": 257,
-                "checked": 345,
-                "posessions": 269,
-                "pipehits": 0,
-                "periods": 7
-            },
-            "SPACECOW": {
-                "team": "",
-                "goals": 29,
-                "primaryassists": 10,
+                "goals": 0,
+                "primaryassists": 0,
                 "secondaryassists": 0,
-                "hits": 209,
-                "checked": 409,
-                "posessions": 302,
+                "hits": 0,
+                "checked": 0,
+                "posessions": 2,
                 "pipehits": 0,
-                "periods": 10
+                "periods": 1
             },
             "": {
                 "team": "",
-                "goals": 10,
+                "goals": 31,
                 "primaryassists": 0,
                 "secondaryassists": 0,
                 "hits": 0,
                 "checked": 0,
                 "posessions": 0,
-                "pipehits": 0,
-                "periods": 5
+                "pipehits": 111,
+                "periods": 15
             },
-            "get on discord": {
+            "UNKNOWN_PLAYER": {
                 "team": "",
-                "goals": 7,
-                "primaryassists": 10,
+                "goals": 5,
+                "primaryassists": 0,
                 "secondaryassists": 0,
-                "hits": 403,
-                "checked": 363,
-                "posessions": 285,
+                "hits": 16,
+                "checked": 17,
+                "posessions": 24,
                 "pipehits": 0,
-                "periods": 6
+                "periods": 4
             },
-            "StephenSeven": {
-                "team": "",
-                "goals": 4,
-                "primaryassists": 4,
-                "secondaryassists": 1,
-                "hits": 128,
-                "checked": 171,
-                "posessions": 136,
-                "pipehits": 0,
-                "periods": 2
-            },
-            "nitr0": {
+            "SirJames91": {
                 "team": "",
                 "goals": 1,
-                "primaryassists": 1,
+                "primaryassists": 5,
                 "secondaryassists": 0,
-                "hits": 229,
-                "checked": 115,
-                "posessions": 144,
+                "hits": 14,
+                "checked": 18,
+                "posessions": 78,
                 "pipehits": 0,
                 "periods": 3
             },
-            "bigbootyjudy": {
+            "£agles": {
                 "team": "",
-                "goals": 6,
-                "primaryassists": 3,
+                "goals": 10,
+                "primaryassists": 4,
                 "secondaryassists": 0,
-                "hits": 180,
-                "checked": 78,
-                "posessions": 109,
-                "pipehits": 0,
-                "periods": 3
-            },
-            "watermelon": {
-                "team": "",
-                "goals": 2,
-                "primaryassists": 1,
-                "secondaryassists": 0,
-                "hits": 69,
-                "checked": 47,
-                "posessions": 80,
-                "pipehits": 0,
+                "hits": 39,
+                "checked": 42,
+                "posessions": 84,
+                "pipehits": 3,
                 "periods": 2
             },
-            "wraithwon": {
+            "\"val.rus.777\"": {
+                "team": "",
+                "goals": 2,
+                "primaryassists": 3,
+                "secondaryassists": 0,
+                "hits": 50,
+                "checked": 50,
+                "posessions": 40,
+                "pipehits": 1,
+                "periods": 2
+            },
+            "GoranJunior": {
+                "team": "",
+                "goals": 14,
+                "primaryassists": 1,
+                "secondaryassists": 0,
+                "hits": 37,
+                "checked": 34,
+                "posessions": 138,
+                "pipehits": 2,
+                "periods": 6
+            },
+            "WRAITH": {
+                "team": "",
+                "goals": 11,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 21,
+                "checked": 19,
+                "posessions": 53,
+                "pipehits": 0,
+                "periods": 3
+            },
+            "rocket54321": {
                 "team": "",
                 "goals": 0,
                 "primaryassists": 0,
@@ -2134,22 +3330,134 @@
                 "posessions": 3,
                 "pipehits": 0,
                 "periods": 1
+            },
+            "cjtwarrior08": {
+                "team": "",
+                "goals": 0,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 8,
+                "checked": 8,
+                "posessions": 4,
+                "pipehits": 0,
+                "periods": 1
+            },
+            "mini nasher35": {
+                "team": "",
+                "goals": 0,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 17,
+                "checked": 16,
+                "posessions": 12,
+                "pipehits": 0,
+                "periods": 1
+            },
+            "vector": {
+                "team": "",
+                "goals": 27,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 3,
+                "checked": 5,
+                "posessions": 110,
+                "pipehits": 0,
+                "periods": 3
+            },
+            "RyanHockey05": {
+                "team": "",
+                "goals": 1,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 5,
+                "checked": 3,
+                "posessions": 2,
+                "pipehits": 0,
+                "periods": 1
+            },
+            "MatthewH30": {
+                "team": "",
+                "goals": 7,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 3,
+                "checked": 2,
+                "posessions": 22,
+                "pipehits": 0,
+                "periods": 2
+            },
+            "ST0NY88": {
+                "team": "",
+                "goals": 2,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 3,
+                "checked": 3,
+                "posessions": 8,
+                "pipehits": 0,
+                "periods": 1
+            },
+            "get on discord": {
+                "team": "",
+                "goals": 1,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 0,
+                "checked": 0,
+                "posessions": 30,
+                "pipehits": 0,
+                "periods": 1
+            },
+            "nb28": {
+                "team": "",
+                "goals": 0,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 2,
+                "checked": 2,
+                "posessions": 3,
+                "pipehits": 0,
+                "periods": 1
+            },
+            "SPACECOW": {
+                "team": "",
+                "goals": 21,
+                "primaryassists": 0,
+                "secondaryassists": 0,
+                "hits": 25,
+                "checked": 25,
+                "posessions": 112,
+                "pipehits": 0,
+                "periods": 2
+            },
+            "u": {
+                "team": "",
+                "goals": 1,
+                "primaryassists": 1,
+                "secondaryassists": 0,
+                "hits": 7,
+                "checked": 6,
+                "posessions": 55,
+                "pipehits": 0,
+                "periods": 2
             }
         },
         "teams": {
             "blue": {
-                "hits": 727,
-                "checked": 917,
-                "posessions": 829,
-                "pipehits": 0,
-                "goals": 56
+                "hits": 121,
+                "checked": 127,
+                "posessions": 541,
+                "pipehits": 43,
+                "goals": 82,
+                "saves": 295
             },
             "green": {
-                "hits": 958,
-                "checked": 768,
-                "posessions": 702,
-                "pipehits": 0,
-                "goals": 40
+                "hits": 126,
+                "checked": 120,
+                "posessions": 240,
+                "pipehits": 74,
+                "goals": 52,
+                "saves": 352
             }
         }
     }

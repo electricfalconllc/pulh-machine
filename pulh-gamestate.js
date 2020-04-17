@@ -81,6 +81,13 @@ exports.NewPeriod = function(config) {
                     break;
                 case "period-start":
                     break;
+                case "disconnect":
+                    break;
+                case "join-team":
+                    break;
+                case "icing":
+                    this._handleIcing(line, timestamp);
+                    break;
                 case "log-started":
                     break;
                 case "faceoff":
@@ -104,6 +111,7 @@ exports.NewPeriod = function(config) {
                 posessions:0,
                 pipehits:0,
                 periods:1,
+                icing:0,
             };
             if (typeof this.state.players[name]=="undefined")
                 this.state.players[name]=z;
@@ -120,6 +128,7 @@ exports.NewPeriod = function(config) {
                 posessions:0,
                 pipehits:0,
                 goals:0,
+                icing:0,
                 saves:0,
             };
             if (typeof this.state.teams[name]=="undefined")
@@ -128,6 +137,12 @@ exports.NewPeriod = function(config) {
                 exports._totals.teams[name] = {};
                 Object.assign(exports._totals.teams[name], z);
             }
+        },
+        _handleIcing: function(line, timestamp) {
+            this._addTeamIfNotExist(getVal(line, 3));
+            this._addPlayerIfNotExist(getVal(line, 2));
+            this.state.teams[getVal(line, 3)].icing++;
+            this.state.players[getVal(line, 2)].icing++;
         },
         _handleGoalieHit: function(line, timestamp) {
             this._addTeamIfNotExist(getVal(line, 3));
