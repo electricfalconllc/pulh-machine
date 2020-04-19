@@ -73,9 +73,16 @@ function sendStatMessage(st) {
     chan.send("No completed periods available.");
     return;
   }
-  var s = prettify(st);
-  chan.send(s);
-  console.log(s);
+  var pc = 0;
+  for (var k in st.players) {
+    if (k!="")
+      pc++;
+  }
+  if (pc>=2) {
+    var s = prettify(st);
+    chan.send(s);
+    console.log(s);
+  }
 }
 
 function prettyline(wrap, l) {
