@@ -1,6 +1,8 @@
 var gs = require("./pulh-gamestate");
 var fs = require("fs");
 var Discord = require("discord.js");
+var querystring = require('querystring');
+var http = require('http');
 var client = new Discord.Client();
 
 /* Example config:
@@ -32,6 +34,33 @@ for (var i=0; i<log.length; i++)
   if (state.periodOver) {
     lastperiod = state;
     period = gs.NewPeriod(pdconfig);
+  }
+}
+
+//post to config urls for stat db
+function postStats(st) {
+  for (var i=0; i<config.postStatUrls.length; i++) {
+    var u = config.postStatUrls[i];
+    var post_data = querystring.stringify({
+      'server' : config.server,
+      'game': JSON.stringify(st),
+    });
+    var post_options = {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Content-Length': Buffer.byteLength(post_data)
+      }
+    };
+    var post_req = http.request(u, post_options, function(res) {
+      res.setEncoding('utf8');
+      res.on('data', function (chunk) {
+        // report errors in the future
+      });
+    });
+    
+    post_req.write(post_data);
+    post_req.end();
   }
 }
 
@@ -169,6 +198,7 @@ client.on("ready", async () => {
         state = period.ProcessLine(line);
         if (state.periodOver) {
             sendStatMessage(state);
+            postStats(state);
             lastperiod = state;
             period = gs.NewPeriod(pdconfig);
         }
