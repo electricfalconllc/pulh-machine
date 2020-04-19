@@ -135,16 +135,19 @@ function prettify(st) {
   if (toppointsp!="")
     s+=prettyline("*","Most Points: "+toppointsp+" - "+toppoints.toString());
   
-  s+=prettyline("","");
-  s+=prettyline("**","Team Stats");
-  s+=prettyline("","```");
-  s+=prettyline("","          |Blue    |Green   ");
-  s+=prettyline("","      Hits|"+colval(st.teams['blue'].hits)+"|"+colval(st.teams['green'].hits));
-  s+=prettyline("","Posessions|"+colval(st.teams['blue'].posessions)+"|"+colval(st.teams['green'].posessions));
-  s+=prettyline(""," Pipe Hits|"+colval(st.teams['blue'].pipehits)+"|"+colval(st.teams['green'].pipehits));
-  s+=prettyline("","     Icing|"+colval(st.teams['blue'].icing)+"|"+colval(st.teams['green'].icing));
-  s+=prettyline("","     Saves|"+colval(st.teams['blue'].saves)+"|"+colval(st.teams['green'].saves));
-  s+=prettyline("","```");
+  if (st.teams['blue'] && st.teams['green'])
+  {
+    s+=prettyline("","");
+    s+=prettyline("**","Team Stats");
+    s+=prettyline("","```");
+    s+=prettyline("","          |Blue    |Green   ");
+    s+=prettyline("","      Hits|"+colval(st.teams['blue'].hits)+"|"+colval(st.teams['green'].hits));
+    s+=prettyline("","Posessions|"+colval(st.teams['blue'].posessions)+"|"+colval(st.teams['green'].posessions));
+    s+=prettyline(""," Pipe Hits|"+colval(st.teams['blue'].pipehits)+"|"+colval(st.teams['green'].pipehits));
+    s+=prettyline("","     Icing|"+colval(st.teams['blue'].icing)+"|"+colval(st.teams['green'].icing));
+    s+=prettyline("","     Saves|"+colval(st.teams['blue'].saves)+"|"+colval(st.teams['green'].saves));
+    s+=prettyline("","```");
+  }
 
   s+=prettyline("**","Player Stats");
   s+=prettyline("","```");
