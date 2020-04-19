@@ -9,7 +9,10 @@ var client = new Discord.Client();
 {
   "channelId":"channel-id-from-discord-here",
   "login":"bot-token-goes-here",
-  "server":"naeast2"
+  "server":"naeast2",
+  "postStatUrls":[
+    "http://www.mystatserver.net/pickuphockey/save_game"
+  ]
 }
 */
 var config = JSON.parse(fs.readFileSync('./botconfig.json'));
