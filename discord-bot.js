@@ -12,10 +12,12 @@ var client = new Discord.Client();
   "server":"naeast2",
   "postStatUrls":[
     "http://www.mystatserver.net/pickuphockey/save_game"
-  ]
+  ],
+  "enableLeaderboards": false
 }
 */
 var config = JSON.parse(fs.readFileSync('./botconfig.json'));
+if (typeof config.enableLeaderboards=="undefined") config.enableLeaderboards=false;
 var logfilepath = '../pulh-event-log.txt';
 
 var pdconfig = {
@@ -187,6 +189,76 @@ String.prototype.rpad = function(padString, length) {
   return str;
 }
 
+function sendLeaders() {
+  var s="";
+  http.get("http://www.electricfalcon.net/pickuphockey/servers/lb/",(res)=>{
+    res.setEncoding('utf8');
+    var body="";
+    res.on('data', (chunk) => { body += chunk; });
+    res.on('end', () => {
+      try {
+        body = JSON.parse(body);
+
+        s+="-\n**Weekly Goal Leaders**\n```\n";
+        for (var i = 0; i < body.goals.length; i++)
+        {
+          s += colvall(body.goals[i].player.substring(0,20),20) + " | " + body.goals[i].goals + "\n";
+        }
+        s+="```";
+
+        s+="\n**Weekly Assist Leaders**\n```\n";
+        for (var i = 0; i < body.assists.length; i++)
+        {
+          s += colvall(body.assists[i].player.substring(0,20),20) + " | " + body.assists[i].assists + "\n";
+        }
+        s+="```";
+
+        s+="\n**Weekly Point Leaders**\n```\n";
+        for (var i = 0; i < body.points.length; i++)
+        {
+          s += colvall(body.points[i].player.substring(0,20),20) + " | " + body.points[i].points + "\n";
+        }
+        s+="```";
+
+        chan.send(s);
+        //console.log(s);
+      } catch (e) {
+        console.error(e.message);
+      }
+    });
+  });
+}
+
+function sendPlayer(total, pname) {
+  var s="";
+
+  var url="http://www.electricfalcon.net/pickuphockey/servers/lb/ptotal.php?player="+pname;
+  if (!total)
+	url="http://www.electricfalcon.net/pickuphockey/servers/lb/pweek.php?player="+pname;
+
+  http.get(url,(res)=>{
+    res.setEncoding('utf8');
+    var body="";
+    res.on('data', (chunk) => { body += chunk; });
+    res.on('end', () => {
+      try {
+        body = JSON.parse(body);
+		var title="Total";
+		if (!total)
+			title="Weekly";
+        s+="-\n**"+title+" Stats For: "+pname+"**\n```\n";
+        s+="Goals: "+body.goals+"\n";
+		s+="Assists: "+body.assists+"\n";
+		s+="Points: "+body.points+"\n";
+        s+="```";
+        chan.send(s);
+      } catch (e) {
+        console.error(e.message);
+      }
+    });
+  });
+}
+
 //connect to discord channel
 client.on("ready", async () => {
   console.log("I am ready!");
@@ -227,6 +299,18 @@ client.on("message", async message => {
 
   if(message.content === "!stats "+config.server) {
 	  sendStatMessage(lastperiod);
+  }
+
+  if(message.content === "!leaderboards") {
+	  sendLeaders();
+  }
+  
+  if(message.content.indexOf("!player-total") === 0) {
+	  sendPlayer(true, message.content.substring("!player-total".length+1));
+  }
+  
+  if(message.content.indexOf("!player-week") === 0) {
+	  sendPlayer(false, message.content.substring("!player-week".length+1));
   }
 });
 
