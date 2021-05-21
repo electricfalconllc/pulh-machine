@@ -301,15 +301,15 @@ client.on("message", async message => {
 	  sendStatMessage(lastperiod);
   }
 
-  if(message.content === "!leaderboards") {
+  if(message.content === "!leaderboards" && config.enableLeaderboards) {
 	  sendLeaders();
   }
   
-  if(message.content.indexOf("!player-total") === 0) {
+  if(message.content.indexOf("!player-total") === 0 && config.enableLeaderboards) {
 	  sendPlayer(true, message.content.substring("!player-total".length+1));
   }
   
-  if(message.content.indexOf("!player-week") === 0) {
+  if(message.content.indexOf("!player-week") === 0 && config.enableLeaderboards) {
 	  sendPlayer(false, message.content.substring("!player-week".length+1));
   }
 });
